@@ -8,7 +8,7 @@
   };
 
   outputs = { self, nixpkgs, brockman, nixinate }: {
-    apps = nixinate.nixinate.x86_64-linux self // {
+    apps.x86_64-linux = nixinate.nixinate.x86_64-linux self // {
       deploy-brockman = let
         pkgs = nixpkgs.legacyPackages.x86_64-linux;
       in {
