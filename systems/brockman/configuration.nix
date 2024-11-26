@@ -8,6 +8,7 @@ in {
     ./hardware-configuration.nix
     ./networking.nix # generated at runtime by nixos-infect
     ../../configs/brockman.nix
+    ../../configs/admin-essentials.nix
   ];
 
   boot.tmp.cleanOnBoot = true;
