@@ -1,4 +1,4 @@
-{ pkgs, ... }:
+{ config, pkgs, ... }:
 let
   rss-bridge-url = "rss-bridge.brockman.news";
   rss-bridge-endpoint = "https://${rss-bridge-url}";
@@ -14,18 +14,14 @@ in
         rss-bridge-url
       ];
     };
+    "go.brockman.news" = {
+      locations."/".proxyPass = "http://127.0.0.1:${toString config.krebs.go.port}/";
+    };
     "brockman.news" = {
-      serverAliases = [
-        "brockman.news"
-      ];
-      locations."/api".extraConfig = ''
-        proxy_pass http://127.0.0.1:7777/;
-        proxy_pass_header Server;
-      '';
-      locations."/".extraConfig = ''
-        root /var/lib/brockman;
-        index brockman.json;
-      '';
+      locations."/api".proxyPass = "http://127.0.0.1:7777/";
+      locations."= /brockman.json" = {
+        root = "/var/lib/brockman/";
+      };
       extraConfig = ''
         add_header 'Access-Control-Allow-Origin' '*';
         add_header 'Access-Control-Allow-Methods' 'GET, POST, OPTIONS';
@@ -54,7 +50,7 @@ in
     config = {
       irc.host = "localhost";
       channel = "#all";
-      shortener = "http://go.r";
+      shortener = "http://go.brockman.news";
       controller = {
         nick = "brockman";
         extraChannels = [ "#all" ];
@@ -64,6 +60,7 @@ in
     };
   };
 
+  krebs.go.enable = true;
 
   krebs.reaktor2.api = {
     hostname = "localhost";
