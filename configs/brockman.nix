@@ -14,9 +14,6 @@ in
         rss-bridge-url
       ];
     };
-    "go.brockman.news" = {
-      locations."/".proxyPass = "http://127.0.0.1:${toString config.krebs.go.port}/";
-    };
     "brockman.news" = {
       locations."/api".proxyPass = "http://127.0.0.1:7777/";
       locations."= /brockman.json" = {
@@ -43,14 +40,13 @@ in
     history.enabled = false;
   };
   systemd.services.brockman.bindsTo = [ "ergochat.service" ];
-  systemd.services.brockman.serviceConfig.LimitNOFILE = 16384;
+  systemd.services.brockman.serviceConfig.LimitNOFILE = config.services.ergochat.openFilesLimit;
   systemd.services.brockman.environment.BROCKMAN_LOG_LEVEL = "DEBUG";
   services.brockman = {
     enable = true;
     config = {
       irc.host = "localhost";
       channel = "#all";
-      shortener = "http://go.brockman.news";
       controller = {
         nick = "brockman";
         extraChannels = [ "#all" ];
@@ -59,8 +55,6 @@ in
       bots = {};
     };
   };
-
-  krebs.go.enable = true;
 
   krebs.reaktor2.api = {
     hostname = "localhost";
