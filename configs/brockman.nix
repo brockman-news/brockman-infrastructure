@@ -13,13 +13,13 @@
     };
   };
   systemd.tmpfiles.rules = [
-    "d /var/lib/brockman 1750 brockman nginx -"
     "d /run/irc-api 1750 brockman nginx -"
   ];
 
   systemd.services.brockman.bindsTo = [ "ergochat.service" ];
   systemd.services.brockman.serviceConfig.LimitNOFILE = config.services.ergochat.openFilesLimit;
   systemd.services.brockman.environment.BROCKMAN_LOG_LEVEL = "DEBUG";
+
   services.brockman = {
     enable = true;
     config = {

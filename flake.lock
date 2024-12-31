@@ -6,11 +6,11 @@
         "nixpkgs": "nixpkgs"
       },
       "locked": {
-        "lastModified": 1735594358,
-        "narHash": "sha256-nef6kEU0+810VlKSyATNGEVC7cdbLkzSuWbzSw05WQs=",
+        "lastModified": 1735638351,
+        "narHash": "sha256-e9h0MmtZyqnZv4y+mHYxZYkgCK96+J3D8SWqwYWFZNc=",
         "owner": "kmein",
         "repo": "brockman",
-        "rev": "7a9152900a2c0531ebf70233682c557b8f571a21",
+        "rev": "d715a6c882a54d9ef68fd9045119d1e1a85ae4cc",
         "type": "github"
       },
       "original": {
@@ -89,11 +89,11 @@
         "nixpkgs": "nixpkgs_3"
       },
       "locked": {
-        "lastModified": 1735595602,
-        "narHash": "sha256-BrTs/UNslX0qwldVSbRiVx5+AaSmkFVjfQwnXvOnnMw=",
+        "lastModified": 1735597858,
+        "narHash": "sha256-+D7+/woUtfO0K6lD4bcyGLk3Quc38DkUyhQ9A2TpKc4=",
         "owner": "brockman-news",
         "repo": "go-shortener",
-        "rev": "4d7ec17e33454d38a33a9664c259f6334bc1e1c9",
+        "rev": "c06efb61e55483eb3292b4341db914a2ddf8a48b",
         "type": "github"
       },
       "original": {
