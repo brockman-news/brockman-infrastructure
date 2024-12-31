@@ -10,6 +10,10 @@ in {
     };
   };
 
+  # TODO serve stats of
+  # redis-go-shortener DBSIZE
+  # redis-go-shortener INFO memory
+
   services.go-shortener = {
     enable = true;
     endpoint = "http://${shortenerEndpoint}";

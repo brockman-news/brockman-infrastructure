@@ -3,7 +3,14 @@
 
   services.ergochat.enable = true;
   services.ergochat.openFilesLimit = 16384;
+  # TODO write MOTD
+  # TODO setup webirc
+  # TODO channels.default-modes https://github.com/ergochat/ergo/blob/375079e6360673d180ddfb1f4cc0a17d2c208c46/default.yaml#L638
+
   services.ergochat.settings = {
+    network.name = "brockman.news";
+    history.channel-length = 2048;
+    history.autoreplay-on-join = 2048;
     oper-classes = {
       chat-moderator = {
         title = "Chat Moderator";

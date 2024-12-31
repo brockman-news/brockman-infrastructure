@@ -18,7 +18,7 @@
 
   systemd.services.brockman.bindsTo = [ "ergochat.service" ];
   systemd.services.brockman.serviceConfig.LimitNOFILE = config.services.ergochat.openFilesLimit;
-  systemd.services.brockman.environment.BROCKMAN_LOG_LEVEL = "DEBUG";
+  # systemd.services.brockman.environment.BROCKMAN_LOG_LEVEL = "DEBUG";
 
   services.brockman = {
     enable = true;
