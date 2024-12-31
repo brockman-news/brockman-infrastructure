@@ -10,7 +10,7 @@
     go-shortener.url = "github:brockman-news/go-shortener";
   };
 
-  outputs = { self, nixpkgs, brockman, nixinate, stockholm, brockman-site, go-shortener }: {
+  outputs = inputs@{ self, nixpkgs, brockman, nixinate, stockholm, brockman-site, go-shortener }: {
     apps.x86_64-linux = nixinate.nixinate.x86_64-linux self // {
       deploy-brockman = let
         pkgs = nixpkgs.legacyPackages.x86_64-linux;
@@ -25,29 +25,13 @@
 
     nixosConfigurations = {
       brockman = nixpkgs.lib.nixosSystem rec {
+        specialArgs = { inherit inputs; };
         system = "aarch64-linux";
         modules = [
           systems/brockman/configuration.nix
-          brockman.nixosModule
-          ({config, ...}: {
-            imports = [ go-shortener.nixosModules.default ];
-
-            services.nginx.virtualHosts = {
-              ${config.services.go-shortener.endpoint} = {
-                locations."/".proxyPass = "http://127.0.0.1:${toString config.services.go-shortener.port}/";
-              };
-            };
-
-            services.go-shortener = {
-              enable = true;
-              endpoint = "go.brockman.news";
-              port = 8888;
-            };
-
-            services.brockman.config.shortener = "http://${config.services.go-shortener.endpoint}";
-          })
+          brockman.nixosModules.default
           stockholm.nixosModules.reaktor2
-          { nixpkgs.overlays = [ stockholm.overlays.default ]; } # for reaktor2 package
+          # { nixpkgs.overlays = [ stockholm.overlays.default ]; } # for reaktor2 package
           {
             networking = {
               firewall.allowedTCPPorts = [80 443];

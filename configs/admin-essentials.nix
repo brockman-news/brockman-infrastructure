@@ -2,6 +2,9 @@
 {
   environment.systemPackages =
     [
+      pkgs.vim
+      pkgs.jq
+
       pkgs.htop
       pkgs.w3m
       pkgs.wget
