@@ -18,6 +18,8 @@
     "d /run/irc-api 1750 brockman nginx -"
   ];
 
+  services.restic.backups.brockman.paths = [ "/var/lib/brockman" ];
+
   systemd.services.brockman.bindsTo = [ "ergochat.service" ];
   systemd.services.brockman.serviceConfig.LimitNOFILE = config.services.ergochat.openFilesLimit;
   # systemd.services.brockman.environment.BROCKMAN_LOG_LEVEL = "DEBUG";

@@ -20,6 +20,8 @@ in {
     openFirewall = true;
   };
 
+  services.restic.backups.brockman.paths = [ "/var/lib/redis-go-shortener" ];
+
   services.go-shortener = {
     enable = true;
     endpoint = "http://${shortenerEndpoint}";
