@@ -1,5 +1,7 @@
-{ config, pkgs, ... }:
+{ config, inputs, ... }:
 {
+  imports = [ inputs.brockman.nixosModules.default ];
+
   services.nginx.virtualHosts = {
     "brockman.news" = {
       locations."/api".proxyPass = "http://127.0.0.1:7777/";

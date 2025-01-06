@@ -29,7 +29,6 @@
         system = "aarch64-linux";
         modules = [
           systems/brockman/configuration.nix
-          brockman.nixosModules.default
           stockholm.nixosModules.reaktor2
           # { nixpkgs.overlays = [ stockholm.overlays.default ]; } # for reaktor2 package
           {
