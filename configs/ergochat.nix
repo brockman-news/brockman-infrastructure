@@ -4,7 +4,6 @@
   services.ergochat.enable = true;
   services.ergochat.openFilesLimit = 16384;
   # TODO write MOTD
-  # TODO setup webirc
   # TODO channels.default-modes https://github.com/ergochat/ergo/blob/375079e6360673d180ddfb1f4cc0a17d2c208c46/default.yaml#L638
 
   services.ergochat.settings = {

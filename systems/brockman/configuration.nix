@@ -8,6 +8,7 @@ in {
     ./hardware-configuration.nix
     ./networking.nix # generated at runtime by nixos-infect
     ../../configs/brockman.nix
+    ../../configs/thelounge.nix
     ../../configs/go-shortener.nix
     ../../configs/rss-bridge.nix
     ../../configs/ergochat.nix
