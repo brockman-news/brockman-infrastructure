@@ -12,6 +12,8 @@ in {
     ../../configs/rss-bridge.nix
     ../../configs/ergochat.nix
     ../../configs/admin-essentials.nix
+    ../../configs/monitoring.nix
+    ../../configs/brockman-site.nix
   ];
 
   boot.tmp.cleanOnBoot = true;

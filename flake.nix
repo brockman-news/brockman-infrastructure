@@ -32,23 +32,6 @@
           stockholm.nixosModules.reaktor2
           # { nixpkgs.overlays = [ stockholm.overlays.default ]; } # for reaktor2 package
           {
-            networking = {
-              firewall.allowedTCPPorts = [80 443];
-            };
-            security.acme = {
-              acceptTerms = true;
-              defaults.email = "2210.brockman@cock.li";
-            };
-            services.nginx = {
-              enable = true;
-              virtualHosts."brockman.news" = {
-                forceSSL = true;
-                enableACME = true;
-                root = brockman-site.packages.${system}.default;
-              };
-            };
-          }
-          {
               _module.args.nixinate = {
                 host = "brockman.news";
                 sshUser = "root";

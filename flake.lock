@@ -25,11 +25,11 @@
         "theme-terminimal": "theme-terminimal"
       },
       "locked": {
-        "lastModified": 1735492367,
-        "narHash": "sha256-ACZyzt5BCuvwFvCutLPvwkEbRB71ZX42Q/QC+/Xln4s=",
+        "lastModified": 1735653429,
+        "narHash": "sha256-ENLAQCzHV+9lzjluilt4/Db+q4b9sLawYTbVaKad2Mc=",
         "owner": "brockman-news",
         "repo": "brockman-site",
-        "rev": "c038b67bfe79b60535914691ee365341679eae42",
+        "rev": "f033825f077f2a5ba65c5b7e4bcdea1c0093926e",
         "type": "github"
       },
       "original": {

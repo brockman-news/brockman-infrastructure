@@ -14,6 +14,12 @@ in {
   # redis-go-shortener DBSIZE
   # redis-go-shortener INFO memory
 
+  services.prometheus.exporters.redis = {
+    enable = true;
+    port = 9121;
+    openFirewall = true;
+  };
+
   services.go-shortener = {
     enable = true;
     endpoint = "http://${shortenerEndpoint}";
