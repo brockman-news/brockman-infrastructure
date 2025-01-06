@@ -21,6 +21,8 @@
         tls = false;
         join = "#all";
       };
+      messageStorage = [];
+      maxHistory = 1000;
       leaveMessage = "brockman.news web IRC";
       lockNetwork = true;
       storagePolicy = {
