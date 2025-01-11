@@ -1,4 +1,4 @@
-{ config, inputs, ... }:
+{ config, pkgs, inputs, ... }:
 {
   imports = [ inputs.brockman.nixosModules.default ];
 
@@ -16,6 +16,10 @@
   };
   systemd.tmpfiles.rules = [
     "d /run/irc-api 1750 brockman nginx -"
+  ];
+
+  environment.systemPackages = [
+    pkgs.brockman-linkrot
   ];
 
   services.restic.backups.brockman.paths = [ "/var/lib/brockman" ];
