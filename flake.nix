@@ -8,40 +8,29 @@
     stockholm.url = "github:krebs/stockholm";
     brockman-site.url = "github:brockman-news/brockman-site";
     go-shortener.url = "github:brockman-news/go-shortener";
+    clan-core.url = "git+https://git.clan.lol/clan/clan-core";
+    clan-core.inputs.nixpkgs.follows = "nixpkgs";
   };
 
-  outputs = inputs@{ self, nixpkgs, brockman, nixinate, stockholm, brockman-site, go-shortener }: {
-    apps.x86_64-linux = nixinate.nixinate.x86_64-linux self // {
-      deploy-brockman = let
-        pkgs = nixpkgs.legacyPackages.x86_64-linux;
-      in {
-        type = "app";
-        program = toString (pkgs.writers.writeDash "deploy-brockman" ''
-          exec ${pkgs.nix}/bin/nix run .#nixinate.brockman --log-format internal-json 2>&1 \
-          | ${pkgs.nix-output-monitor}/bin/nom --json
-        '');
+  outputs = inputs@{ self, nixpkgs, brockman, nixinate, stockholm, brockman-site, clan-core, go-shortener }: let
+    clan = clan-core.lib.buildClan {
+      directory = self;
+      specialArgs = {inherit inputs;};
+      inventory.meta.name = "brockman";
+
+      machines = {
+        brockman = {
+          nixpkgs.hostPlatform = "aarch64-linux";
+          imports = [ systems/brockman/configuration.nix ];
+        };
       };
+    };
+  in {
+    devShells."x86_64-linux".default = nixpkgs.legacyPackages.x86_64-linux.mkShell {
+      packages = [ clan-core.packages."x86_64-linux".clan-cli ];
     };
 
-    nixosConfigurations = {
-      brockman = nixpkgs.lib.nixosSystem rec {
-        specialArgs = { inherit inputs; };
-        system = "aarch64-linux";
-        modules = [
-          systems/brockman/configuration.nix
-          stockholm.nixosModules.reaktor2
-          # { nixpkgs.overlays = [ stockholm.overlays.default ]; } # for reaktor2 package
-          {
-              _module.args.nixinate = {
-                host = "brockman.news";
-                sshUser = "root";
-                buildOn = "remote";
-                substituteOnTarget = true;
-                hermetic = false;
-              };
-            }
-        ];
-      };
-    };
+    nixosConfigurations = clan.nixosConfigurations;
+    inherit (clan) clanInternals;
   };
 }

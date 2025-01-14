@@ -18,6 +18,11 @@ in {
     ../../configs/brockman-site.nix
   ];
 
+  networking.hostName = "brockman";
+  networking.domain = "news";
+  clan.core.networking.targetHost = "${config.networking.hostName}.${config.networking.domain}";
+  networking.defaultGateway.interface = "eth0";
+
   boot.tmp.cleanOnBoot = true;
   zramSwap.enable = true;
 
@@ -32,9 +37,6 @@ in {
     passwordFile = toString resticPasswordFile;
     initialize = true;
   };
-  networking.hostName = "brockman";
-  networking.domain = "news";
-
   services.openssh.enable = true;
 
   users.users.root.openssh.authorizedKeys.keys = lib.attrValues sshKeys;
