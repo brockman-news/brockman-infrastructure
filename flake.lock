@@ -6,11 +6,11 @@
         "nixpkgs": "nixpkgs"
       },
       "locked": {
-        "lastModified": 1736884619,
-        "narHash": "sha256-ys6DA/t5tre0a4w6dD0vPDYvV03E0yJMV2ON8nGjDXY=",
+        "lastModified": 1736949887,
+        "narHash": "sha256-6DL3q/QIXFLCuATorvn6b1G4D7VxiEIcKnuWbJjI1Tw=",
         "owner": "kmein",
         "repo": "brockman",
-        "rev": "9111e01aab2e246402bf8bfd515872313531d135",
+        "rev": "d118789156cc6965887fefe70aa1acec37b4758d",
         "type": "github"
       },
       "original": {
