@@ -16,6 +16,7 @@ in {
     ../../configs/admin-essentials.nix
     ../../configs/monitoring.nix
     ../../configs/brockman-site.nix
+    ../../configs/brockman-api.nix
   ];
 
   networking.hostName = "brockman";
