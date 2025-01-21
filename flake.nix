@@ -4,15 +4,18 @@
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs?ref=nixos-24.11";
     brockman.url = "github:kmein/brockman";
-    nixinate.url = "github:matthewcroughan/nixinate";
-    stockholm.url = "github:krebs/stockholm";
+    brockman.inputs.nixpkgs.follows = "nixpkgs";
     brockman-site.url = "github:brockman-news/brockman-site";
+    brockman-site.inputs.nixpkgs.follows = "nixpkgs";
+    brockman-api.url = "github:brockman-news/brockman-api";
+    brockman-api.inputs.nixpkgs.follows = "nixpkgs";
     go-shortener.url = "github:brockman-news/go-shortener";
+    go-shortener.inputs.nixpkgs.follows = "nixpkgs";
     clan-core.url = "git+https://git.clan.lol/clan/clan-core";
     clan-core.inputs.nixpkgs.follows = "nixpkgs";
   };
 
-  outputs = inputs@{ self, nixpkgs, brockman, nixinate, stockholm, brockman-site, clan-core, go-shortener }: let
+  outputs = inputs@{ self, nixpkgs, clan-core, ... }: let
     clan = clan-core.lib.buildClan {
       directory = self;
       specialArgs = {inherit inputs;};
