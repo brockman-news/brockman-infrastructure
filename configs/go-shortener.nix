@@ -6,6 +6,8 @@ in {
 
   services.nginx.virtualHosts = {
     ${shortenerEndpoint} = {
+      forceSSL = true;
+      enableACME = true;
       locations."/".proxyPass = "http://127.0.0.1:${toString config.services.go-shortener.port}/";
     };
   };
@@ -24,9 +26,9 @@ in {
 
   services.go-shortener = {
     enable = true;
-    endpoint = "http://${shortenerEndpoint}";
+    endpoint = "https://${shortenerEndpoint}";
     port = 8888;
   };
 
-  services.brockman.config.shortener = "http://${shortenerEndpoint}";
+  services.brockman.config.shortener = "https://${shortenerEndpoint}";
 }
