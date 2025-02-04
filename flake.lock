@@ -50,11 +50,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1738417584,
-        "narHash": "sha256-9Rvxtn+urt9gM0/oVtcV9ShsZ7N6LFzcTwYnCXDVIyg=",
+        "lastModified": 1738698508,
+        "narHash": "sha256-daWvB4Ba2i7klSi57mWt3PnGygQzbha0syDBdDgx62M=",
         "owner": "brockman-news",
         "repo": "brockman-site",
-        "rev": "6b3e862955c9076af9d3faf245e107b926bfe0ba",
+        "rev": "5d5f86080fa588cc4b6964206329555de9b0b031",
         "type": "github"
       },
       "original": {
