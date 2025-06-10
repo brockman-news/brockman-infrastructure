@@ -2,7 +2,7 @@
   description = "Infrastructure for brockman.news";
 
   inputs = {
-    nixpkgs.url = "github:nixos/nixpkgs?ref=nixos-24.11";
+    nixpkgs.url = "github:nixos/nixpkgs?ref=nixos-25.05";
     brockman.url = "github:kmein/brockman";
     brockman.inputs.nixpkgs.follows = "nixpkgs";
     brockman-site.url = "github:brockman-news/brockman-site";
@@ -17,7 +17,7 @@
 
   outputs = inputs@{ self, nixpkgs, clan-core, ... }: let
     clan = clan-core.lib.buildClan {
-      directory = self;
+      inherit self;
       specialArgs = {inherit inputs;};
       inventory.meta.name = "brockman";
 

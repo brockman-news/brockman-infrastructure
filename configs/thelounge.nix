@@ -5,7 +5,7 @@
     port = 5079;
     public = true;
     plugins = [
-      pkgs.nodePackages.thelounge-theme-monokai-console
+      # pkgs.nodePackages.thelounge-theme-monokai-console
     ];
     extraConfig = {
       host = "127.0.0.1";
