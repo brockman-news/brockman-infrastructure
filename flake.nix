@@ -9,6 +9,8 @@
     brockman-site.inputs.nixpkgs.follows = "nixpkgs";
     brockman-api.url = "github:brockman-news/brockman-api";
     brockman-api.inputs.nixpkgs.follows = "nixpkgs";
+    brainmelter.url = "github:krebs/brainmelter";
+    brainmelter.inputs.nixpkgs.follows = "nixpkgs";
     go-shortener.url = "github:brockman-news/go-shortener";
     go-shortener.inputs.nixpkgs.follows = "nixpkgs";
     clan-core.url = "git+https://git.clan.lol/clan/clan-core";
@@ -24,7 +26,16 @@
       machines = {
         brockman = {
           nixpkgs.hostPlatform = "aarch64-linux";
-          imports = [ systems/brockman/configuration.nix ];
+          imports = [
+            systems/brockman/configuration.nix
+            inputs.brainmelter.nixosModules.brainmelter
+            {
+              services.brainmelter = {
+                enable = true;
+                hostname = "brainmelter.brockman.news";
+              };
+            }
+          ];
         };
       };
     };
