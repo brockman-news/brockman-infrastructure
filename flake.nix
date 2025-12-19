@@ -2,7 +2,7 @@
   description = "Infrastructure for brockman.news";
 
   inputs = {
-    nixpkgs.url = "github:nixos/nixpkgs?ref=nixos-25.05";
+    nixpkgs.url = "github:nixos/nixpkgs?ref=nixos-25.11";
     brockman.url = "github:kmein/brockman";
     brockman.inputs.nixpkgs.follows = "nixpkgs";
     brockman-site.url = "github:brockman-news/brockman-site";
@@ -18,7 +18,7 @@
   };
 
   outputs = inputs@{ self, nixpkgs, clan-core, ... }: let
-    clan = clan-core.lib.buildClan {
+    clan = clan-core.lib.clan {
       inherit self;
       specialArgs = {inherit inputs;};
       inventory.meta.name = "brockman";
@@ -40,11 +40,10 @@
       };
     };
   in {
+    clan = clan.config;
+    inherit (clan.config) clanInternals nixosConfigurations;
     devShells."x86_64-linux".default = nixpkgs.legacyPackages.x86_64-linux.mkShell {
       packages = [ clan-core.packages."x86_64-linux".clan-cli ];
     };
-
-    nixosConfigurations = clan.nixosConfigurations;
-    inherit (clan) clanInternals;
   };
 }

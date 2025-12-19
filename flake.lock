@@ -51,11 +51,11 @@
         "treefmt-nix": "treefmt-nix"
       },
       "locked": {
-        "lastModified": 1737498090,
-        "narHash": "sha256-OgwDU/vzPdWabt3wgiojiaGNgcKPWyhNN0ai1BIOTaE=",
+        "lastModified": 1766143117,
+        "narHash": "sha256-lwDRhCePG2OnQChhKoxOKOd8/SIKj+MOLdvXcjShfO8=",
         "owner": "brockman-news",
         "repo": "brockman-api",
-        "rev": "4ffbb4095aa6f3e61dae09edadafec1b4380ded4",
+        "rev": "45aadb30da2d4f1ad7c32e4ecec742806f642a2b",
         "type": "github"
       },
       "original": {
@@ -329,16 +329,16 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1766014764,
-        "narHash": "sha256-+73VffE5GP5fvbib6Hs1Su6LehG+9UV1Kzs90T2gBLA=",
+        "lastModified": 1765838191,
+        "narHash": "sha256-m5KWt1nOm76ILk/JSCxBM4MfK3rYY7Wq9/TZIIeGnT8=",
         "owner": "nixos",
         "repo": "nixpkgs",
-        "rev": "2b0d2b456e4e8452cf1c16d00118d145f31160f9",
+        "rev": "c6f52ebd45e5925c188d1a20119978aa4ffd5ef6",
         "type": "github"
       },
       "original": {
         "owner": "nixos",
-        "ref": "nixos-25.05",
+        "ref": "nixos-25.11",
         "repo": "nixpkgs",
         "type": "github"
       }
