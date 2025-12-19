@@ -31,7 +31,7 @@
             inputs.brainmelter.nixosModules.brainmelter
             {
               services.brainmelter = {
-                enable = true;
+                enable = false;
                 hostname = "brainmelter.brockman.news";
               };
             }
