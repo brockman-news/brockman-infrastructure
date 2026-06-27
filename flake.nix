@@ -2,7 +2,7 @@
   description = "Infrastructure for brockman.news";
 
   inputs = {
-    nixpkgs.url = "github:nixos/nixpkgs?ref=nixos-25.11";
+    nixpkgs.url = "github:nixos/nixpkgs?ref=nixos-26.05";
     brockman.url = "github:kmein/brockman";
     brockman.inputs.nixpkgs.follows = "nixpkgs";
     brockman-site.url = "github:brockman-news/brockman-site";
