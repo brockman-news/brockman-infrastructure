@@ -31,47 +31,41 @@
     };
   };
 
-  systemd.services.promtail = {
-    description = "Promtail service for Loki";
-    wantedBy = ["multi-user.target"];
-
-    serviceConfig = {
-      ExecStart = ''
-        ${pkgs.grafana-loki}/bin/promtail --config.file ${
-          (pkgs.formats.yaml {}).generate "promtail.yaml" {
-            server = {
-              http_listen_port = 28183;
-              grpc_listen_port = 0;
-            };
-            positions.filename = "/tmp/positions.yaml";
-            clients = [
-              {
-                url = "http://${
-                  if config.networking.hostName == "makanek"
-                  then "127.0.0.1"
-                  else "makanek.r"
-                }:3100/loki/api/v1/push";
-              }
-            ];
-            scrape_configs = [
-              {
-                job_name = "journal";
-                journal = {
-                  max_age = "12h";
-                  labels.job = "systemd-journal";
-                  labels.host = config.networking.hostName;
-                };
-                relabel_configs = [
-                  {
-                    source_labels = ["__journal__systemd_unit"];
-                    target_label = "unit";
-                  }
-                ];
-              }
-            ];
-          }
-        }
-      '';
-    };
+  services.alloy = {
+    enable = true;
+    extraFlags = [
+      "--server.http.listen-addr=127.0.0.1:28183"
+      "--storage.path=/var/lib/alloy"
+    ];
   };
+
+  environment.etc."alloy/config.alloy".text = ''
+    loki.write "default" {
+      endpoint {
+        url = "http://${
+          if config.networking.hostName == "makanek"
+          then "127.0.0.1"
+          else "makanek.r"
+        }:3100/loki/api/v1/push"
+      }
+    }
+
+    loki.relabel "journal" {
+      forward_to = []
+      rule {
+        source_labels = ["__journal__systemd_unit"]
+        target_label  = "unit"
+      }
+    }
+
+    loki.source.journal "read" {
+      forward_to    = [loki.write.default.receiver]
+      max_age       = "12h"
+      relabel_rules = loki.relabel.journal.rules
+      labels        = {
+        job  = "systemd-journal",
+        host = "${config.networking.hostName}",
+      }
+    }
+  '';
 }
