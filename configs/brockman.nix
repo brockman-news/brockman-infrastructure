@@ -4,7 +4,6 @@
 
   services.nginx.virtualHosts = {
     "brockman.news" = {
-      locations."/api".proxyPass = "http://127.0.0.1:7777/";
       locations."= /brockman.json" = {
         root = "/var/lib/brockman/";
       };
@@ -14,9 +13,8 @@
       '';
     };
   };
-  systemd.tmpfiles.rules = [
-    "d /run/irc-api 1750 brockman nginx -"
-  ];
+  # the brockman module creates /var/lib/brockman with homeMode 770; nginx serves brockman.json from there (used by brockman-site bots.html)
+  users.users.${config.services.nginx.user}.extraGroups = [ "brockman" ];
 
   environment.systemPackages = [
     pkgs.brockman-linkrot

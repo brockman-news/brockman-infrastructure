@@ -1,6 +1,12 @@
-{ pkgs, ... }:
+{ config, pkgs, ... }:
 {
-  networking.firewall.allowedTCPPorts = [6667];
+  networking.firewall.allowedTCPPorts = [6667 6697];
+
+  # ergochat runs with DynamicUser; the brockman.news ACME cert is group-readable by nginx
+  systemd.services.ergochat.serviceConfig.SupplementaryGroups = [ config.security.acme.certs."brockman.news".group ];
+  systemd.services.ergochat.wants = [ "acme-brockman.news.service" ];
+  systemd.services.ergochat.after = [ "acme-brockman.news.service" ];
+  security.acme.certs."brockman.news".reloadServices = [ "ergochat.service" ];
 
   services.ergochat.enable = true;
   services.ergochat.openFilesLimit = 16384;

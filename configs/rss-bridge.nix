@@ -5,14 +5,13 @@ in
 {
   services.rss-bridge = {
     enable = true;
+    virtualHost = rss-bridge-url;
     config.system.enabled_bridges = [ "*" ];
   };
-  services.nginx.virtualHosts = {
-    rss-bridge = {
-      serverAliases = [
-        rss-bridge-url
-      ];
-    };
+  # addSSL (not forceSSL): existing bots may still poll the plain http:// URL
+  services.nginx.virtualHosts.${rss-bridge-url} = {
+    addSSL = true;
+    enableACME = true;
   };
 
   /*
