@@ -31,13 +31,13 @@
       "locked": {
         "lastModified": 1749582467,
         "narHash": "sha256-SSNoXlydCJQq8pnoDyZOni8aXXdAnnPIH5SFy8GPiHU=",
-        "owner": "kmein",
+        "owner": "brockman-news",
         "repo": "brockman",
         "rev": "ae2b7a683773f1a6aaa93d4f44d7c1d650e6ffd2",
         "type": "github"
       },
       "original": {
-        "owner": "kmein",
+        "owner": "brockman-news",
         "repo": "brockman",
         "type": "github"
       }
