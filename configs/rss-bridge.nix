@@ -1,3 +1,4 @@
+{ pkgs, ... }:
 let
   rss-bridge-url = "rss-bridge.brockman.news";
   rss-bridge-endpoint = "https://${rss-bridge-url}";
@@ -6,7 +7,21 @@ in
   services.rss-bridge = {
     enable = true;
     virtualHost = rss-bridge-url;
+    # last release (2025-08-05) predates the YouTube fixes: empty feed on the intermittent
+    # videos.xml 404 (#5117), cookie consent bypass (#5140), new page layout (#4982)
+    package = pkgs.rss-bridge.overrideAttrs {
+      version = "2025-08-05-unstable-2026-10-19";
+      src = pkgs.fetchFromGitHub {
+        owner = "RSS-Bridge";
+        repo = "rss-bridge";
+        rev = "e57fc55e560bacd2947abbff3a6c7a0f335a87a8";
+        hash = "sha256-uCFMpgRVJwjHXAV7883CWop3e9nTiM3rxLHYLzecmFc=";
+      };
+    };
     config.system.enabled_bridges = [ "*" ];
+    # "feed" (default) turns errors into a daily-changing fake item that brockman posts as news;
+    # "http" makes them fetch errors, so brockman backs off instead
+    config.error.output = "http";
   };
   # addSSL (not forceSSL): existing bots may still poll the plain http:// URL
   services.nginx.virtualHosts.${rss-bridge-url} = {
