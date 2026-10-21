@@ -1,0 +1,62 @@
+name: update
+
+# Daily `nix flake update`. The new flake.lock is committed straight to master,
+# but only after the full brockman system built with it, so a broken update
+# never lands. The machine's autoUpgrade (02:00 UTC + up to 45min) deploys
+# master, so this runs well before that.
+#
+# Pushes use GITHUB_TOKEN, which does not trigger the CI workflow on push, so
+# CI is started explicitly via workflow_dispatch (the one event GITHUB_TOKEN
+# may trigger); it then shows up as a check on the pushed commit.
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # daily 00:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write # gh workflow run
+
+concurrency:
+  group: update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-24.04-arm
+    steps:
+      - uses: actions/checkout@v5
+      - uses: cachix/install-nix-action@v31
+        with:
+          github_access_token: ${{ github.token }}
+      - name: nix flake update
+        run: |
+          nix flake update 2>&1 | tee "$RUNNER_TEMP/update.log"
+          if git diff --quiet -- flake.lock; then
+            echo "flake.lock: no update"
+            echo "changed=false" >> "$GITHUB_ENV"
+          else
+            echo "changed=true" >> "$GITHUB_ENV"
+          fi
+      - name: build brockman
+        if: env.changed == 'true'
+        run: nix build -L --no-link .#nixosConfigurations.brockman.config.system.build.toplevel
+      - name: push to master
+        if: env.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          {
+            echo "flake.lock: update"
+            echo
+            sed -n '/^• /,$p' "$RUNNER_TEMP/update.log"
+          } > "$RUNNER_TEMP/msg"
+          git commit -F "$RUNNER_TEMP/msg" -- flake.lock
+          # fails if master moved during the build; the next run retries
+          git push origin HEAD:master
+      - name: run CI on the pushed commit
+        if: env.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run build.yml --ref master

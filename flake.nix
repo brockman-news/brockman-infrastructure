@@ -3,7 +3,7 @@
 
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs?ref=nixos-26.05";
-    brockman.url = "github:kmein/brockman";
+    brockman.url = "github:brockman-news/brockman";
     brockman.inputs.nixpkgs.follows = "nixpkgs";
     brockman-site.url = "github:brockman-news/brockman-site";
     brockman-site.inputs.nixpkgs.follows = "nixpkgs";
@@ -15,6 +15,9 @@
     go-shortener.inputs.nixpkgs.follows = "nixpkgs";
     clan-core.url = "git+https://git.clan.lol/clan/clan-core";
     clan-core.inputs.nixpkgs.follows = "nixpkgs";
+    # tracks master: releases are rare and lag behind bridge fixes (e.g. YouTube)
+    rss-bridge.url = "github:RSS-Bridge/rss-bridge";
+    rss-bridge.flake = false;
   };
 
   outputs = inputs@{ self, nixpkgs, clan-core, ... }: let
