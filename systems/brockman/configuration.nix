@@ -45,6 +45,12 @@ in {
     repository = "/backup";
     passwordFile = toString resticPasswordFile;
     initialize = true;
+    # without pruning the repo filled the root disk (654 snapshots, 135G by 2026-10)
+    pruneOpts = [
+      "--keep-daily 7"
+      "--keep-weekly 4"
+      "--keep-monthly 6"
+    ];
   };
   services.openssh.enable = true;
 
