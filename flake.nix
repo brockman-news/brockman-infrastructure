@@ -38,7 +38,8 @@
             {
               system.autoUpgrade = {
                 enable = true;
-                flake = self.outPath;
+                # self.outPath would rebuild the already-deployed config; pull master so pushes (incl. lock bumps) get deployed
+                flake = "github:brockman-news/brockman-infrastructure";
                 flags = [
                   "--print-build-logs"
                 ];

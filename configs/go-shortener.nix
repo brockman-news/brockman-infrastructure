@@ -23,6 +23,8 @@ in {
   };
 
   services.restic.backups.brockman.paths = [ "/var/lib/redis-go-shortener" ];
+  # in-progress BGSAVE files: unique garbage in every snapshot
+  services.restic.backups.brockman.exclude = [ "/var/lib/redis-go-shortener/temp-*.rdb" ];
 
   services.go-shortener = {
     enable = true;
