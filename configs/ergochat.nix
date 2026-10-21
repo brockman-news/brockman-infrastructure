@@ -18,8 +18,8 @@
     network.name = "brockman.news";
     history.channel-length = 2048;
     history.autoreplay-on-join = 2048;
-    listeners.":6667" = {};
-    listeners.":6697".tls = {
+    server.listeners.":6667" = {};
+    server.listeners.":6697".tls = {
       cert = "/var/lib/acme/brockman.news/fullchain.pem";
       key = "/var/lib/acme/brockman.news/key.pem";
     };
