@@ -5,8 +5,9 @@ name: update
 # never lands. The machine's autoUpgrade (02:00 UTC + up to 45min) deploys
 # master, so this runs well before that.
 #
-# Pushes use GITHUB_TOKEN, which does not trigger the CI workflow; the build
-# below is the check.
+# Pushes use GITHUB_TOKEN, which does not trigger the CI workflow on push, so
+# CI is started explicitly via workflow_dispatch (the one event GITHUB_TOKEN
+# may trigger); it then shows up as a check on the pushed commit.
 
 on:
   schedule:
@@ -15,6 +16,7 @@ on:
 
 permissions:
   contents: write
+  actions: write # gh workflow run
 
 concurrency:
   group: update
@@ -53,3 +55,8 @@ jobs:
           git commit -F "$RUNNER_TEMP/msg" -- flake.lock
           # fails if master moved during the build; the next run retries
           git push origin HEAD:master
+      - name: run CI on the pushed commit
+        if: env.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run build.yml --ref master
