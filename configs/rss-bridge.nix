@@ -1,4 +1,4 @@
-{ pkgs, ... }:
+{ pkgs, inputs, ... }:
 let
   rss-bridge-url = "rss-bridge.brockman.news";
   rss-bridge-endpoint = "https://${rss-bridge-url}";
@@ -7,16 +7,10 @@ in
   services.rss-bridge = {
     enable = true;
     virtualHost = rss-bridge-url;
-    # last release (2025-08-05) predates the YouTube fixes: empty feed on the intermittent
-    # videos.xml 404 (#5117), cookie consent bypass (#5140), new page layout (#4982)
+    # master from flake.lock (`nix flake update rss-bridge`), not the last release
     package = pkgs.rss-bridge.overrideAttrs {
-      version = "2025-08-05-unstable-2026-10-19";
-      src = pkgs.fetchFromGitHub {
-        owner = "RSS-Bridge";
-        repo = "rss-bridge";
-        rev = "e57fc55e560bacd2947abbff3a6c7a0f335a87a8";
-        hash = "sha256-uCFMpgRVJwjHXAV7883CWop3e9nTiM3rxLHYLzecmFc=";
-      };
+      version = "unstable-${builtins.substring 0 8 inputs.rss-bridge.lastModifiedDate}";
+      src = inputs.rss-bridge;
     };
     config.system.enabled_bridges = [ "*" ];
     # "feed" (default) turns errors into a daily-changing fake item that brockman posts as news;

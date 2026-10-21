@@ -335,7 +335,24 @@
         "brockman-site": "brockman-site",
         "clan-core": "clan-core",
         "go-shortener": "go-shortener",
-        "nixpkgs": "nixpkgs"
+        "nixpkgs": "nixpkgs",
+        "rss-bridge": "rss-bridge"
+      }
+    },
+    "rss-bridge": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1792430324,
+        "narHash": "sha256-uCFMpgRVJwjHXAV7883CWop3e9nTiM3rxLHYLzecmFc=",
+        "owner": "RSS-Bridge",
+        "repo": "rss-bridge",
+        "rev": "e57fc55e560bacd2947abbff3a6c7a0f335a87a8",
+        "type": "github"
+      },
+      "original": {
+        "owner": "RSS-Bridge",
+        "repo": "rss-bridge",
+        "type": "github"
       }
     },
     "sops-nix": {

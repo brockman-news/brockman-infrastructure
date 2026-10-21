@@ -15,6 +15,9 @@
     go-shortener.inputs.nixpkgs.follows = "nixpkgs";
     clan-core.url = "git+https://git.clan.lol/clan/clan-core";
     clan-core.inputs.nixpkgs.follows = "nixpkgs";
+    # tracks master: releases are rare and lag behind bridge fixes (e.g. YouTube)
+    rss-bridge.url = "github:RSS-Bridge/rss-bridge";
+    rss-bridge.flake = false;
   };
 
   outputs = inputs@{ self, nixpkgs, clan-core, ... }: let
