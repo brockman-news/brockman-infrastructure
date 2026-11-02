@@ -31,13 +31,13 @@
       "locked": {
         "lastModified": 1749582467,
         "narHash": "sha256-SSNoXlydCJQq8pnoDyZOni8aXXdAnnPIH5SFy8GPiHU=",
-        "owner": "kmein",
+        "owner": "brockman-news",
         "repo": "brockman",
         "rev": "ae2b7a683773f1a6aaa93d4f44d7c1d650e6ffd2",
         "type": "github"
       },
       "original": {
-        "owner": "kmein",
+        "owner": "brockman-news",
         "repo": "brockman",
         "type": "github"
       }
@@ -335,7 +335,24 @@
         "brockman-site": "brockman-site",
         "clan-core": "clan-core",
         "go-shortener": "go-shortener",
-        "nixpkgs": "nixpkgs"
+        "nixpkgs": "nixpkgs",
+        "rss-bridge": "rss-bridge"
+      }
+    },
+    "rss-bridge": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1792430324,
+        "narHash": "sha256-uCFMpgRVJwjHXAV7883CWop3e9nTiM3rxLHYLzecmFc=",
+        "owner": "RSS-Bridge",
+        "repo": "rss-bridge",
+        "rev": "e57fc55e560bacd2947abbff3a6c7a0f335a87a8",
+        "type": "github"
+      },
+      "original": {
+        "owner": "RSS-Bridge",
+        "repo": "rss-bridge",
+        "type": "github"
       }
     },
     "sops-nix": {

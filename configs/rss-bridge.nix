@@ -1,3 +1,4 @@
+{ pkgs, inputs, ... }:
 let
   rss-bridge-url = "rss-bridge.brockman.news";
   rss-bridge-endpoint = "https://${rss-bridge-url}";
@@ -6,7 +7,15 @@ in
   services.rss-bridge = {
     enable = true;
     virtualHost = rss-bridge-url;
+    # master from flake.lock (`nix flake update rss-bridge`), not the last release
+    package = pkgs.rss-bridge.overrideAttrs {
+      version = "unstable-${builtins.substring 0 8 inputs.rss-bridge.lastModifiedDate}";
+      src = inputs.rss-bridge;
+    };
     config.system.enabled_bridges = [ "*" ];
+    # "feed" (default) turns errors into a daily-changing fake item that brockman posts as news;
+    # "http" makes them fetch errors, so brockman backs off instead
+    config.error.output = "http";
   };
   # addSSL (not forceSSL): existing bots may still poll the plain http:// URL
   services.nginx.virtualHosts.${rss-bridge-url} = {

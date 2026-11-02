@@ -1,6 +1,7 @@
 name: CI
 on:
   push:
+  workflow_dispatch: # started by the update workflow after it pushed flake.lock
 
 jobs:
   build:
