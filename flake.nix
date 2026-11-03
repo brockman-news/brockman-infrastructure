@@ -9,7 +9,7 @@
     brockman-site.inputs.nixpkgs.follows = "nixpkgs";
     brockman-api.url = "github:brockman-news/brockman-api";
     brockman-api.inputs.nixpkgs.follows = "nixpkgs";
-    brainmelter.url = "github:krebs/brainmelter";
+    brainmelter.url = "github:brockman-news/brainmelter";
     brainmelter.inputs.nixpkgs.follows = "nixpkgs";
     go-shortener.url = "github:brockman-news/go-shortener";
     go-shortener.inputs.nixpkgs.follows = "nixpkgs";
@@ -31,13 +31,6 @@
           nixpkgs.hostPlatform = "aarch64-linux";
           imports = [
             systems/brockman/configuration.nix
-            inputs.brainmelter.nixosModules.brainmelter
-            {
-              services.brainmelter = {
-                enable = false;
-                hostname = "brainmelter.brockman.news";
-              };
-            }
             {
               system.autoUpgrade = {
                 enable = true;

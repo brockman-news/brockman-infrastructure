@@ -25,6 +25,7 @@ in {
     ../../configs/monitoring.nix
     ../../configs/brockman-site.nix
     ../../configs/brockman-api.nix
+    ../../configs/brainmelter.nix
   ];
 
   networking.hostName = "brockman";

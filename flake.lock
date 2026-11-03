@@ -8,15 +8,15 @@
         ]
       },
       "locked": {
-        "lastModified": 1750191647,
-        "narHash": "sha256-iEDAX+W/ilpm2sWrNZ0bezJFkg79NMd7myShtc9cl7U=",
-        "owner": "krebs",
+        "lastModified": 1792527036,
+        "narHash": "sha256-UMjlnlAtgqJHGTevVJOQAIvKtWxiZsdhRDobRIYuvpg=",
+        "owner": "brockman-news",
         "repo": "brainmelter",
-        "rev": "556cf56fcf17d2cea48951ffbfb18f92ad56bd2b",
+        "rev": "5d7eeab3e1673135c8034e438d4f0cdb9f3ef3b0",
         "type": "github"
       },
       "original": {
-        "owner": "krebs",
+        "owner": "brockman-news",
         "repo": "brainmelter",
         "type": "github"
       }
