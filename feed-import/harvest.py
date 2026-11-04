@@ -72,6 +72,12 @@ def main():
         data = fetch(f"{RAW}/plenaryapp/awesome-rss-feeds/master/{urllib.parse.quote(p)}", f"{SRC}/plenary/{p}")
         sources[f"awesome-rss-feeds/{p}"] = opml_urls(data)
 
+    # written by mediacloud.py (needs a Media Cloud token), one main feed per news outlet
+    mediacloud = f"{SRC}/mediacloud.txt"
+    if os.path.exists(mediacloud):
+        with open(mediacloud, "rb") as f:
+            sources["mediacloud"] = lines(f.read())
+
     with open("/tmp/brockman-state.json") as f:
         state = json.load(f)
     existing = {norm_key(b["feed"]) for b in state["bots"].values()}

@@ -1,4 +1,4 @@
-# written by run.sh; new-bots.json and retry-*.txt are tracked as the input for import.sh and the next batch
+# everything run.sh writes; batches that were imported are kept in imported/
 /sources/
 /bodies/
 /candidates.json
@@ -11,4 +11,8 @@
 /accepted.jsonl
 /content-dupes.jsonl
 /report.md
+/run.log
 /__pycache__/
+/new-bots.json
+/retry-429.txt
+/retry-unfinished.txt
