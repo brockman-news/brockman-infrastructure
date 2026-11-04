@@ -3,7 +3,7 @@
 
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs?ref=nixos-26.05";
-    brockman.url = "github:brockman-news/brockman/relaymsg";
+    brockman.url = "github:brockman-news/brockman/relaymsg-fetch-limits";
     brockman.inputs.nixpkgs.follows = "nixpkgs";
     brockman-site.url = "github:brockman-news/brockman-site";
     brockman-site.inputs.nixpkgs.follows = "nixpkgs";

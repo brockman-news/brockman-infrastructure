@@ -30,6 +30,8 @@ in
   systemd.services.brockman.serviceConfig.LoadCredential = [ "oper-password:${operDir}/password" ];
   systemd.services.brockman.requires = [ "brockman-oper-password.service" ];
   systemd.services.brockman.after = [ "brockman-oper-password.service" ];
+  # ~1.3 GB with 41k feeds in a local test; if that ever runs away, kill brockman (Restart=always) instead of swapping the host
+  systemd.services.brockman.serviceConfig.MemoryMax = "6G";
   # systemd.services.brockman.environment.BROCKMAN_LOG_LEVEL = "DEBUG";
 
   services.brockman = {

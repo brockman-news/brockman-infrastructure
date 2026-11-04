@@ -29,16 +29,16 @@
         ]
       },
       "locked": {
-        "lastModified": 1793735560,
-        "narHash": "sha256-AKrBF2ad/XC3mqgudtY3S6HfDRfwkEhyJsl/EgRCgLI=",
+        "lastModified": 1793785882,
+        "narHash": "sha256-ZZwFT9l7jVfTWnsNJcDO8XH/l/jZocSx9Ns6EB62KPc=",
         "owner": "brockman-news",
         "repo": "brockman",
-        "rev": "3bf0c8e3aa44a1d813a0f004e6853d19b6a5371c",
+        "rev": "0435a80e1587d6a6e4be77339452318fe5051c80",
         "type": "github"
       },
       "original": {
         "owner": "brockman-news",
-        "ref": "relaymsg",
+        "ref": "relaymsg-fetch-limits",
         "repo": "brockman",
         "type": "github"
       }
