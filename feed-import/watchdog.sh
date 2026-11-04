@@ -9,7 +9,8 @@ for _ in $(seq 180); do
   mem=$(( $(systemctl show brockman -p MemoryCurrent --value) / 1048576 ))
   echo "$(date +%T) avail=${avail}M brockman=${mem}M"
   if [ "$avail" -lt 2048 ]; then
-    backup=$(ls -t brockman_before-import_*.json | head -1)
+    # newest by the timestamp in the name: backups are made with cp -a, so their mtime is the old state's
+    backup=$(ls brockman_before-import_*.json | sort | tail -1)
     echo "low memory: restoring $backup"
     systemctl stop brockman
     cp -a brockman.json "brockman_rolled-back_$(date +%s).json"
