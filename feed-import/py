@@ -1,0 +1,3 @@
+#!/bin/sh
+# python with deps for the harvest/validate scripts
+exec nix shell --impure --expr 'with (builtins.getFlake "nixpkgs").legacyPackages.${builtins.currentSystem}; python3.withPackages (p: with p; [ aiohttp aiodns feedparser tldextract ])' -c python3 "$@"

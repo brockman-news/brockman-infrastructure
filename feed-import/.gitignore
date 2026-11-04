@@ -1,0 +1,14 @@
+# written by run.sh; new-bots.json and retry-*.txt are tracked as the input for import.sh and the next batch
+/sources/
+/bodies/
+/candidates.json
+/harvest-stats.json
+/results.jsonl
+/validate.log
+/validate-runs.jsonl
+/feedcheck
+/feedcheck.tsv
+/accepted.jsonl
+/content-dupes.jsonl
+/report.md
+/__pycache__/
