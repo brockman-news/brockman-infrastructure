@@ -8,11 +8,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1794336855,
-        "narHash": "sha256-VYDt78rortOE9M2gA8FS+Pkpgn8x7batCVML2ZqaDQ4=",
+        "lastModified": 1794337736,
+        "narHash": "sha256-GXwd0fn1D1CHCBJDESASQuVjuEmQgDaZmor7zEPFUCs=",
         "owner": "brockman-news",
         "repo": "brainmelter",
-        "rev": "0b567737e68bc86e28f5bb6d826ce88d19b7f235",
+        "rev": "39ddbe127ac4620c3926973c7803f468bc2fc7bd",
         "type": "github"
       },
       "original": {
@@ -343,11 +343,11 @@
     "rss-bridge": {
       "flake": false,
       "locked": {
-        "lastModified": 1794257420,
-        "narHash": "sha256-D1ilAMn1L4HueUe4itlm+GOVDvvi+GliVzXt+5qFkXg=",
+        "lastModified": 1794319353,
+        "narHash": "sha256-ZKbtVpgW4PpVTEpds8mdWIqQ6yjZo7Qeqx7PILyssa0=",
         "owner": "RSS-Bridge",
         "repo": "rss-bridge",
-        "rev": "55eb84cfc4195c4a08115b888d45985d3a831de7",
+        "rev": "7384f0a6d13f9c2d7776a4d71e8cb62bfeb77716",
         "type": "github"
       },
       "original": {
