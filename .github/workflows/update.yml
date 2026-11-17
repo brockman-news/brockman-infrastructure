@@ -17,6 +17,7 @@ on:
 permissions:
   contents: write
   actions: write # gh workflow run
+  statuses: write # the build check master requires
 
 concurrency:
   group: update
@@ -44,6 +45,8 @@ jobs:
         run: nix build -L --no-link .#nixosConfigurations.brockman.config.system.build.toplevel
       - name: push to master
         if: env.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -53,8 +56,15 @@ jobs:
             sed -n '/^• /,$p' "$RUNNER_TEMP/update.log"
           } > "$RUNNER_TEMP/msg"
           git commit -F "$RUNNER_TEMP/msg" -- flake.lock
+          # master requires a passing "build (brockman)" check on the pushed
+          # commit: put the commit on a side branch, mark it as built (the
+          # step above built the full system), then move master to it
+          git push -f origin HEAD:refs/heads/flake-update
+          gh api "repos/$GITHUB_REPOSITORY/statuses/$(git rev-parse HEAD)" \
+            -f state=success -f context="build (brockman)" -f description="full system built by the update workflow"
           # fails if master moved during the build; the next run retries
           git push origin HEAD:master
+          git push origin :refs/heads/flake-update
       - name: run CI on the pushed commit
         if: env.changed == 'true'
         env:
