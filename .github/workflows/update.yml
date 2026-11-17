@@ -2,8 +2,8 @@ name: update
 
 # Daily `nix flake update`. The new flake.lock is committed straight to master,
 # but only after the full brockman system built with it, so a broken update
-# never lands. The machine's autoUpgrade (02:00 UTC + up to 45min) deploys
-# master, so this runs well before that.
+# never lands. The machine deploys every new master commit within minutes
+# (configs/autoupgrade.nix).
 #
 # Pushes use GITHUB_TOKEN, which does not trigger the CI workflow on push, so
 # CI is started explicitly via workflow_dispatch (the one event GITHUB_TOKEN
