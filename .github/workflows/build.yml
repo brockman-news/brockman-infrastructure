@@ -1,6 +1,7 @@
 name: CI
 on:
   push:
+  pull_request: # PRs from forks; master requires this check before merging
   workflow_dispatch: # started by the update workflow after it pushed flake.lock
 
 jobs:
