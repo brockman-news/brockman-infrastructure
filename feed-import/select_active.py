@@ -4,7 +4,7 @@
   ./py select_active.py prepare [--news imported/2026-11-04-news.json ...]
       -> news-active/candidates.json: every Media Cloud feed of every outlet plus every live news bot's feed
   ./py validate.py --workdir news-active          (and the slow 429 / timeout passes with --workdir news-active)
-  ./py select_active.py select [--min-recent 10] [--prefer-best] [--unmapped keep|active|drop]
+  ./py select_active.py select [--min-recent 10] [--prefer-best] [--unmapped keep|active|drop] [--remove none|duplicates|all]
       -> news-active/changes.json, news-active/news-active.json, news-active/selection.jsonl, news-active/report.md
 
 News bots are the bots of the given import batches (imported/*-news.json) that are still live. Every other live
@@ -231,6 +231,13 @@ def select(args):
         else:
             keep[n] = news[n]
 
+    # by default nothing is removed: the threshold only decides new bots and URL changes
+    for n in list(remove):
+        reason = remove[n]
+        if args.remove == "none" or (args.remove == "duplicates" and reason != "second bot of the outlet"):
+            del remove[n]
+            keep[n] = news[n]
+
     plats = finalize.platforms([c["url"] for c in cands.values()] + [b["feed"] for b in state["bots"].values()])
     nicks = finalize.assign_nicks(list(add.values()), set(state["bots"]), plats)
     new_bots = OrderedDict((nicks[u], {"feed": u}) for u in sorted(add.values(), key=lambda u: nicks[u]))
@@ -279,7 +286,7 @@ def report(args, news, mapping, stats, keep, change, new_bots, remove, final, ro
     L = []
     w = L.append
     w("# News cleanup: one active feed per Media Cloud outlet\n")
-    w(f"Settings: >= {args.min_recent} items in 7 days, "
+    w(f"Settings: >= {args.min_recent} items in 7 days, removals: {args.remove}, "
       f"{'most active feed wins' if args.prefer_best else 'an active live feed is kept'}, unmapped bots: {args.unmapped}.\n")
     w(f"- Live news bots: **{len(news)}** → after the cleanup **{len(final)}**")
     w(f"- Kept unchanged: **{len(keep)}** (of them {sum(1 for n in keep if not mapping[n]['outlet'])} without a "
@@ -329,6 +336,9 @@ def main():
     s.add_argument("--min-recent", type=int, default=10)
     s.add_argument("--prefer-best", action="store_true")
     s.add_argument("--unmapped", choices=("keep", "active", "drop"), default="keep")
+    s.add_argument("--remove", choices=("none", "duplicates", "all"), default="none",
+                   help="which news bots to remove: none (default; the activity threshold only picks feeds for new "
+                        "bots and URL changes), duplicates (second bots of an outlet), all (also inactive outlets)")
     args = ap.parse_args()
     prepare(args) if args.cmd == "prepare" else select(args)
 
