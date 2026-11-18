@@ -5,6 +5,7 @@ Outputs:
   candidates.json  [{key, url, sources:[...]}]  (only NEW, non-YouTube, unique)
   harvest-stats.json  per-source counts
 """
+import argparse
 import html
 import json
 import os
@@ -53,6 +54,10 @@ def opml_urls(data):
 
 
 def main():
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--no-mediacloud", action="store_true",
+                    help="leave out sources/mediacloud.txt (news outlets are chosen by select_active.py instead)")
+    args = ap.parse_args()
     sources = OrderedDict()  # source name -> [urls]
     sources["kagi/smallweb"] = lines(fetch(f"{RAW}/kagisearch/smallweb/main/smallweb.txt", f"{SRC}/smallweb.txt"))
     sources["kagi/smallcomic"] = lines(fetch(f"{RAW}/kagisearch/smallweb/main/smallcomic.txt", f"{SRC}/smallcomic.txt"))
@@ -74,7 +79,7 @@ def main():
 
     # written by mediacloud.py (needs a Media Cloud token), one main feed per news outlet
     mediacloud = f"{SRC}/mediacloud.txt"
-    if os.path.exists(mediacloud):
+    if os.path.exists(mediacloud) and not args.no_mediacloud:
         with open(mediacloud, "rb") as f:
             sources["mediacloud"] = lines(f.read())
 
