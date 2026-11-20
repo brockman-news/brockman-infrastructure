@@ -1,0 +1,4724 @@
+{
+  "a1": {
+    "feed": "https://a1.ro/rss/"
+  },
+  "a1plus": {
+    "feed": "http://www.a1plus.am/feed"
+  },
+  "aa": {
+    "feed": "https://aa.com.tr/en/rss/default?cat=live"
+  },
+  "aajtak_in": {
+    "feed": "https://www.aajtak.in/rssfeeds/?id=home"
+  },
+  "aargauerzeitung": {
+    "feed": "https://www.aargauerzeitung.ch/schweiz-welt.rss"
+  },
+  "aawsat": {
+    "feed": "https://aawsat.com/feed"
+  },
+  "aba-net": {
+    "feed": "https://www.aba-net.com/news/rss/index.rdf"
+  },
+  "abclive": {
+    "feed": "http://abclive.in/feed"
+  },
+  "abola": {
+    "feed": "https://www.abola.pt/rss-articles.xml"
+  },
+  "abplive": {
+    "feed": "https://news.abplive.com/feed"
+  },
+  "abril": {
+    "feed": "http://veja.abril.com.br/rdf"
+  },
+  "abzas": {
+    "feed": "http://www.abzas.org/rss.xml"
+  },
+  "accramail": {
+    "feed": "https://accramail.com?feed=rss"
+  },
+  "actuniger": {
+    "feed": "https://www.actuniger.com/component/joomrss/sport.feed?Itemid=101"
+  },
+  "adalet": {
+    "feed": "https://www.adalet.az/az/feed"
+  },
+  "advancemonticellonian": {
+    "feed": "https://advancemonticellonian.com/browse.rss"
+  },
+  "afro": {
+    "feed": "https://www.afro.com/rss.xml"
+  },
+  "agenciainfomania": {
+    "feed": "http://agenciainfomania.com/rss"
+  },
+  "agos": {
+    "feed": "http://agos.com.tr/rss"
+  },
+  "agroekfrasi": {
+    "feed": "http://www.agroekfrasi.gr/rss"
+  },
+  "ahora": {
+    "feed": "https://ahora.com.pe/feed.xml"
+  },
+  "ahoracalafate": {
+    "feed": "https://ahoracalafate.com.ar/rss/general.xml"
+  },
+  "ajkerpatrika": {
+    "feed": "https://www.ajkerpatrika.com/feed/"
+  },
+  "akhbarachark": {
+    "feed": "https://akhbarachark.dz/feed/"
+  },
+  "akhbarlibya24": {
+    "feed": "http://www.akhbarlibya24.net/rss"
+  },
+  "akita-abs": {
+    "feed": "http://www.akita-abs.co.jp/rss.xml"
+  },
+  "akta": {
+    "feed": "https://www.akta.ba/rss"
+  },
+  "aktuality": {
+    "feed": "https://www.aktuality.sk/rss/"
+  },
+  "aktuality_sk": {
+    "feed": "https://www.aktuality.sk/rss/najcitanejsie/"
+  },
+  "al-tagheer": {
+    "feed": "http://www.al-tagheer.com/feed"
+  },
+  "alamosanews": {
+    "feed": "https://www.alamosanews.com/rss/articles"
+  },
+  "albertleatribune": {
+    "feed": "https://www.albertleatribune.com/rss.xml"
+  },
+  "albiladpress": {
+    "feed": "https://www.albiladpress.com/rss"
+  },
+  "algarvedailynews": {
+    "feed": "https://algarvedailynews.com/news?format=feed&type=rss"
+  },
+  "allcaribou": {
+    "feed": "https://allcaribou.com/feed/"
+  },
+  "alltimenews": {
+    "feed": "http://www.alltimenews.com/feed/"
+  },
+  "almamlakatv": {
+    "feed": "https://www.almamlakatv.com/rss.xml"
+  },
+  "almaty": {
+    "feed": "https://almaty.tv/news-ru.rss"
+  },
+  "almountakhab": {
+    "feed": "http://www.almountakhab.com/rss"
+  },
+  "althawrah": {
+    "feed": "http://althawrah.ye/rss"
+  },
+  "altoonamirror": {
+    "feed": "http://altoonamirror.com/rss"
+  },
+  "alwahdawi": {
+    "feed": "https://alwahdawi.net/rss_news/rss_2.xml"
+  },
+  "alwakaai": {
+    "feed": "https://alwakaai.com/feed"
+  },
+  "alwakeelnews": {
+    "feed": "https://www.alwakeelnews.com/rss"
+  },
+  "alwatan_sy": {
+    "feed": "http://alwatan.sy/rss"
+  },
+  "am": {
+    "feed": "http://www.am.com.mx?feed=rss"
+  },
+  "americatv": {
+    "feed": "https://www.americatv.com.pe/feed"
+  },
+  "amherststudent": {
+    "feed": "https://amherststudent.com/rss/"
+  },
+  "amprensa": {
+    "feed": "http://www.amprensa.com/feed/"
+  },
+  "angelusnews": {
+    "feed": "http://angelusnews.com/rss"
+  },
+  "angosturainforma": {
+    "feed": "https://www.angosturainforma.gob.ar/feed/"
+  },
+  "annabaa": {
+    "feed": "https://annabaa.org/feed"
+  },
+  "annahar": {
+    "feed": "http://annahar.com/rss"
+  },
+  "anp": {
+    "feed": "http://www.anp.ne/rss"
+  },
+  "anroca": {
+    "feed": "https://www.anroca.com.ar/rss/farandula"
+  },
+  "aostaoggi": {
+    "feed": "https://www.aostaoggi.it/rss1?format=feed&type=rss"
+  },
+  "aparadhbichitra": {
+    "feed": "https://aparadhbichitra.com/feed/"
+  },
+  "apradio": {
+    "feed": "http://apradio.org/feed/"
+  },
+  "aps": {
+    "feed": "http://www.aps.sn/rss.xml"
+  },
+  "apsnypress": {
+    "feed": "http://apsnypress.info/?format=feed&type=rss"
+  },
+  "aquiacontece": {
+    "feed": "http://aquiacontece.com.br?feed=rss"
+  },
+  "aquilanoticia": {
+    "feed": "http://www.aquilanoticia.com.ar/rss"
+  },
+  "aquitainepresse": {
+    "feed": "http://www.aquitainepresse.com/feed/"
+  },
+  "aradon": {
+    "feed": "https://www.aradon.ro/feed/"
+  },
+  "archive": {
+    "feed": "http://archive.org/services/collection-rss.php"
+  },
+  "argyllshireadvertiser": {
+    "feed": "http://www.argyllshireadvertiser.co.uk/rss"
+  },
+  "ariesonline": {
+    "feed": "https://ariesonline.com.ar/rss/general.xml"
+  },
+  "arizonaherald": {
+    "feed": "http://feeds.arizonaherald.com/rss/085cec8e58ce1f5a"
+  },
+  "arlnow": {
+    "feed": "https://www.arlnow.com/atom"
+  },
+  "armandaily": {
+    "feed": "http://armandaily.ir/rss"
+  },
+  "armenews": {
+    "feed": "https://www.armenews.com/feed/"
+  },
+  "armidaleexpress": {
+    "feed": "https://www.armidaleexpress.com.au/rss.xml"
+  },
+  "armradio": {
+    "feed": "https://en.armradio.am/feed/"
+  },
+  "arrowlakesnews": {
+    "feed": "http://www.arrowlakesnews.com/rdf"
+  },
+  "articapiv3": {
+    "feed": "https://articapiv3.eleco.com.ar/feed-notes"
+  },
+  "ashcroftcachecreekjournal": {
+    "feed": "https://www.ashcroftcachecreekjournal.com/rdf"
+  },
+  "asianage": {
+    "feed": "https://www.asianage.com/google_feeds.xml"
+  },
+  "asianfortunenews": {
+    "feed": "http://www.asianfortunenews.com/feed/"
+  },
+  "assayha": {
+    "feed": "https://www.assayha.net/rss"
+  },
+  "assets_censor": {
+    "feed": "https://assets.censor.net/rss/censor.net/rss_uk_news.xml"
+  },
+  "ata": {
+    "feed": "https://ata.gov.al/feed/"
+  },
+  "atalaiapop": {
+    "feed": "https://www.atalaiapop.com/rss.xml"
+  },
+  "atlantico_fr": {
+    "feed": "http://www.atlantico.fr/rss.xml"
+  },
+  "atlatszo": {
+    "feed": "http://atlatszo.hu/rss"
+  },
+  "atn": {
+    "feed": "http://atn.ua/rss"
+  },
+  "atv_hu": {
+    "feed": "http://atv.hu/rss"
+  },
+  "au-senegal": {
+    "feed": "https://www.au-senegal.com/spip.php?page=backend"
+  },
+  "autoplus": {
+    "feed": "http://autoplus.fr/rss"
+  },
+  "avisa-valdres": {
+    "feed": "https://www.avisa-valdres.no/service/rss"
+  },
+  "avonadvocate": {
+    "feed": "http://www.avonadvocate.com.au/rss.xml"
+  },
+  "avtoradio": {
+    "feed": "http://www.avtoradio.ru/vardata/modules/rss/data/aradionews.rss"
+  },
+  "ayna": {
+    "feed": "https://www.ayna.az/rss/category/dunya"
+  },
+  "az-online": {
+    "feed": "http://www.az-online.de/sport/rssfeed.rdf"
+  },
+  "ba": {
+    "feed": "https://www.ba.no/service/rss"
+  },
+  "babel": {
+    "feed": "https://babel.ua/rss.xml"
+  },
+  "babnet": {
+    "feed": "https://www.babnet.net/feed.php"
+  },
+  "bahamasspectator": {
+    "feed": "http://www.bahamasspectator.com/rss"
+  },
+  "bahrainmirror": {
+    "feed": "https://bahrainmirror.com/rss.xml"
+  },
+  "bakercityherald": {
+    "feed": "http://bakercityherald.com/rss"
+  },
+  "balipuspanews": {
+    "feed": "https://www.balipuspanews.com/rss"
+  },
+  "balita": {
+    "feed": "https://balita.com/rss"
+  },
+  "bama": {
+    "feed": "https://www.bama.hu/feed/"
+  },
+  "bana": {
+    "feed": "https://www.bana.co.ke/feed"
+  },
+  "bangkokpost": {
+    "feed": "https://www.bangkokpost.com/rss/data/most-recent.xml"
+  },
+  "bangladeshsun": {
+    "feed": "http://feeds.bangladeshsun.com/rss/ba01aa42514dc37d"
+  },
+  "banglatribune": {
+    "feed": "https://www.banglatribune.com/feed/"
+  },
+  "banoviny": {
+    "feed": "https://articles.banoviny.sk/feed/rss2?category=banoviny-1"
+  },
+  "baocantho": {
+    "feed": "https://baocantho.com.vn/rss/cate/thoi-su/"
+  },
+  "baophutho": {
+    "feed": "https://baophutho.vn/feed"
+  },
+  "baoquangninh_com_vn": {
+    "feed": "https://baoquangninh.com.vn/rss/news/podcast.rss"
+  },
+  "baoquangninh_news_phong-chong": {
+    "feed": "https://baoquangninh.com.vn/rss/news/phong-chong-tham-nhung.rss"
+  },
+  "baotreonline": {
+    "feed": "http://baotreonline.com/feed/"
+  },
+  "barbadosgazette": {
+    "feed": "http://www.barbadosgazette.com/rss"
+  },
+  "barilochedigital": {
+    "feed": "http://www.barilochedigital.com/rss"
+  },
+  "barometern": {
+    "feed": "https://www.barometern.se/rss"
+  },
+  "barranquerasonline": {
+    "feed": "http://barranquerasonline.com.ar/rss"
+  },
+  "bastidoresdopoder": {
+    "feed": "http://bastidoresdopoder.com.br?feed=rss"
+  },
+  "batamnews": {
+    "feed": "https://www.batamnews.co.id/rss.xml"
+  },
+  "baxterbulletin": {
+    "feed": "http://www.baxterbulletin.com/rss"
+  },
+  "bbci_world_us_and_canada": {
+    "feed": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml"
+  },
+  "bbv-net": {
+    "feed": "http://www.bbv-net.de?feed=rss"
+  },
+  "bcsnoticias": {
+    "feed": "http://bcsnoticias.mx/rss"
+  },
+  "begadistrictnews": {
+    "feed": "https://www.begadistrictnews.com.au/rss.xml"
+  },
+  "belafrika": {
+    "feed": "https://www.belafrika.tv/feed/"
+  },
+  "belapan": {
+    "feed": "http://belapan.com/rss"
+  },
+  "belfastmedia": {
+    "feed": "https://belfastmedia.com/feeds/section-articles.atom"
+  },
+  "bengkuluekspress_disway": {
+    "feed": "https://bengkuluekspress.disway.id/rss/kaur"
+  },
+  "bengkulunews": {
+    "feed": "http://www.bengkulunews.co.id/feed/"
+  },
+  "bentoncountyenterprise": {
+    "feed": "https://www.bentoncountyenterprise.com/browse.rss"
+  },
+  "beobachter-online": {
+    "feed": "https://www.beobachter-online.de/share/sb.xml"
+  },
+  "beritapagi": {
+    "feed": "http://beritapagi.co.id/rss"
+  },
+  "berksmontnews": {
+    "feed": "http://berksmontnews.com/atom"
+  },
+  "bernas": {
+    "feed": "https://www.bernas.id/rss"
+  },
+  "bethesdamagazine": {
+    "feed": "http://bethesdamagazine.com/rss"
+  },
+  "bfmtv": {
+    "feed": "https://www.bfmtv.com/rss/culture/"
+  },
+  "bigbangnews": {
+    "feed": "https://www.bigbangnews.com/feed/"
+  },
+  "bigfoot99": {
+    "feed": "http://bigfoot99.com/feed/"
+  },
+  "bigradio": {
+    "feed": "https://www.bigradio.fm/category/local-news/feed%20"
+  },
+  "billboard": {
+    "feed": "http://www.billboard.com?feed=rss"
+  },
+  "biospace": {
+    "feed": "https://www.biospace.com/articlesrss/"
+  },
+  "birminghamtimes": {
+    "feed": "http://www.birminghamtimes.com?feed=rss"
+  },
+  "bitacora": {
+    "feed": "http://bitacora.com.uy/rss"
+  },
+  "bitbank": {
+    "feed": "https://bitbank.cc/knowledge/feed"
+  },
+  "blacknews": {
+    "feed": "http://www.blacknews.com/rss"
+  },
+  "blackpoolgazette": {
+    "feed": "https://www.blackpoolgazette.co.uk/rss"
+  },
+  "blikk": {
+    "feed": "https://www.blikk.hu/feed"
+  },
+  "blogpreston": {
+    "feed": "http://blogpreston.co.uk/feed"
+  },
+  "bnn": {
+    "feed": "https://bnn.de/feed"
+  },
+  "bohechiodigital": {
+    "feed": "http://www.bohechiodigital.com/feeds/posts/default?alt=rss"
+  },
+  "bola": {
+    "feed": "https://feed.bola.com/rss/dunia"
+  },
+  "bolavip": {
+    "feed": "https://bolavip.com/ar/rss/feed"
+  },
+  "bonde": {
+    "feed": "http://www.bonde.com.br/rss/"
+  },
+  "boon_hu": {
+    "feed": "https://boon.hu/feed/"
+  },
+  "borbabg": {
+    "feed": "https://www.borbabg.com/feed/"
+  },
+  "bostonstandard": {
+    "feed": "https://www.bostonstandard.co.uk/rss"
+  },
+  "bozemanskissfm": {
+    "feed": "http://bozemanskissfm.com/rss"
+  },
+  "bradfordera": {
+    "feed": "http://bradfordera.com/feed"
+  },
+  "bragadotv": {
+    "feed": "https://www.bragadotv.com.ar/rss/noticias"
+  },
+  "brasil247": {
+    "feed": "http://brasil247.com?feed=rss"
+  },
+  "brasildefato": {
+    "feed": "http://brasildefato.com.br?feed=rss"
+  },
+  "brasilpost": {
+    "feed": "http://brasilpost.com.br/rss.xml"
+  },
+  "braunschweiger-zeitung_de": {
+    "feed": "https://www.braunschweiger-zeitung.de/niedersachsen/wolfsburg/rss"
+  },
+  "braunschweiger-zeitung_nieders": {
+    "feed": "https://www.braunschweiger-zeitung.de/niedersachsen/salzgitter/rss"
+  },
+  "brazilnews": {
+    "feed": "http://feeds.brazilnews.net/rss/24437442923341f1"
+  },
+  "breakingbelizenews": {
+    "feed": "https://www.breakingbelizenews.com/feed/"
+  },
+  "brecorder": {
+    "feed": "https://www.brecorder.com/feeds/latest-news"
+  },
+  "briefly": {
+    "feed": "https://briefly.co.za/rss/all.rss"
+  },
+  "broadcast_com_br": {
+    "feed": "http://broadcast.com.br/rdf"
+  },
+  "brookhavencourier": {
+    "feed": "http://www.brookhavencourier.com/rss"
+  },
+  "brookingsregister": {
+    "feed": "http://brookingsregister.com/rss"
+  },
+  "brooklynpaper_com": {
+    "feed": "http://www.brooklynpaper.com?feed=rss"
+  },
+  "bruneinews": {
+    "feed": "http://feeds.bruneinews.net/rss/1948b3b9eadbd541"
+  },
+  "brweeklypress": {
+    "feed": "https://www.brweeklypress.com/rss"
+  },
+  "bt_dk": {
+    "feed": "http://www.bt.dk/bt/seneste/rss"
+  },
+  "buckinghamtoday": {
+    "feed": "https://www.buckinghamtoday.co.uk/rss"
+  },
+  "bude-today": {
+    "feed": "https://www.bude-today.co.uk/rss"
+  },
+  "buerstaedter-zeitung": {
+    "feed": "https://www.buerstaedter-zeitung.de/rss/kultur"
+  },
+  "bunaken": {
+    "feed": "http://www.bunaken.co.id/rss"
+  },
+  "burasicanakkale": {
+    "feed": "https://www.burasicanakkale.com.tr/rss"
+  },
+  "burgasinfo": {
+    "feed": "https://www.burgasinfo.com/news/rss"
+  },
+  "burnleyexpress": {
+    "feed": "https://www.burnleyexpress.net/rss"
+  },
+  "burnslakelakesdistrictnews": {
+    "feed": "http://burnslakelakesdistrictnews.com/rss"
+  },
+  "bursa": {
+    "feed": "http://www.bursa.ro/_rss/?t=en"
+  },
+  "burundi-agnews": {
+    "feed": "http://burundi-agnews.org/feed"
+  },
+  "businessday_co_za": {
+    "feed": "https://www.businessday.co.za/arc/outboundfeeds/rss/"
+  },
+  "businessinsider_com": {
+    "feed": "https://feeds.businessinsider.com/custom/all"
+  },
+  "businessnews_com_tn": {
+    "feed": "https://businessnews.com.tn/comments/feed/"
+  },
+  "businesstimes_com_sg": {
+    "feed": "https://www.businesstimes.com.sg/rss.xml"
+  },
+  "buzzpei": {
+    "feed": "https://buzzpei.com/feed/"
+  },
+  "bvichannel1": {
+    "feed": "https://www.bvichannel1.com?feed=atom"
+  },
+  "bzbasel": {
+    "feed": "https://www.bzbasel.ch/basel.rss"
+  },
+  "cadaminuto": {
+    "feed": "http://cadaminuto.com.br/feed.xml"
+  },
+  "camara": {
+    "feed": "https://www.camara.leg.br/noticias/rss/ultimas-noticias"
+  },
+  "cambio2000": {
+    "feed": "http://cambio2000.com.ar/site/feed/"
+  },
+  "cambiocolombia": {
+    "feed": "https://cambiocolombia.com/feeds/articulos/"
+  },
+  "cambodiantimes": {
+    "feed": "http://feeds.cambodiantimes.com/rss/c7e1014a94f7e43b"
+  },
+  "camdenadvertiser": {
+    "feed": "http://www.camdenadvertiser.com.au/rss.xml"
+  },
+  "canadanews": {
+    "feed": "http://feeds.canadanews.net/rss/71df8d33cd2a30df"
+  },
+  "canalwebsanpedro": {
+    "feed": "http://canalwebsanpedro.com.ar/rss"
+  },
+  "cananewsonline": {
+    "feed": "http://cananewsonline.com/?feed=rss"
+  },
+  "canarias7": {
+    "feed": "https://www.canarias7.es/rss/portada.xml"
+  },
+  "canoe_com": {
+    "feed": "https://canoe.com/feed"
+  },
+  "capinzalfm": {
+    "feed": "https://www.capinzalfm.com.br/rss"
+  },
+  "carmeloportal": {
+    "feed": "http://carmeloportal.com/feed"
+  },
+  "carsifu": {
+    "feed": "https://www.carsifu.my/feed"
+  },
+  "carsonnow": {
+    "feed": "http://carsonnow.org/rss"
+  },
+  "castellonplaza": {
+    "feed": "https://castellonplaza.com/feed/default"
+  },
+  "cbc": {
+    "feed": "http://www.cbc.bb/rss"
+  },
+  "cbs4indy": {
+    "feed": "http://cbs4indy.com/feed/"
+  },
+  "cbs58": {
+    "feed": "https://cbs58.com/rss"
+  },
+  "cbsnews_dfw_latest": {
+    "feed": "https://www.cbsnews.com/dfw/latest/rss/main"
+  },
+  "ccma": {
+    "feed": "https://api.ccma.cat/noticies?_format=rss&origen=frontal&frontal=n324-portada-noticia&version=2.0"
+  },
+  "cedarnews": {
+    "feed": "https://cedarnews.net/atom"
+  },
+  "centrepresseaveyron": {
+    "feed": "https://www.centrepresseaveyron.fr/rss.xml"
+  },
+  "ceskatelevize": {
+    "feed": "http://www.ceskatelevize.cz/ct24/rss/hlavni-zpravy"
+  },
+  "chacoonline": {
+    "feed": "https://chacoonline.com.ar/rss/noticias.xml"
+  },
+  "chacosintesis": {
+    "feed": "http://www.chacosintesis.com.ar/?feed=rss"
+  },
+  "chandrikadaily": {
+    "feed": "http://www.chandrikadaily.com/rss"
+  },
+  "channel4": {
+    "feed": "https://www.channel4.com/news/feed"
+  },
+  "charlottenewsvt": {
+    "feed": "https://www.charlottenewsvt.org/feed/"
+  },
+  "chattanoogapulse": {
+    "feed": "https://www.chattanoogapulse.com/api/rss/content.rss"
+  },
+  "chernomore": {
+    "feed": "https://www.chernomore.bg/rss/latest"
+  },
+  "chestertelegraph": {
+    "feed": "http://www.chestertelegraph.org/feed/"
+  },
+  "chicanoticias": {
+    "feed": "http://chicanoticias.com/rss"
+  },
+  "chinookobserver": {
+    "feed": "http://chinookobserver.com/rss"
+  },
+  "chorley-guardian": {
+    "feed": "https://www.chorley-guardian.co.uk/rss"
+  },
+  "chron": {
+    "feed": "https://www.chron.com/rss/feed/Food-299.php"
+  },
+  "chytomo": {
+    "feed": "http://chytomo.com/rss"
+  },
+  "clarin_com": {
+    "feed": "http://www.clarin.com/diario/hoy/opinion.xml"
+  },
+  "clicfolha": {
+    "feed": "http://www.clicfolha.com.br/rss"
+  },
+  "clmais": {
+    "feed": "http://www.clmais.com.br/?feed=rss2"
+  },
+  "cmjornal": {
+    "feed": "http://cmjornal.pt/rss"
+  },
+  "coastmountainnews": {
+    "feed": "http://www.coastmountainnews.com/rss"
+  },
+  "colimanoticias": {
+    "feed": "http://colimanoticias.com/rss"
+  },
+  "columbustimes": {
+    "feed": "http://www.columbustimes.com/feed"
+  },
+  "comments": {
+    "feed": "https://comments.ua/uk/rss.xml"
+  },
+  "communitynews_com_au": {
+    "feed": "http://communitynews.com.au/rss"
+  },
+  "completesportsnigeria": {
+    "feed": "http://www.completesportsnigeria.com/feed/"
+  },
+  "conosaba": {
+    "feed": "http://conosaba.blogspot.com/rss.xml"
+  },
+  "contactohoy": {
+    "feed": "http://www.contactohoy.com.mx?feed=rss"
+  },
+  "contenidos_lanacion": {
+    "feed": "http://contenidos.lanacion.com.ar/herramientas/rss/categoria_id=131"
+  },
+  "contextodedurango": {
+    "feed": "http://www.contextodedurango.com.mx?feed=rss"
+  },
+  "cope": {
+    "feed": "https://www.cope.es/api/es/news/rss.xml"
+  },
+  "cornish-times": {
+    "feed": "https://www.cornish-times.co.uk/rss"
+  },
+  "correiobraziliense_com_br": {
+    "feed": "http://www.correiobraziliense.com.br/rss/noticia/mundo/rss.xml"
+  },
+  "correiodevenezuela": {
+    "feed": "https://correiodevenezuela.com/espanol/feed/"
+  },
+  "corriere_ca": {
+    "feed": "https://www.corriere.ca/feed/"
+  },
+  "corriereromagna": {
+    "feed": "https://www.corriereromagna.it/rss/home.xml"
+  },
+  "costadenoticias": {
+    "feed": "http://costadenoticias.com/rss"
+  },
+  "cotiatododia": {
+    "feed": "http://www.cotiatododia.com.br/rss"
+  },
+  "county10": {
+    "feed": "http://county10.com/?feed=rss"
+  },
+  "courrierinternational": {
+    "feed": "http://www.courrierinternational.com/rss/all/rss.xml"
+  },
+  "coventryobserver": {
+    "feed": "https://coventryobserver.co.uk/rss-feed/"
+  },
+  "cover-sd": {
+    "feed": "https://www.cover-sd.com?feed=atom"
+  },
+  "covingtonreporter": {
+    "feed": "https://www.covingtonreporter.com/?feed=rdf"
+  },
+  "crainou": {
+    "feed": "https://www.crainou.ro/feed/"
+  },
+  "criticologos": {
+    "feed": "http://criticologos.com/feed"
+  },
+  "crn1": {
+    "feed": "https://crn1.com.br/feed/"
+  },
+  "cronicadelquindio": {
+    "feed": "http://www.cronicadelquindio.com/rss"
+  },
+  "cronicaeconomica": {
+    "feed": "http://cronicaeconomica.com?feed=rss"
+  },
+  "ctnewsjunkie": {
+    "feed": "http://ctnewsjunkie.com?feed=rss"
+  },
+  "cuartopoderbragado": {
+    "feed": "http://www.cuartopoderbragado.com.ar/rss"
+  },
+  "cubachronicle": {
+    "feed": "http://www.cubachronicle.com/feed/"
+  },
+  "culturacolectiva": {
+    "feed": "http://culturacolectiva.com/rss"
+  },
+  "cyprus-mail": {
+    "feed": "https://cyprus-mail.com/feed/"
+  },
+  "dagbladdewest": {
+    "feed": "http://dagbladdewest.com/rss"
+  },
+  "dagens": {
+    "feed": "https://www.dagens.dk/rss"
+  },
+  "dagenshandel": {
+    "feed": "https://www.dagenshandel.se/xml/rss2/articles"
+  },
+  "dailyadvertiser": {
+    "feed": "https://www.dailyadvertiser.com.au/rss.xml"
+  },
+  "dailybreeze": {
+    "feed": "http://www.dailybreeze.com/atom"
+  },
+  "dailyfreeman": {
+    "feed": "https://www.dailyfreeman.com/atom"
+  },
+  "dailysource": {
+    "feed": "http://www.dailysource.org/rss"
+  },
+  "dailystar": {
+    "feed": "https://www.dailystar.co.uk/rss/204/World-News/"
+  },
+  "dailytidings": {
+    "feed": "http://www.dailytidings.com?feed=rss"
+  },
+  "dailytimes": {
+    "feed": "https://dailytimes.com.pk/feed/"
+  },
+  "dainikazadi": {
+    "feed": "https://dainikazadi.net/feed/"
+  },
+  "dainiknavajyoti": {
+    "feed": "https://dainiknavajyoti.com/rss"
+  },
+  "dallasexaminer": {
+    "feed": "https://www.dallasexaminer.com/rss.xml"
+  },
+  "dantri": {
+    "feed": "https://dantri.com.vn/rss/home.rss"
+  },
+  "danvillesanramon": {
+    "feed": "http://danvillesanramon.com/rss"
+  },
+  "daryo": {
+    "feed": "https://daryo.uz/uz/feed/"
+  },
+  "datamarca": {
+    "feed": "http://datamarca.com/rss"
+  },
+  "dbstvstlucia": {
+    "feed": "https://dbstvstlucia.com/feed/"
+  },
+  "debatepregonapiv3": {
+    "feed": "https://debatepregonapiv3.eleco.com.ar/feed-notes"
+  },
+  "debreciner": {
+    "feed": "http://debreciner.hu/rss"
+  },
+  "deccanherald": {
+    "feed": "http://www.deccanherald.com/feed"
+  },
+  "defimedia": {
+    "feed": "https://defimedia.info/rss.xml"
+  },
+  "delcotimes": {
+    "feed": "http://delcotimes.com/atom"
+  },
+  "demari": {
+    "feed": "http://www.demari.fi/rss"
+  },
+  "demerarawaves": {
+    "feed": "http://demerarawaves.com/feed/"
+  },
+  "denik": {
+    "feed": "https://fm.denik.cz/rss/zpravy_region.html"
+  },
+  "denvercatholic": {
+    "feed": "https://www.denvercatholic.org/blog-feed.xml"
+  },
+  "denverpost": {
+    "feed": "http://www.denverpost.com/atom"
+  },
+  "desalambrar": {
+    "feed": "http://desalambrar.com.ar/rss"
+  },
+  "desanisidro": {
+    "feed": "http://www.desanisidro.com/rss.xml"
+  },
+  "deshbandhu": {
+    "feed": "https://www.deshbandhu.co.in/feed"
+  },
+  "deterschellinger": {
+    "feed": "https://www.deterschellinger.nl/rss"
+  },
+  "detik": {
+    "feed": "https://news.detik.com/rss.xml"
+  },
+  "detikawanua": {
+    "feed": "http://www.detikawanua.com/rss"
+  },
+  "diario1588": {
+    "feed": "http://diario1588.com/?feed=rss"
+  },
+  "diario21_com_mx": {
+    "feed": "http://www.diario21.com.mx?feed=rss"
+  },
+  "diario3": {
+    "feed": "http://www.diario3.com.ar/rss"
+  },
+  "diario33": {
+    "feed": "https://diario33.com.ar/feed/"
+  },
+  "diarioactualidad": {
+    "feed": "http://www.diarioactualidad.com/rss"
+  },
+  "diarioahora": {
+    "feed": "https://diarioahora.pe/feed/"
+  },
+  "diarioamanecer": {
+    "feed": "http://www.diarioamanecer.com.mx?feed=rss2"
+  },
+  "diarioandino": {
+    "feed": "https://www.diarioandino.com.ar/rss/noticias"
+  },
+  "diarioavance": {
+    "feed": "http://diarioavance.com/rss"
+  },
+  "diarioaveiro": {
+    "feed": "http://www.diarioaveiro.pt/rss"
+  },
+  "diariochaco": {
+    "feed": "https://www.diariochaco.com/rss"
+  },
+  "diariodearaxa": {
+    "feed": "https://www.diariodearaxa.com.br/feed/"
+  },
+  "diariodeavisos": {
+    "feed": "http://www.diariodeavisos.com/?feed=rss2"
+  },
+  "diariodeleon": {
+    "feed": "https://www.diariodeleon.es/rss/home.xml"
+  },
+  "diariodelsur": {
+    "feed": "https://www.diariodelsur.com.mx/rss"
+  },
+  "diariodemorelos": {
+    "feed": "https://www.diariodemorelos.com/noticias/ultimas/rss.xml"
+  },
+  "diariodenavarra": {
+    "feed": "http://diariodenavarra.es/rss.xml"
+  },
+  "diariodetabasco": {
+    "feed": "https://www.diariodetabasco.mx/feed/"
+  },
+  "diariodetrasosmontes": {
+    "feed": "https://www.diariodetrasosmontes.com/feed/rss.xml"
+  },
+  "diariodezihuatanejo": {
+    "feed": "http://www.diariodezihuatanejo.mx/rss.xml"
+  },
+  "diarioeldespertador": {
+    "feed": "https://diarioeldespertador.com.ar/rss/general.xml"
+  },
+  "diarioelnortino": {
+    "feed": "http://diarioelnortino.cl/feed/"
+  },
+  "diarioelsalado": {
+    "feed": "http://www.diarioelsalado.com.ar/rss"
+  },
+  "diarioextra": {
+    "feed": "http://diarioextra.com/atom"
+  },
+  "diarioimagen": {
+    "feed": "http://www.diarioimagen.net?feed=rss"
+  },
+  "diariomarca": {
+    "feed": "http://www.diariomarca.com.mx?feed=rss"
+  },
+  "diarionews": {
+    "feed": "http://diarionews.com.br/?feed=rss"
+  },
+  "diariosanrafael": {
+    "feed": "http://diariosanrafael.com.ar/rss"
+  },
+  "diariosocialrd": {
+    "feed": "http://diariosocialrd.com/rss"
+  },
+  "diariovialibre": {
+    "feed": "http://www.diariovialibre.com.mx?feed=rss"
+  },
+  "diarioviseu": {
+    "feed": "http://www.diarioviseu.pt/rss"
+  },
+  "digital506": {
+    "feed": "https://digital506.com/rss"
+  },
+  "dimoprasion": {
+    "feed": "https://www.dimoprasion.gr/rss"
+  },
+  "dinavis": {
+    "feed": "https://feeds.dinavis.dk/seneste"
+  },
+  "directactu": {
+    "feed": "https://directactu.net?feed=atom"
+  },
+  "discoverhometown": {
+    "feed": "https://discoverhometown.com/feed"
+  },
+  "dnes": {
+    "feed": "https://www.dnes.bg/rss.php?cat=1"
+  },
+  "dnevnik_si": {
+    "feed": "https://www.dnevnik.si/rss.xml"
+  },
+  "dnn": {
+    "feed": "http://www.dnn.de/rss/feed/dnn_dresden"
+  },
+  "dominicagazette": {
+    "feed": "http://www.dominicagazette.com/rss"
+  },
+  "dominicanoshoy": {
+    "feed": "https://www.dominicanoshoy.com/feed/"
+  },
+  "dominicanrepublicpost": {
+    "feed": "http://www.dominicanrepublicpost.com/rss"
+  },
+  "dothanfirst": {
+    "feed": "https://www.dothanfirst.com/feed/"
+  },
+  "dream": {
+    "feed": "https://www.dream.co.id/feed"
+  },
+  "druzina": {
+    "feed": "https://www.druzina.si/rss"
+  },
+  "duol": {
+    "feed": "https://www.duol.hu/feed/"
+  },
+  "durangotelegraph": {
+    "feed": "http://www.durangotelegraph.com/rss"
+  },
+  "durhamradionews": {
+    "feed": "http://durhamradionews.com/atom"
+  },
+  "dutchcaribbeannews": {
+    "feed": "http://dutchcaribbeannews.com?feed=rss"
+  },
+  "dv_ee": {
+    "feed": "http://dv.ee/rss"
+  },
+  "dwtonline": {
+    "feed": "http://dwtonline.com/rss"
+  },
+  "dziennikpolski24": {
+    "feed": "http://www.dziennikpolski24.pl/rss"
+  },
+  "dziennikwschodni": {
+    "feed": "https://www.dziennikwschodni.pl/rss/articles/pl"
+  },
+  "dzonline": {
+    "feed": "https://www.dzonline.de/rss/feed/dz_sport"
+  },
+  "e-tribuna": {
+    "feed": "http://e-tribuna.com.br/?feed=rss"
+  },
+  "e15": {
+    "feed": "https://www.e15.cz/rss"
+  },
+  "eaglevalleynews": {
+    "feed": "http://www.eaglevalleynews.com/rss"
+  },
+  "eastbaytimes": {
+    "feed": "http://eastbaytimes.com/atom"
+  },
+  "easypuns": {
+    "feed": "https://easypuns.com/feed/"
+  },
+  "eater": {
+    "feed": "https://www.eater.com/rss/index.xml"
+  },
+  "ebar": {
+    "feed": "https://www.ebar.com/rss/rss_bay_area_reporter_0_0.xml"
+  },
+  "ebc": {
+    "feed": "http://ebc.com.br/atom.xml"
+  },
+  "eco": {
+    "feed": "http://eco.pt/rss"
+  },
+  "economicasbariloche": {
+    "feed": "https://www.economicasbariloche.com.ar/rss/noticias"
+  },
+  "ecosdiariosapiv3": {
+    "feed": "https://ecosdiariosapiv3.eleco.com.ar/feed-notes"
+  },
+  "ecosfueguinos": {
+    "feed": "http://ecosfueguinos.com/?feed=rss"
+  },
+  "ecuadorinmediato": {
+    "feed": "https://www.ecuadorinmediato.com/feed.xml"
+  },
+  "ecuadoruniversitario": {
+    "feed": "http://ecuadoruniversitario.com?feed=rss2"
+  },
+  "edicionuno": {
+    "feed": "http://www.edicionuno.com.ar/?feed=rss2"
+  },
+  "edmontonexaminer": {
+    "feed": "https://www.edmontonexaminer.com/feed"
+  },
+  "eikestadnuus": {
+    "feed": "http://www.eikestadnuus.co.za/?feed=rss2"
+  },
+  "ekonews": {
+    "feed": "https://www.ekonews.cz?feed=rss"
+  },
+  "el-independiente": {
+    "feed": "http://www.el-independiente.com.mx?feed=rss"
+  },
+  "eladoquintimes": {
+    "feed": "https://eladoquintimes.com/feed/"
+  },
+  "elagrocorrentino": {
+    "feed": "http://www.elagrocorrentino.com.ar/rss.xml"
+  },
+  "elbuho": {
+    "feed": "http://elbuho.pe/rss"
+  },
+  "elclarindiario": {
+    "feed": "http://elclarindiario.com?feed=rss"
+  },
+  "elcomercio_com": {
+    "feed": "http://www.elcomercio.com/feeds"
+  },
+  "elcomercio_es": {
+    "feed": "https://www.elcomercio.es/rss/2.0/?section=gijon"
+  },
+  "elcordillerano": {
+    "feed": "https://www.elcordillerano.com.ar/rss/farandula"
+  },
+  "elcorreodigital": {
+    "feed": "http://www.elcorreodigital.com.ar/rss.xml"
+  },
+  "eldeportero": {
+    "feed": "http://eldeportero.cl/rss"
+  },
+  "eldiaapiv3": {
+    "feed": "https://eldiaapiv3.eleco.com.ar/feed-notes"
+  },
+  "eldiario_com_ar": {
+    "feed": "http://www.eldiario.com.ar/rss"
+  },
+  "eldiario_hn": {
+    "feed": "http://eldiario.hn/rss"
+  },
+  "eldiariomontanes": {
+    "feed": "https://www.eldiariomontanes.es/rss/2.0/?section="
+  },
+  "eldiariosur": {
+    "feed": "https://www.eldiariosur.com/rss/home.xml"
+  },
+  "eleconomista": {
+    "feed": "http://www.eleconomista.com.ar/feed/"
+  },
+  "elfaro": {
+    "feed": "https://www.elfaro.es/rss/loMasLeido/"
+  },
+  "elfrente": {
+    "feed": "http://elfrente.com.co/rss"
+  },
+  "elgincourier": {
+    "feed": "https://www.elgincourier.com/rss/articles"
+  },
+  "elheraldoapiv3": {
+    "feed": "https://elheraldoapiv3.eleco.com.ar/feed-notes"
+  },
+  "elheraldodechiapas": {
+    "feed": "https://www.elheraldodechiapas.com.mx/rss"
+  },
+  "elheraldodechihuahua": {
+    "feed": "https://www.elheraldodechihuahua.com.mx/rss"
+  },
+  "eljaya_com": {
+    "feed": "https://eljaya.com/feed"
+  },
+  "ellegirl": {
+    "feed": "http://ellegirl.jp/rss/all.xml"
+  },
+  "elmarplatenseapiv3": {
+    "feed": "https://elmarplatenseapiv3.eleco.com.ar/feed-notes"
+  },
+  "elmetropolitano": {
+    "feed": "https://elmetropolitano.com.gt/es/feed/"
+  },
+  "elmundo_com_bo": {
+    "feed": "http://elmundo.com.bo/rss"
+  },
+  "elmunicipe": {
+    "feed": "https://elmunicipe.com?feed=rss"
+  },
+  "elnacional_com": {
+    "feed": "https://www.elnacional.com/rss"
+  },
+  "elnacional_com_do": {
+    "feed": "http://elnacional.com.do/feed/"
+  },
+  "eloccidental": {
+    "feed": "https://www.eloccidental.com.mx/rss"
+  },
+  "elorbe": {
+    "feed": "http://www.elorbe.com?feed=rss"
+  },
+  "elorden": {
+    "feed": "https://www.elorden.com/rss/noticias"
+  },
+  "elovallino": {
+    "feed": "http://www.elovallino.cl/rss"
+  },
+  "elperiodico": {
+    "feed": "http://www.elperiodico.cat/ca/rss/opinio/rss.xml"
+  },
+  "elpueblo_com": {
+    "feed": "https://www.elpueblo.com/rss/feed.xml"
+  },
+  "elpuntavui": {
+    "feed": "http://elpuntavui.cat/?format=feed&type=rss"
+  },
+  "elreporterosf": {
+    "feed": "https://elreporterosf.com/language/en/feed/"
+  },
+  "elsaltodiario": {
+    "feed": "https://www.elsaltodiario.com/hordago/feed"
+  },
+  "elsalvadortimes": {
+    "feed": "https://www.elsalvadortimes.com/rss/"
+  },
+  "elsiglo21eshoy": {
+    "feed": "http://www.elsiglo21eshoy.com/rss.xml"
+  },
+  "elsigloweb": {
+    "feed": "http://elsigloweb.com/rss"
+  },
+  "elsoldeacapulco": {
+    "feed": "https://www.elsoldeacapulco.com.mx/rss"
+  },
+  "elsoldechiapas": {
+    "feed": "http://www.elsoldechiapas.com?feed=rss"
+  },
+  "elsoldecuautla": {
+    "feed": "https://www.elsoldecuautla.com.mx/rss.xml"
+  },
+  "elsoldecuernavaca": {
+    "feed": "https://www.elsoldecuernavaca.com.mx/rss"
+  },
+  "elsoldedurango": {
+    "feed": "https://www.elsoldedurango.com.mx/rss"
+  },
+  "elsoldehidalgo": {
+    "feed": "https://www.elsoldehidalgo.com.mx/rss"
+  },
+  "elsoldeirapuato": {
+    "feed": "https://www.elsoldeirapuato.com.mx/rss"
+  },
+  "elsoldelbajio": {
+    "feed": "https://www.elsoldelbajio.com.mx/rss"
+  },
+  "elsoldeleon": {
+    "feed": "https://www.elsoldeleon.com.mx/rss"
+  },
+  "elsoldemexico": {
+    "feed": "https://www.elsoldemexico.com.mx/rss"
+  },
+  "elsoldemorelia": {
+    "feed": "https://www.elsoldemorelia.com.mx/rss"
+  },
+  "elsoldeparral": {
+    "feed": "https://www.elsoldeparral.com.mx/rss"
+  },
+  "elsoldepuebla": {
+    "feed": "https://www.elsoldepuebla.com.mx/rss"
+  },
+  "elsoldesalamanca": {
+    "feed": "https://www.elsoldesalamanca.com.mx/rss.xml"
+  },
+  "elsoldesanjuan": {
+    "feed": "http://elsoldesanjuan.com.ar/rss"
+  },
+  "elsoldesanjuandelrio": {
+    "feed": "https://www.elsoldesanjuandelrio.com.mx/rss"
+  },
+  "elsoldetoluca": {
+    "feed": "https://www.elsoldetoluca.com.mx/rss"
+  },
+  "elsoldetulancingo": {
+    "feed": "https://www.elsoldetulancingo.com.mx/rss"
+  },
+  "elsoldezamora": {
+    "feed": "https://www.elsoldezamora.com.mx/rss"
+  },
+  "eltelegrama": {
+    "feed": "https://www.eltelegrama.com/rss/loMasLeido/"
+  },
+  "eluniverso": {
+    "feed": "https://www.eluniverso.com/arc/outboundfeeds/rss/?outputType=xml"
+  },
+  "elvalle": {
+    "feed": "http://www.elvalle.com.mx?feed=rss"
+  },
+  "elyecho": {
+    "feed": "https://www.elyecho.com/rss/articles"
+  },
+  "em": {
+    "feed": "http://em.com.br/feed"
+  },
+  "emisoracolon": {
+    "feed": "http://www.emisoracolon.com.ar/?feed=rss"
+  },
+  "en_prothomalo": {
+    "feed": "http://en.prothomalo.com/feed/"
+  },
+  "enational": {
+    "feed": "http://enational.ro/rss.xml"
+  },
+  "enewscourier": {
+    "feed": "http://enewscourier.com/rss"
+  },
+  "enlamira": {
+    "feed": "http://www.enlamira.info/?feed=rss"
+  },
+  "enqueteplus": {
+    "feed": "https://www.enqueteplus.com/rss.xml"
+  },
+  "entrelineas_info": {
+    "feed": "https://www.entrelineas.info/rss"
+  },
+  "ereportaz": {
+    "feed": "http://ereportaz.gr/rss"
+  },
+  "esaimaa": {
+    "feed": "http://www.esaimaa.fi/rss"
+  },
+  "esperanceexpress": {
+    "feed": "https://www.esperanceexpress.com.au/rss.xml"
+  },
+  "esquire": {
+    "feed": "https://www.esquire.com/jp/rss/all.xml/"
+  },
+  "essexlive_news": {
+    "feed": "http://www.essexlive.news/rss.xml"
+  },
+  "estacionplus": {
+    "feed": "https://estacionplus.com.ar/rss/general.xml"
+  },
+  "estadio": {
+    "feed": "http://estadio.ec/rss"
+  },
+  "estanciadeguaruja": {
+    "feed": "http://www.estanciadeguaruja.com.br/rss.xml"
+  },
+  "estnews": {
+    "feed": "http://estnews.ro/rss"
+  },
+  "eufaulaindianjournal": {
+    "feed": "https://www.eufaulaindianjournal.com/rss/articles"
+  },
+  "euobserver": {
+    "feed": "http://euobserver.com/rss"
+  },
+  "eurekaherald": {
+    "feed": "https://www.eurekaherald.com/rss/articles"
+  },
+  "europeancorrespondent": {
+    "feed": "https://europeancorrespondent.com/en/feed.xml"
+  },
+  "evropaelire": {
+    "feed": "https://www.evropaelire.org/api/"
+  },
+  "excelsiorcalifornia": {
+    "feed": "https://www.excelsiorcalifornia.com/atom"
+  },
+  "expansion_mx": {
+    "feed": "https://expansion.mx/rss"
+  },
+  "expert": {
+    "feed": "https://expert.org.ua/rss.xml"
+  },
+  "expreso": {
+    "feed": "https://www.expreso.com.mx/feed/noticias.xml"
+  },
+  "expressen": {
+    "feed": "http://www.expressen.se/1.1142240?standAlone=true"
+  },
+  "extra": {
+    "feed": "https://www.extra.ec/rss/deportes.xml"
+  },
+  "eyeradio": {
+    "feed": "http://eyeradio.org/rss.xml"
+  },
+  "eyjafrettir": {
+    "feed": "http://www.eyjafrettir.is/rss"
+  },
+  "f_021": {
+    "feed": "https://www.021.rs/rss/all"
+  },
+  "f_1059theregion": {
+    "feed": "http://1059theregion.com/rss"
+  },
+  "f_10minutos": {
+    "feed": "https://10minutos.com.uy/feed/"
+  },
+  "f_1170kfaq": {
+    "feed": "http://1170kfaq.com?feed=atom"
+  },
+  "f_1klik": {
+    "feed": "http://www.1klik.hr/rss"
+  },
+  "f_24haubenin": {
+    "feed": "https://www.24haubenin.info/spip.php?page=backend"
+  },
+  "f_24kurier": {
+    "feed": "http://www.24kurier.pl/rss?dzial=wiadomosci"
+  },
+  "f_24sata_hr": {
+    "feed": "https://www.24sata.hr/feeds/tech.xml"
+  },
+  "f_24siete": {
+    "feed": "http://24siete.info/atom"
+  },
+  "f_25ans": {
+    "feed": "https://www.25ans.jp/rss/all.xml"
+  },
+  "f_2lonline": {
+    "feed": "https://2lonline.com/rss"
+  },
+  "f_444": {
+    "feed": "http://444.hu/rss"
+  },
+  "f_525": {
+    "feed": "https://525.az/rss_goster.php"
+  },
+  "f_560kmon": {
+    "feed": "http://560kmon.com/rss"
+  },
+  "f_5septiembre": {
+    "feed": "http://5septiembre.cu/rss.xml"
+  },
+  "f_710keel": {
+    "feed": "http://710keel.com/rss"
+  },
+  "factjo": {
+    "feed": "https://factjo.com/rss.xml"
+  },
+  "fairfieldchampion": {
+    "feed": "http://www.fairfieldchampion.com.au/rss.xml"
+  },
+  "fajarbali": {
+    "feed": "https://www.fajarbali.com/rss"
+  },
+  "faladepapagaio": {
+    "feed": "http://faladepapagaio.blogspot.com/rss.xml"
+  },
+  "famagusta-gazette": {
+    "feed": "http://famagusta-gazette.com/feed/"
+  },
+  "farnhamherald": {
+    "feed": "https://www.farnhamherald.com/rss"
+  },
+  "fdesouche": {
+    "feed": "https://www.fdesouche.com/feed/"
+  },
+  "feedburner_alleyinsider_silico": {
+    "feed": "http://feeds.feedburner.com/typepad/alleyinsider/silicon_alley_insider"
+  },
+  "feedburner_amic_news": {
+    "feed": "https://feeds.feedburner.com/amic/news"
+  },
+  "feedburner_diarioquepasa": {
+    "feed": "https://feeds.feedburner.com/diarioquepasa"
+  },
+  "feedburner_dominicanewsonline": {
+    "feed": "http://feeds.feedburner.com/DominicaNewsOnline/"
+  },
+  "feedburner_elbruguersdigital": {
+    "feed": "http://feeds.feedburner.com/elBruguersDigital"
+  },
+  "feedburner_hyetert_parev": {
+    "feed": "http://feeds.feedburner.com/hyetert/parev"
+  },
+  "feedburner_jeune_afrique_sport": {
+    "feed": "http://feeds2.feedburner.com/jeune_afrique_Sports"
+  },
+  "feedburner_ndtvnews-latest": {
+    "feed": "http://feeds.feedburner.com/ndtvnews-latest"
+  },
+  "feedburner_radioiowanews": {
+    "feed": "http://feeds.feedburner.com/RadioIowaNews"
+  },
+  "feedburner_thenashvilleledger": {
+    "feed": "http://feeds.feedburner.com/TheNashvilleLedger"
+  },
+  "feedit": {
+    "feed": "https://feedit.cz/feed/"
+  },
+  "feedpress_gsud_hp_messina": {
+    "feed": "https://feedpress.me/gsud_hp_messina"
+  },
+  "fiskeribladet": {
+    "feed": "https://fiskeribladet.no/rss/rss.asp"
+  },
+  "flakkeenieuws": {
+    "feed": "http://www.flakkeenieuws.nl/feed"
+  },
+  "fmdellagoesquel": {
+    "feed": "http://www.fmdellagoesquel.com.ar/rss"
+  },
+  "fmpatagoniamadryn": {
+    "feed": "https://fmpatagoniamadryn.com.ar/?feed=rss2"
+  },
+  "folhadedourados": {
+    "feed": "https://www.folhadedourados.com.br/feed/"
+  },
+  "folharegionalonline": {
+    "feed": "http://folharegionalonline.com/atom"
+  },
+  "for-ua": {
+    "feed": "https://for-ua.com/rss"
+  },
+  "forbesindia": {
+    "feed": "https://www.forbesindia.com/commonfeeds/v1/frb/rss/text.xml"
+  },
+  "fosonline": {
+    "feed": "http://fosonline.gr/news?format=feed&type=rss"
+  },
+  "fourwaysreview": {
+    "feed": "https://fourwaysreview.co.za/feed/"
+  },
+  "fox6now": {
+    "feed": "http://fox6now.com/rss.xml"
+  },
+  "franceinter": {
+    "feed": "http://franceinter.fr/franceinter/rss"
+  },
+  "frankenpost": {
+    "feed": "http://www.frankenpost.de/index.rss"
+  },
+  "freemalaysiatoday": {
+    "feed": "https://www.freemalaysiatoday.com/feed/"
+  },
+  "fri-kopenskap": {
+    "feed": "https://www.fri-kopenskap.se/xml/rss2/articles"
+  },
+  "fronda": {
+    "feed": "http://fronda.pl/rss.xml"
+  },
+  "frontline_thehindu": {
+    "feed": "https://frontline.thehindu.com/feeder/default.rss"
+  },
+  "fullertonobserver": {
+    "feed": "https://fullertonobserver.com/feed/"
+  },
+  "funeshoy": {
+    "feed": "http://www.funeshoy.com.ar/rss"
+  },
+  "futbolecuador": {
+    "feed": "https://www.futbolecuador.com/stories/rss"
+  },
+  "gaceta": {
+    "feed": "https://gaceta.es/feed/"
+  },
+  "galaxytvonline": {
+    "feed": "https://www.galaxytvonline.com/rss"
+  },
+  "galiciaartabradigital": {
+    "feed": "http://www.galiciaartabradigital.com/feed"
+  },
+  "gandersheimer-kreisblatt": {
+    "feed": "https://www.gandersheimer-kreisblatt.de/share/gk.xml"
+  },
+  "gazeta_uz": {
+    "feed": "http://gazeta.uz/rss"
+  },
+  "gazetadebebedouro": {
+    "feed": "http://www.gazetadebebedouro.com.br/rss"
+  },
+  "gazetaexpress": {
+    "feed": "http://gazetaexpress.com/rss"
+  },
+  "gazetakrakowska": {
+    "feed": "http://www.gazetakrakowska.pl/rss"
+  },
+  "gazetanord-vest": {
+    "feed": "https://www.gazetanord-vest.ro/feed/"
+  },
+  "gazetashneta": {
+    "feed": "http://gazetashneta.net/rss"
+  },
+  "gazettejournal": {
+    "feed": "https://www.gazettejournal.net/feed/"
+  },
+  "gentosha": {
+    "feed": "https://www.gentosha.jp/list/feed/rss"
+  },
+  "ghanaguardian": {
+    "feed": "https://ghanaguardian.com/rss"
+  },
+  "ghettoradio": {
+    "feed": "http://ghettoradio.co.ke/rss.xml"
+  },
+  "gilavalleycentral": {
+    "feed": "https://gilavalleycentral.net/feed/"
+  },
+  "giornaledipavia": {
+    "feed": "https://giornaledipavia.it/rdf"
+  },
+  "glas-slavonije": {
+    "feed": "https://www.glas-slavonije.hr/rss.xml"
+  },
+  "globalatlanta": {
+    "feed": "http://globalatlanta.com/rss"
+  },
+  "globegazette": {
+    "feed": "https://globegazette.com/search/?f=rss&t=article&c=news/local&l=25&s=start_time&sd=desc"
+  },
+  "gnet": {
+    "feed": "https://news.gnet.tn/feed/"
+  },
+  "gnnliberia": {
+    "feed": "http://gnnliberia.com/rss"
+  },
+  "gnoticia": {
+    "feed": "http://gnoticia.com.br/rss"
+  },
+  "goleader": {
+    "feed": "https://www.goleader.com/rss/articles"
+  },
+  "gosumut": {
+    "feed": "https://www.gosumut.com/rss/berita/"
+  },
+  "goyaennoticias": {
+    "feed": "http://goyaennoticias.com.ar/rss"
+  },
+  "gq": {
+    "feed": "https://www.gq.co.za/rss"
+  },
+  "grapevine": {
+    "feed": "https://grapevine.is/feed/"
+  },
+  "greenleft": {
+    "feed": "https://www.greenleft.org.au/rss.xml"
+  },
+  "grenadachronicle": {
+    "feed": "http://grenadachronicle.com/rss"
+  },
+  "grenchnertagblatt": {
+    "feed": "https://www.grenchnertagblatt.ch/solothurn/grenchen.rss"
+  },
+  "gsp": {
+    "feed": "https://www.gsp.ro/rss.xml"
+  },
+  "guarulhoshoje": {
+    "feed": "https://www.guarulhoshoje.com.br/feed/"
+  },
+  "gulflive": {
+    "feed": "https://www.gulflive.com/arc/outboundfeeds/rss/?outputType=xml"
+  },
+  "gustavus": {
+    "feed": "https://weekly.blog.gustavus.edu/atom"
+  },
+  "guyanainquirer": {
+    "feed": "http://guyanainquirer.com/rss"
+  },
+  "guyaweb": {
+    "feed": "http://guyaweb.com/rss"
+  },
+  "haidagwaiiobserver": {
+    "feed": "http://www.haidagwaiiobserver.com/?feed=rss2"
+  },
+  "haitigazette": {
+    "feed": "http://haitigazette.com?feed=atom"
+  },
+  "haitinews": {
+    "feed": "http://feeds.haitinews.net/rss/8d0a8b42a4163d9f"
+  },
+  "haon": {
+    "feed": "https://www.haon.hu/publicapi/hu/rss/haon/articles"
+  },
+  "hararemetronews": {
+    "feed": "https://hararemetronews.com/rss"
+  },
+  "harianjogja": {
+    "feed": "https://www.harianjogja.com/rss"
+  },
+  "hariankepri": {
+    "feed": "http://hariankepri.com?feed=rss"
+  },
+  "haribhoomi": {
+    "feed": "https://www.haribhoomi.com/feed"
+  },
+  "harrogateadvertiser": {
+    "feed": "https://www.harrogateadvertiser.co.uk/rss"
+  },
+  "hartington": {
+    "feed": "https://www.hartington.net/rss/articles"
+  },
+  "hastingsobserver": {
+    "feed": "https://www.hastingsobserver.co.uk/rss"
+  },
+  "haysfreepress": {
+    "feed": "https://www.haysfreepress.com/rss/articles"
+  },
+  "haz": {
+    "feed": "http://www.haz.de/rss/feed/haz_schlagzeilen"
+  },
+  "hdpnoticias": {
+    "feed": "http://hdpnoticias.com.ar/?feed=rss"
+  },
+  "headlightherald": {
+    "feed": "https://www.headlightherald.com/rss/articles"
+  },
+  "health": {
+    "feed": "https://health.go.ke/rss.xml"
+  },
+  "hedefhalk": {
+    "feed": "https://www.hedefhalk.com/rss"
+  },
+  "helenaworld": {
+    "feed": "https://www.helenaworld.org/blog-feed.xml"
+  },
+  "hellomagazine": {
+    "feed": "https://www.hellomagazine.com/feeds/rss/any/any/any/50.xml"
+  },
+  "heraldgoa": {
+    "feed": "http://heraldgoa.in/atom"
+  },
+  "heraldstaronline": {
+    "feed": "http://www.heraldstaronline.com/rss"
+  },
+  "hersfelder-zeitung": {
+    "feed": "https://www.hersfelder-zeitung.de/panorama/rssfeed.rdf"
+  },
+  "heturkerland": {
+    "feed": "https://www.heturkerland.nl/data/rss"
+  },
+  "heysocal": {
+    "feed": "http://heysocal.com/rss"
+  },
+  "highland-news": {
+    "feed": "http://www.highland-news.co.uk/News/rss.xml"
+  },
+  "highlandcountypress": {
+    "feed": "https://highlandcountypress.com/rss.xml"
+  },
+  "hiiraan": {
+    "feed": "https://hiiraan.com/news.xml"
+  },
+  "hilaryfarrerphysiotherapy": {
+    "feed": "https://www.hilaryfarrerphysiotherapy.co.uk/feed/"
+  },
+  "hirtv": {
+    "feed": "http://hirtv.hu/publicapi/hu/rss/hirtv/articles"
+  },
+  "hispanidad": {
+    "feed": "http://hispanidad.com/feed"
+  },
+  "hln_be": {
+    "feed": "https://www.hln.be/rss.xml"
+  },
+  "hnonline": {
+    "feed": "https://hnonline.sk/feed"
+  },
+  "hoefner": {
+    "feed": "https://www.hoefner.ch/feed/"
+  },
+  "horaagha": {
+    "feed": "https://www.horaagha.com.br/feed/"
+  },
+  "hotair": {
+    "feed": "https://hotair.com/feed/"
+  },
+  "hoy_com_do": {
+    "feed": "https://hoy.com.do/rss/home.xml"
+  },
+  "hoymercedes": {
+    "feed": "http://www.hoymercedes.com.ar/?feed=atom"
+  },
+  "hraparak": {
+    "feed": "https://hraparak.am/rss/posts"
+  },
+  "hrodna": {
+    "feed": "http://hrodna.life/rss"
+  },
+  "hurriyetdailynews": {
+    "feed": "http://www.hurriyetdailynews.com/rss.aspx"
+  },
+  "iblnews": {
+    "feed": "https://iblnews.org/feed/"
+  },
+  "ibtimes_co_uk": {
+    "feed": "http://www.ibtimes.co.uk/rss"
+  },
+  "ibtimes_com": {
+    "feed": "https://www.ibtimes.com/rss"
+  },
+  "icihaiti": {
+    "feed": "http://icihaiti.com/rss-flash.xml"
+  },
+  "icilome": {
+    "feed": "https://icilome.com/comments/feed/"
+  },
+  "icirnigeria": {
+    "feed": "https://www.icirnigeria.org/feed/"
+  },
+  "ifinnmark": {
+    "feed": "https://www.ifinnmark.no/service/rss"
+  },
+  "ihned": {
+    "feed": "http://ihned.cz/?m=rss"
+  },
+  "ileon_eldiario": {
+    "feed": "https://ileon.eldiario.es/rss?seccion=ciencia"
+  },
+  "illinoistimes": {
+    "feed": "http://illinoistimes.com/?feed=rss2"
+  },
+  "ilmanifesto": {
+    "feed": "https://ilmanifesto.it/feed/"
+  },
+  "ilnuovolevante": {
+    "feed": "https://ilnuovolevante.it/rdf"
+  },
+  "imediato": {
+    "feed": "http://www.imediato.pt/atom"
+  },
+  "impresa": {
+    "feed": "https://rss.impresa.pt/feed/latest/expresso.rss?type=ARTICLE,VIDEO,STREAM,PLAYLIST,EVENT&limit=20&pubsubhub=true"
+  },
+  "impresa_pt": {
+    "feed": "https://rss.impresa.pt/feed/latest/mirante.rss?type=ARTICLE,VIDEO,GALLERY,STREAM,PLAYLIST,EVENT&limit=20&pubsubhub=true"
+  },
+  "impressbm": {
+    "feed": "https://it.impressbm.co.jp/list/feed/rss"
+  },
+  "impulsobaires": {
+    "feed": "https://www.impulsobaires.com.ar/rss"
+  },
+  "imvahonshya": {
+    "feed": "http://imvahonshya.co.rw/feed/"
+  },
+  "indianapolisrecorder": {
+    "feed": "http://www.indianapolisrecorder.com/rss"
+  },
+  "indiancountrytoday": {
+    "feed": "http://indiancountrytoday.com/rss"
+  },
+  "industriemagazin": {
+    "feed": "https://industriemagazin.at/rss.xml"
+  },
+  "inews": {
+    "feed": "http://inews.co.uk?feed=rss"
+  },
+  "infobrisas": {
+    "feed": "https://www.infobrisas.com/rss/noticias"
+  },
+  "infocatolica": {
+    "feed": "https://infocatolica.com/atom.php"
+  },
+  "infoeme": {
+    "feed": "http://infoeme.com/feed"
+  },
+  "infolobos": {
+    "feed": "http://www.infolobos.com.ar/rss"
+  },
+  "infoplatense": {
+    "feed": "http://www.infoplatense.com.ar/rss"
+  },
+  "inforegion": {
+    "feed": "http://inforegion.pe/rss"
+  },
+  "inform": {
+    "feed": "https://www.inform.kz/rss/eng.xml"
+  },
+  "informatesalta": {
+    "feed": "https://informatesalta.com.ar/rss"
+  },
+  "informatia-zilei": {
+    "feed": "http://informatia-zilei.ro/atom"
+  },
+  "informer": {
+    "feed": "https://informer.rs/rss/sport"
+  },
+  "informeseprimero": {
+    "feed": "http://www.informeseprimero.com.ar/rss.xml"
+  },
+  "infostart": {
+    "feed": "https://infostart.hu/sport/rss/"
+  },
+  "infoturdominicano": {
+    "feed": "http://infoturdominicano.com/?feed=rss"
+  },
+  "infranken": {
+    "feed": "https://www.infranken.de/storage/rss/rss/2.0/bamberg.xml"
+  },
+  "inkhabar": {
+    "feed": "https://www.inkhabar.com/newsfeed/latest-feed/"
+  },
+  "inquisitr": {
+    "feed": "https://www.inquisitr.com/feed/"
+  },
+  "insuedthueringen": {
+    "feed": "http://insuedthueringen.de/index.rss"
+  },
+  "ipanewspack": {
+    "feed": "http://ipanewspack.com/rss"
+  },
+  "iraqinews": {
+    "feed": "https://www.iraqinews.com/?feed=rss2"
+  },
+  "iraqnews": {
+    "feed": "http://feeds.iraqnews.net/rss/c31d0aaa23b24a75"
+  },
+  "irishecho": {
+    "feed": "https://www.irishecho.com/feeds/section-articles.atom"
+  },
+  "irishnews": {
+    "feed": "https://www.irishnews.com/arc/outboundfeeds/rss/"
+  },
+  "irk": {
+    "feed": "https://www.irk.ru/news.rss"
+  },
+  "irrawaddy_com": {
+    "feed": "https://www.irrawaddy.com/feed/rdf"
+  },
+  "ismedia": {
+    "feed": "http://wedge.ismedia.jp/list/feed/rss"
+  },
+  "israelhayom_com": {
+    "feed": "https://www.israelhayom.com/feed/"
+  },
+  "istoedinheiro": {
+    "feed": "http://istoedinheiro.com.br?feed=atom"
+  },
+  "itamarajunoticias": {
+    "feed": "https://itamarajunoticias.com.br/rss.xml"
+  },
+  "itemlive_com": {
+    "feed": "https://itemlive.com/feed/"
+  },
+  "itenlinea": {
+    "feed": "http://itenlinea.com?feed=rss"
+  },
+  "itnet": {
+    "feed": "https://itnet.com.br/rss.xml"
+  },
+  "ituzaingonoticias": {
+    "feed": "http://www.ituzaingonoticias.com.ar/rss"
+  },
+  "j-times": {
+    "feed": "http://www.j-times.jp/rss.xml"
+  },
+  "jamaica-gleaner": {
+    "feed": "http://www.jamaica-gleaner.com/feed/rss.xml"
+  },
+  "jambidaily": {
+    "feed": "http://www.jambidaily.com/rss"
+  },
+  "jamejamonline": {
+    "feed": "https://jamejamonline.ir/fa/rss/allnews"
+  },
+  "jcidade": {
+    "feed": "http://www.jcidade.com.br/rss"
+  },
+  "jcp": {
+    "feed": "https://www.jcp.or.jp/akahata/index.rdf"
+  },
+  "jd1noticias": {
+    "feed": "https://www.jd1noticias.com/ultimas-noticias/feed"
+  },
+  "jewishchronicle_timesofisrael": {
+    "feed": "http://jewishchronicle.timesofisrael.com/rdf"
+  },
+  "jihoceskenovinky": {
+    "feed": "https://www.jihoceskenovinky.cz/repository/rss/zpravy_all_cs.xml"
+  },
+  "jihomoravskenovinky": {
+    "feed": "https://www.jihomoravskenovinky.cz/repository/rss/zpravy_all_cs.xml"
+  },
+  "jnytt": {
+    "feed": "https://www.jnytt.se/feeds/feed.xml?via=rss-autodiscovery"
+  },
+  "jobbank": {
+    "feed": "https://www.jobbank.gc.ca/jobsearch/feed/jobSearchRSSfeed;jsessionid=58D596FDF033B875A7B671F65A330936.jobsearch77?d=50&sort=D&mid=22419&fage=2&lang=fr&rows=100"
+  },
+  "jobenews": {
+    "feed": "https://www.jobenews.com/feed/"
+  },
+  "johnsoncountypost": {
+    "feed": "https://johnsoncountypost.com/feed/"
+  },
+  "jornal24horas": {
+    "feed": "http://www.jornal24horas.com.br/?feed=rss2"
+  },
+  "jornalacomarca": {
+    "feed": "http://jornalacomarca.com.br/rss"
+  },
+  "jornalcidade": {
+    "feed": "http://jornalcidade.net/rss"
+  },
+  "jornaldamidia": {
+    "feed": "https://www.jornaldamidia.com.br/feed/"
+  },
+  "jornaldaqui": {
+    "feed": "http://jornaldaqui.com.br/rss"
+  },
+  "jornaldascaldas": {
+    "feed": "https://jornaldascaldas.pt/feed/"
+  },
+  "jornaldelaguna": {
+    "feed": "http://jornaldelaguna.com.br/rss"
+  },
+  "jornaldestaquebaixada": {
+    "feed": "http://jornaldestaquebaixada.com/rss.xml"
+  },
+  "jornaldiariodocomercio": {
+    "feed": "http://jornaldiariodocomercio.com.br?feed=rss"
+  },
+  "jornaldoalgarve": {
+    "feed": "http://www.jornaldoalgarve.pt/rss"
+  },
+  "jornaldosudeste": {
+    "feed": "http://www.jornaldosudeste.com.br/rss"
+  },
+  "jornalitanews": {
+    "feed": "https://www.jornalitanews.com.br/feed/"
+  },
+  "jornalmantiqueira": {
+    "feed": "http://www.jornalmantiqueira.com.br/feed/"
+  },
+  "jornalmtnorte": {
+    "feed": "https://www.jornalmtnorte.com.br/feed"
+  },
+  "jornalnordeste": {
+    "feed": "http://www.jornalnordeste.com/rss.xml"
+  },
+  "jornalpanorama": {
+    "feed": "http://www.jornalpanorama.com.br/rss"
+  },
+  "journaldusenegal": {
+    "feed": "https://www.journaldusenegal.com?feed=rss"
+  },
+  "journaldutchad": {
+    "feed": "http://journaldutchad.com/atom"
+  },
+  "jp_se": {
+    "feed": "https://www.jp.se/feeds/feed.xml?via=rss-autodiscovery"
+  },
+  "jujuyaldia": {
+    "feed": "https://www.jujuyaldia.com.ar/feed/"
+  },
+  "jujuyonlinenoticias": {
+    "feed": "http://jujuyonlinenoticias.com.ar/rss"
+  },
+  "junindigital": {
+    "feed": "https://www.junindigital.com/feed"
+  },
+  "jurnal": {
+    "feed": "https://www.jurnal.md/ro/rss/all"
+  },
+  "kabarmedan": {
+    "feed": "https://kabarmedan.com/rss"
+  },
+  "kahawatungu": {
+    "feed": "http://www.kahawatungu.com?feed=rss"
+  },
+  "kaieteurnewsonline": {
+    "feed": "http://kaieteurnewsonline.com/rss"
+  },
+  "kambja": {
+    "feed": "https://www.kambja.info/rss"
+  },
+  "kamloopsbcnow": {
+    "feed": "https://www.kamloopsbcnow.com/api/rss/1"
+  },
+  "kangasniemenlehti": {
+    "feed": "https://www.kangasniemenlehti.fi/feed/"
+  },
+  "kannadaprabha": {
+    "feed": "http://kannadaprabha.com/feed"
+  },
+  "karlovarskenovinky": {
+    "feed": "https://www.karlovarskenovinky.cz/repository/rss/zpravy_all_cs.xml"
+  },
+  "katadata": {
+    "feed": "https://katadata.co.id/rss"
+  },
+  "kayafm": {
+    "feed": "https://www.kayafm.co.za/?feed=rss"
+  },
+  "kayserigundem": {
+    "feed": "https://kayserigundem.com.tr/rss/"
+  },
+  "kbfd": {
+    "feed": "https://kbfd.com/?feed=rss2"
+  },
+  "kcaw": {
+    "feed": "https://www.kcaw.org/feed/"
+  },
+  "kcur": {
+    "feed": "http://www.kcur.org/feeds"
+  },
+  "kdhnews": {
+    "feed": "https://kdhnews.com/search/?f=rss&t=article&s=harker_heights_herald&l=50&s=start_time&sd=desc"
+  },
+  "kecsup": {
+    "feed": "https://kecsup.hu/rss"
+  },
+  "kemifilani": {
+    "feed": "https://www.kemifilani.ng?feed=rss"
+  },
+  "kenyainsights": {
+    "feed": "https://kenyainsights.com/feed.xml"
+  },
+  "kesq": {
+    "feed": "https://kesq.com/feed/"
+  },
+  "kewoulo": {
+    "feed": "https://kewoulo.info?feed=rss"
+  },
+  "keyt": {
+    "feed": "https://keyt.com/feed/"
+  },
+  "kfiz": {
+    "feed": "https://www.kfiz.com/?feed=rss2"
+  },
+  "khabarjonoub": {
+    "feed": "https://khabarjonoub.com/rss/latest-posts"
+  },
+  "khaleejtimes": {
+    "feed": "http://www.khaleejtimes.com/feeds"
+  },
+  "khovar": {
+    "feed": "https://khovar.tj/feed/"
+  },
+  "kiamaindependent": {
+    "feed": "http://www.kiamaindependent.com.au/rss.xml"
+  },
+  "kikcradio": {
+    "feed": "http://kikcradio.com/?feed=rss"
+  },
+  "kinhtedothi": {
+    "feed": "https://kinhtedothi.vn/rss/home.rss"
+  },
+  "kitekinto": {
+    "feed": "http://kitekinto.hu/rss"
+  },
+  "kiyu": {
+    "feed": "https://kiyu.com/feed/"
+  },
+  "klartale": {
+    "feed": "http://www.klartale.no/rss"
+  },
+  "klassekampen": {
+    "feed": "http://klassekampen.no/rss"
+  },
+  "klix": {
+    "feed": "https://www.klix.ba/rss"
+  },
+  "klog": {
+    "feed": "http://klog.com/rss"
+  },
+  "klt": {
+    "feed": "https://www.klt.nu/feed/"
+  },
+  "klubjagiellonski": {
+    "feed": "http://klubjagiellonski.pl/rss"
+  },
+  "koha": {
+    "feed": "https://www.koha.net/rss"
+  },
+  "kontranews": {
+    "feed": "https://kontranews.gr/rss"
+  },
+  "kosova": {
+    "feed": "http://kosova.info/rss"
+  },
+  "kp_md": {
+    "feed": "http://www.kp.md/atom"
+  },
+  "kpbs": {
+    "feed": "https://www.kpbs.org/index.atom"
+  },
+  "kralovehradeckenovinky": {
+    "feed": "https://www.kralovehradeckenovinky.cz/repository/rss/zpravy_all_cs.xml"
+  },
+  "krassever": {
+    "feed": "http://www.krassever.ru/rss"
+  },
+  "kreiszeitung": {
+    "feed": "https://www.kreiszeitung.de/rssfeed.rdf"
+  },
+  "kristeligt-dagblad": {
+    "feed": "https://www.kristeligt-dagblad.dk/rss/nyheder"
+  },
+  "kuenselonline": {
+    "feed": "https://kuenselonline.com/dz/feed/posts"
+  },
+  "kurv": {
+    "feed": "https://www.kurv.com/feed/"
+  },
+  "kxan": {
+    "feed": "http://kxan.com/feed/"
+  },
+  "kxtl": {
+    "feed": "http://kxtl.com/rss"
+  },
+  "kycir": {
+    "feed": "http://kycir.org/index.rss"
+  },
+  "kyssfm": {
+    "feed": "http://kyssfm.com/rss"
+  },
+  "kzimksim": {
+    "feed": "http://www.kzimksim.com/feed/"
+  },
+  "la-liberte": {
+    "feed": "https://www.la-liberte.ca/feed/"
+  },
+  "labocina": {
+    "feed": "http://www.labocina.com.ar/?feed=rss"
+  },
+  "labusinessjournal": {
+    "feed": "http://labusinessjournal.com/rss"
+  },
+  "lacalledepinto": {
+    "feed": "http://www.lacalledepinto.com.ar/feed"
+  },
+  "laciudadweb": {
+    "feed": "https://laciudadweb.com.ar/rss/"
+  },
+  "lacombeexpress": {
+    "feed": "http://www.lacombeexpress.com/rss"
+  },
+  "laconexionusa": {
+    "feed": "http://laconexionusa.com/?feed=atom"
+  },
+  "lacronica": {
+    "feed": "http://lacronica.net/rss"
+  },
+  "lactualite": {
+    "feed": "http://www.lactualite.com/feed/"
+  },
+  "ladiaria": {
+    "feed": "https://ladiaria.com.uy/feeds/articulos/"
+  },
+  "ladob": {
+    "feed": "https://ladob.info/rss"
+  },
+  "laextra": {
+    "feed": "http://laextra.mx?feed=rss"
+  },
+  "lagacetadealmeria": {
+    "feed": "http://lagacetadealmeria.es/?feed=rss"
+  },
+  "lagacetadigital": {
+    "feed": "https://lagacetadigital.com.ar/feed/"
+  },
+  "lagrangenews": {
+    "feed": "http://lagrangenews.com/rss.xml"
+  },
+  "laist": {
+    "feed": "http://www.laist.com/index.rss"
+  },
+  "laitilansanomat": {
+    "feed": "https://www.laitilansanomat.fi/feed/"
+  },
+  "lajornadadeoriente": {
+    "feed": "http://lajornadadeoriente.com.mx?feed=rss"
+  },
+  "lamanana": {
+    "feed": "http://www.lamanana.com.ar/rss"
+  },
+  "lamarcadelincoln": {
+    "feed": "http://www.lamarcadelincoln.com.ar/rss"
+  },
+  "langleyadvancetimes": {
+    "feed": "http://langleyadvancetimes.com/rss"
+  },
+  "lansingcitypulse": {
+    "feed": "http://lansingcitypulse.com/rss"
+  },
+  "laotracara": {
+    "feed": "https://laotracara.co/feed/"
+  },
+  "lapioneradeclorinda": {
+    "feed": "http://lapioneradeclorinda.com/rss"
+  },
+  "laregione": {
+    "feed": "https://media.laregione.ch/files/domains/laregione.ch/rss/feed_rss.xml"
+  },
+  "larep": {
+    "feed": "https://www.larep.fr/RC-tempsforts-tous.xml"
+  },
+  "larepublica_ec": {
+    "feed": "https://www.larepublica.ec/feed/"
+  },
+  "larepublica_net": {
+    "feed": "http://larepublica.net/feeds/feed.rss"
+  },
+  "lasemaine": {
+    "feed": "https://www.lasemaine.fr/feed/"
+  },
+  "latercera_com": {
+    "feed": "https://www.latercera.com/arc/outboundfeeds/rss/category/pulso/?outputType=xml"
+  },
+  "lavanguardia": {
+    "feed": "https://www.lavanguardia.com/feed/rss/home"
+  },
+  "laverdadayacucho": {
+    "feed": "http://www.laverdadayacucho.com.ar/rss"
+  },
+  "lavozdelpuebloapiv3": {
+    "feed": "https://lavozdelpuebloapiv3.eleco.com.ar/feed-notes"
+  },
+  "lavozdesanjustoapiv3": {
+    "feed": "https://lavozdesanjustoapiv3.eleco.com.ar/feed-notes"
+  },
+  "lavozdigitalpr": {
+    "feed": "https://lavozdigitalpr.com?feed=rss"
+  },
+  "lavozhispanact": {
+    "feed": "https://lavozhispanact.com/?feed=rss2"
+  },
+  "lb": {
+    "feed": "https://lb.ua/rss/ukr/rss.xml"
+  },
+  "leamingtoncourier": {
+    "feed": "https://www.leamingtoncourier.co.uk/rss"
+  },
+  "leamingtonobserver": {
+    "feed": "https://leamingtonobserver.co.uk/rss-feed/"
+  },
+  "lebanco": {
+    "feed": "https://www.lebanco.net/feed"
+  },
+  "lebanonpost": {
+    "feed": "http://www.lebanonpost.com/?feed=rss"
+  },
+  "lecanardenchaine": {
+    "feed": "https://www.lecanardenchaine.fr/rss/index.xml"
+  },
+  "lecourrier-dalgerie": {
+    "feed": "http://lecourrier-dalgerie.com/rss"
+  },
+  "ledauphine": {
+    "feed": "https://www.ledauphine.com/rss"
+  },
+  "ledgertranscript": {
+    "feed": "http://ledgertranscript.com/rss"
+  },
+  "lefaso": {
+    "feed": "http://www.lefaso.net/spip.php?page=backend"
+  },
+  "lefigaro": {
+    "feed": "https://www.lefigaro.fr/rss/figaro_flash-eco.xml"
+  },
+  "lejournaldemayotte": {
+    "feed": "http://lejournaldemayotte.com/feed"
+  },
+  "lelynx": {
+    "feed": "http://lelynx.net/rss"
+  },
+  "lenouveleconomiste": {
+    "feed": "http://lenouveleconomiste.fr/rss.xml"
+  },
+  "lenouvelliste": {
+    "feed": "http://www.lenouvelliste.com/rss"
+  },
+  "lepopulaire": {
+    "feed": "https://www.lepopulaire.fr/PC-tempsforts-tous.xml"
+  },
+  "lerufisquois": {
+    "feed": "https://lerufisquois.info?feed=rss"
+  },
+  "lesoir": {
+    "feed": "https://www.lesoir.be/rss.xml"
+  },
+  "lestimes": {
+    "feed": "http://lestimes.com/?feed=rss"
+  },
+  "levenementniger": {
+    "feed": "https://levenementniger.com/rss"
+  },
+  "lewistownsentinel": {
+    "feed": "http://lewistownsentinel.com/rss"
+  },
+  "lexingtonchronicle": {
+    "feed": "http://lexingtonchronicle.com/browse.rss"
+  },
+  "lgz": {
+    "feed": "https://www.lgz.ru/feed"
+  },
+  "libe": {
+    "feed": "http://www.libe.ma/?feed=rss"
+  },
+  "liberation": {
+    "feed": "http://rss.liberation.fr/rss/latest/"
+  },
+  "libereckenovinky": {
+    "feed": "https://www.libereckenovinky.cz/repository/rss/zpravy_all_cs.xml"
+  },
+  "libero": {
+    "feed": "https://libero.pe/rss/home.xml"
+  },
+  "liga": {
+    "feed": "https://biz.liga.net/all/rss.xml"
+  },
+  "limite42": {
+    "feed": "http://www.limite42.com/rss"
+  },
+  "lincolnshireworld": {
+    "feed": "https://www.lincolnshireworld.com/rss"
+  },
+  "lintaslampung": {
+    "feed": "https://web.lintaslampung.com/rss"
+  },
+  "lintelligentdabidjan": {
+    "feed": "https://www.lintelligentdabidjan.info/news/rss"
+  },
+  "liverpoolchampion": {
+    "feed": "http://www.liverpoolchampion.com.au/rss.xml"
+  },
+  "lja": {
+    "feed": "http://www.lja.mx/rss"
+  },
+  "ljnovice": {
+    "feed": "https://ljnovice.si/feed/"
+  },
+  "lmdiario": {
+    "feed": "https://lmdiario.com.ar/rss/general.xml"
+  },
+  "lobosnews": {
+    "feed": "http://lobosnews.com.ar/?feed=rss"
+  },
+  "localnews8": {
+    "feed": "https://localnews8.com/feed/"
+  },
+  "lockhaven": {
+    "feed": "http://lockhaven.com/rss"
+  },
+  "loganbanner": {
+    "feed": "https://www.loganbanner.com/search/?f=rss&t=article&l=cvn&l=50&s=start_time&sd=desc"
+  },
+  "loktej": {
+    "feed": "http://loktej.com/rss"
+  },
+  "loprincipal": {
+    "feed": "http://loprincipal.com.ar/rss"
+  },
+  "losprimeros": {
+    "feed": "http://losprimeros.tv/rss.xml"
+  },
+  "lowdownonline": {
+    "feed": "http://www.lowdownonline.com/rss.xml"
+  },
+  "lr1": {
+    "feed": "http://www.lr1.com.br/rss"
+  },
+  "lt39noticias": {
+    "feed": "http://lt39noticias.com.ar/?feed=rss"
+  },
+  "lupa_cz": {
+    "feed": "https://www.lupa.cz/rss/aktuality/"
+  },
+  "lusakatimes": {
+    "feed": "https://www.lusakatimes.com/feed/"
+  },
+  "luzernerzeitung": {
+    "feed": "https://www.luzernerzeitung.ch/startseite_luz.rss"
+  },
+  "lv12": {
+    "feed": "https://www.lv12.com.ar/rss/home.xml"
+  },
+  "lvz": {
+    "feed": "http://www.lvz.de/rss/feed/lvz_leipzig"
+  },
+  "m24digital": {
+    "feed": "http://m24digital.com/rss"
+  },
+  "macarthuradvertiser": {
+    "feed": "http://www.macarthuradvertiser.com.au/rss.xml"
+  },
+  "macombdaily": {
+    "feed": "http://www.macombdaily.com/atom"
+  },
+  "madagascar-tribune": {
+    "feed": "http://madagascar-tribune.com/spip.php?page=backend"
+  },
+  "madcitysportszone": {
+    "feed": "http://madcitysportszone.com/rss"
+  },
+  "madisonvillemeteor": {
+    "feed": "https://www.madisonvillemeteor.com/rss/articles"
+  },
+  "madridactualidad": {
+    "feed": "http://www.madridactualidad.es/rss.xml"
+  },
+  "magyarkurir": {
+    "feed": "http://magyarkurir.hu/rss/ifjusag"
+  },
+  "magyarnemzet": {
+    "feed": "https://magyarnemzet.hu/feed/"
+  },
+  "magyarnemzet_hu": {
+    "feed": "https://magyarnemzet.hu/publicapi/hu/rss/magyar_nemzet/articles"
+  },
+  "mainecampus": {
+    "feed": "https://mainecampus.com/rss"
+  },
+  "mainlinemedianews": {
+    "feed": "http://mainlinemedianews.com/atom"
+  },
+  "mainlinetoday": {
+    "feed": "https://mainlinetoday.com/feed/"
+  },
+  "maisnova": {
+    "feed": "https://www.maisnova.com.br/rss"
+  },
+  "malang-post": {
+    "feed": "https://www.malang-post.com/rss"
+  },
+  "maldivesindependent": {
+    "feed": "https://maldivesindependent.com/api/rss"
+  },
+  "malijet": {
+    "feed": "https://malijet.com/rss"
+  },
+  "mamujupos": {
+    "feed": "https://mamujupos.com/feed"
+  },
+  "manadonews": {
+    "feed": "http://www.manadonews.co.id/rss"
+  },
+  "mangalam": {
+    "feed": "http://mangalam.com/api/rss"
+  },
+  "manilanews": {
+    "feed": "http://feeds.manilanews.net/rss/3e5bbccc730d258c"
+  },
+  "manilatimes": {
+    "feed": "https://www.manilatimes.net/news/feed/"
+  },
+  "manningrivertimes": {
+    "feed": "https://www.manningrivertimes.com.au/rss.xml"
+  },
+  "maraviexpress": {
+    "feed": "http://maraviexpress.com?feed=rss"
+  },
+  "maravipost": {
+    "feed": "http://maravipost.com/rss"
+  },
+  "mariettatimes": {
+    "feed": "http://www.mariettatimes.com/rss"
+  },
+  "marilianoticia": {
+    "feed": "http://marilianoticia.com.br/?feed=rss"
+  },
+  "marshallnewsmessenger": {
+    "feed": "http://marshallnewsmessenger.com/rss"
+  },
+  "mathrubhumi": {
+    "feed": "http://mathrubhumi.com/rss"
+  },
+  "matichon": {
+    "feed": "https://www.matichon.co.th/feed"
+  },
+  "mauinews": {
+    "feed": "http://www.mauinews.com/rss"
+  },
+  "mauritiustimes": {
+    "feed": "http://mauritiustimes.com/rss"
+  },
+  "mbc": {
+    "feed": "http://www.mbc.mw/rss"
+  },
+  "mccookgazette": {
+    "feed": "http://mccookgazette.com/rss.xml"
+  },
+  "mdpr": {
+    "feed": "https://feed.mdpr.jp/rss/export/mdpr-life.xml"
+  },
+  "mediafax": {
+    "feed": "http://www.mediafax.ro/rss"
+  },
+  "mediamax": {
+    "feed": "http://www.mediamax.am/am/index.rss"
+  },
+  "medianama": {
+    "feed": "https://www.medianama.com/feed/"
+  },
+  "mediapool": {
+    "feed": "http://www.mediapool.bg/rss"
+  },
+  "megatv_com": {
+    "feed": "http://megatv.com/feed"
+  },
+  "mejorinformado": {
+    "feed": "http://www.mejorinformado.com/rss/feed.html?r=8"
+  },
+  "mercado": {
+    "feed": "http://www.mercado.co.ao/rss"
+  },
+  "mercurynews": {
+    "feed": "http://www.mercurynews.com/atom"
+  },
+  "meridiano_mx": {
+    "feed": "http://meridiano.mx/rss"
+  },
+  "messengernews": {
+    "feed": "http://messengernews.net/rss"
+  },
+  "metro_pr": {
+    "feed": "https://www.metro.pr/arc/outboundfeeds/rss/"
+  },
+  "metronews": {
+    "feed": "http://www.metronews.it/?feed=rss"
+  },
+  "mexicoledger": {
+    "feed": "https://www.mexicoledger.com/browse.rss"
+  },
+  "michiganchronicle": {
+    "feed": "https://michiganchronicle.com/?feed=rss2"
+  },
+  "midi-madagasikara": {
+    "feed": "http://www.midi-madagasikara.mg/feed"
+  },
+  "midsouthcoastrisingsun": {
+    "feed": "https://midsouthcoastrisingsun.co.za?feed=rss2"
+  },
+  "midsussextimes": {
+    "feed": "https://www.midsussextimes.co.uk/rss"
+  },
+  "miled": {
+    "feed": "http://miled.com/rss"
+  },
+  "milli": {
+    "feed": "https://www.milli.az/rss/"
+  },
+  "milwaukeemag": {
+    "feed": "https://www.milwaukeemag.com/feed/"
+  },
+  "mingpao": {
+    "feed": "https://news.mingpao.com/rss/pns/s00004.xml"
+  },
+  "mininggazette": {
+    "feed": "http://mininggazette.com/rss"
+  },
+  "miningjournal": {
+    "feed": "http://miningjournal.net/rss"
+  },
+  "minnpost_com": {
+    "feed": "http://www.minnpost.com/rss/"
+  },
+  "minotdailynews": {
+    "feed": "http://minotdailynews.com/rss"
+  },
+  "minutoneuquen": {
+    "feed": "http://minutoneuquen.com/feeds/rss"
+  },
+  "mioriente": {
+    "feed": "http://mioriente.com/rss"
+  },
+  "miseria": {
+    "feed": "http://miseria.com.br?feed=rss"
+  },
+  "missioncityrecord": {
+    "feed": "http://www.missioncityrecord.com/rss"
+  },
+  "missourinet": {
+    "feed": "http://missourinet.com/rss"
+  },
+  "mittelbayerische": {
+    "feed": "http://www.mittelbayerische.de/rss/cham/news.xml"
+  },
+  "mk_by": {
+    "feed": "http://mk.by/feed/"
+  },
+  "modern": {
+    "feed": "https://modern.az/feed"
+  },
+  "monacohebdo": {
+    "feed": "http://monacohebdo.mc?feed=rss"
+  },
+  "montesclaros": {
+    "feed": "http://montesclaros.com/feed.asp"
+  },
+  "monumental": {
+    "feed": "http://monumental.co.cr/rss"
+  },
+  "moodycountyenterprise": {
+    "feed": "http://moodycountyenterprise.com/rss"
+  },
+  "moravskoslezskenovinky": {
+    "feed": "https://www.moravskoslezskenovinky.cz/repository/rss/zpravy_all_cs.xml"
+  },
+  "morgenbladet": {
+    "feed": "https://morgenbladet.no/rss"
+  },
+  "morningjournal": {
+    "feed": "http://morningjournal.com/atom"
+  },
+  "morningjournalnews": {
+    "feed": "http://www.morningjournalnews.com/rss"
+  },
+  "morningstaronline": {
+    "feed": "https://morningstaronline.co.uk/rss.xml"
+  },
+  "morungexpress": {
+    "feed": "http://morungexpress.com/feed"
+  },
+  "motherwelltimes": {
+    "feed": "https://www.motherwelltimes.co.uk/rss"
+  },
+  "mountainx": {
+    "feed": "https://mountainx.com/feed/"
+  },
+  "mptnoticias": {
+    "feed": "https://mptnoticias.com/feed/"
+  },
+  "mrt": {
+    "feed": "https://www.mrt.com/news/feed/news-1437.php"
+  },
+  "msn_foxsports": {
+    "feed": "http://msn.foxsports.com/feedout/syndicatedContent?categoryId=49"
+  },
+  "mtayrnews": {
+    "feed": "https://www.mtayrnews.com/feed/"
+  },
+  "multimediodigital": {
+    "feed": "http://multimediodigital.com/rss"
+  },
+  "mundodeportivo": {
+    "feed": "https://www.mundodeportivo.com/feed/rss/home/"
+  },
+  "musavat": {
+    "feed": "https://musavat.com/rss.xml"
+  },
+  "mutsushimpo": {
+    "feed": "https://mutsushimpo.com/feed/"
+  },
+  "mvestnik": {
+    "feed": "http://www.mvestnik.ru/data/rss"
+  },
+  "mvlsun": {
+    "feed": "http://www.mvlsun.com/rss"
+  },
+  "mycomoxvalleynow": {
+    "feed": "http://www.mycomoxvalleynow.com/rss"
+  },
+  "mymcmurray": {
+    "feed": "http://www.mymcmurray.com/?feed=rss"
+  },
+  "mysanfordherald": {
+    "feed": "https://www.mysanfordherald.com/rss/articles"
+  },
+  "mysteinbach": {
+    "feed": "https://www.mysteinbach.ca/news/feed/"
+  },
+  "myvalleynews": {
+    "feed": "http://www.myvalleynews.com?feed=rss"
+  },
+  "n1info": {
+    "feed": "http://hr.n1info.com/feed"
+  },
+  "n4g": {
+    "feed": "https://n4g.com/feed"
+  },
+  "nagalandpost": {
+    "feed": "http://nagalandpost.com/rss"
+  },
+  "naijafeed": {
+    "feed": "http://www.naijafeed.com/feeds/posts/default"
+  },
+  "nannews_ng": {
+    "feed": "https://www.nannews.ng/?feed=atom"
+  },
+  "nashigroshi": {
+    "feed": "http://nashigroshi.org/rss"
+  },
+  "naszemiasto": {
+    "feed": "https://poznan.naszemiasto.pl/rss/rozrywka/1.xml"
+  },
+  "natchezdemocrat": {
+    "feed": "https://www.natchezdemocrat.com/rss.xml"
+  },
+  "nationaldailyng": {
+    "feed": "http://www.nationaldailyng.com/rss"
+  },
+  "nativanews": {
+    "feed": "http://www.nativanews.com.br/rss.xml"
+  },
+  "nativenewsonline": {
+    "feed": "http://nativenewsonline.net/rss"
+  },
+  "naturenews": {
+    "feed": "http://naturenews.africa/rss"
+  },
+  "navasotaexaminer": {
+    "feed": "https://www.navasotaexaminer.com/rss/articles"
+  },
+  "nbcsports": {
+    "feed": "http://profootballtalk.nbcsports.com/feed/"
+  },
+  "ncreview": {
+    "feed": "https://ncreview.com.au/feed/"
+  },
+  "nden": {
+    "feed": "https://nden.com.ar/rss"
+  },
+  "necocheanet": {
+    "feed": "http://www.necocheanet.com.ar/rss"
+  },
+  "neindia": {
+    "feed": "http://www.neindia.com/rss"
+  },
+  "nelsonstar": {
+    "feed": "http://nelsonstar.com/rss"
+  },
+  "neshobademocrat": {
+    "feed": "http://neshobademocrat.com/rss.xml"
+  },
+  "neuquenalinstante": {
+    "feed": "https://www.neuquenalinstante.com.ar/rss/noticias"
+  },
+  "nevadadailymail": {
+    "feed": "http://nevadadailymail.com/rss.xml"
+  },
+  "newcastlestar": {
+    "feed": "https://www.newcastlestar.com.au/rss.xml"
+  },
+  "neworleanscitybusiness": {
+    "feed": "http://neworleanscitybusiness.com/rss"
+  },
+  "news-journal": {
+    "feed": "http://www.news-journal.com/rss"
+  },
+  "news_lv": {
+    "feed": "https://news.lv/rss"
+  },
+  "newsandsentinel": {
+    "feed": "http://newsandsentinel.com/rss"
+  },
+  "newsatomic": {
+    "feed": "https://newsatomic.com/rss.xml/"
+  },
+  "newsblaze": {
+    "feed": "https://newsblaze.com/feed/"
+  },
+  "newsbucovina": {
+    "feed": "https://www.newsbucovina.ro/feed"
+  },
+  "newsdiaryonline": {
+    "feed": "http://newsdiaryonline.com/rss"
+  },
+  "newsnote": {
+    "feed": "https://newsnote.co.za?feed=rss"
+  },
+  "newtimes": {
+    "feed": "https://www.newtimes.co.rw/rssFeed/14"
+  },
+  "newzjunky": {
+    "feed": "http://newzjunky.com/atom"
+  },
+  "nhtalkradio": {
+    "feed": "https://www.nhtalkradio.com/?feed=rss2"
+  },
+  "nicematin_var": {
+    "feed": "https://www.nicematin.com/var/rss"
+  },
+  "nieuw-volendam": {
+    "feed": "http://www.nieuw-volendam.nl/rss"
+  },
+  "nifty": {
+    "feed": "http://portal.nifty.com/rss/headline.rdf"
+  },
+  "nigeriannewsdirect": {
+    "feed": "https://nigeriannewsdirect.com/rss"
+  },
+  "nigeriannewsportal": {
+    "feed": "http://nigeriannewsportal.com/feed/"
+  },
+  "nigeriasun": {
+    "feed": "http://feeds.nigeriasun.com/rss/8db1f72cde37faf3"
+  },
+  "nikkei": {
+    "feed": "https://business.nikkei.com/rss/all_nb.rdf"
+  },
+  "nin": {
+    "feed": "https://www.nin.rs/rss/najnovije"
+  },
+  "njjewishnews_timesofisrael": {
+    "feed": "https://njjewishnews.timesofisrael.com/?feed=rdf"
+  },
+  "nmidigital": {
+    "feed": "http://www.nmidigital.com/feed/"
+  },
+  "nnsl": {
+    "feed": "http://nnsl.com/rss"
+  },
+  "nordeclair": {
+    "feed": "http://www.nordeclair.fr/rss.xml"
+  },
+  "norrahalland": {
+    "feed": "https://norrahalland.se/feed/"
+  },
+  "nortecorrientes": {
+    "feed": "https://www.nortecorrientes.com/rss"
+  },
+  "northcentralnews": {
+    "feed": "https://northcentralnews.net/feed/"
+  },
+  "northdallasgazette": {
+    "feed": "http://www.northdallasgazette.com?feed=rss"
+  },
+  "northdenvertribune": {
+    "feed": "https://www.northdenvertribune.com/feed/"
+  },
+  "northdevonjournal": {
+    "feed": "http://northdevonjournal.co.uk/rss.xml"
+  },
+  "northerndailyleader": {
+    "feed": "https://www.northerndailyleader.com.au/rss.xml"
+  },
+  "northernexpress": {
+    "feed": "http://northernexpress.com/news/rss/"
+  },
+  "notesfrompoland": {
+    "feed": "http://notesfrompoland.com/rss"
+  },
+  "noticias24carabobo": {
+    "feed": "https://www.noticias24carabobo.com/feed/"
+  },
+  "noticiasaominuto": {
+    "feed": "https://www.noticiasaominuto.com/rss/ultima-hora"
+  },
+  "noticiasargentinas_com": {
+    "feed": "https://noticiasargentinas.com/rss"
+  },
+  "noticiasdechiapas": {
+    "feed": "http://www.noticiasdechiapas.com.mx?feed=rss"
+  },
+  "noticiasdefranca": {
+    "feed": "https://noticiasdefranca.com.br/feed/"
+  },
+  "noticiasdelsoldelalaguna": {
+    "feed": "https://www.noticiasdelsoldelalaguna.com.mx/rss"
+  },
+  "noticiasmercedinas": {
+    "feed": "https://www.noticiasmercedinas.com/?feed=atom"
+  },
+  "noticiasmontehermoso": {
+    "feed": "https://noticiasmontehermoso.com.ar/feed/"
+  },
+  "noticiasnet": {
+    "feed": "https://www.noticiasnet.com.ar/rss/farandula"
+  },
+  "noticiasnoroeste": {
+    "feed": "http://www.noticiasnoroeste.com.br/rss"
+  },
+  "notifeapiv3": {
+    "feed": "https://notifeapiv3.eleco.com.ar/feed-notes"
+  },
+  "notisul": {
+    "feed": "http://www.notisul.com.br/rss"
+  },
+  "notizulia": {
+    "feed": "https://notizulia.net/feed/"
+  },
+  "novanews": {
+    "feed": "https://www.novanews.com.br/feed"
+  },
+  "novedadesdelsur": {
+    "feed": "https://novedadesdelsur.com.ar/rss/general.xml"
+  },
+  "novomomento": {
+    "feed": "http://novomomento.com.br/atom"
+  },
+  "novosti": {
+    "feed": "https://www.novosti.rs/rss/sport/euro-2020"
+  },
+  "novy": {
+    "feed": "https://novy.tv/ru/feed/"
+  },
+  "nowgrenada": {
+    "feed": "http://nowgrenada.com/rss"
+  },
+  "np-coburg": {
+    "feed": "http://www.np-coburg.de/index.xml"
+  },
+  "npinvestor": {
+    "feed": "http://npinvestor.dk/rss"
+  },
+  "nrc": {
+    "feed": "http://www.nrc.nl/feed"
+  },
+  "nrpyrenees": {
+    "feed": "https://www.nrpyrenees.fr/rss.xml"
+  },
+  "nsarrow": {
+    "feed": "http://nsarrow.com/rss"
+  },
+  "nsd": {
+    "feed": "http://www.nsd.se/nyheter/rss"
+  },
+  "nst": {
+    "feed": "https://www.nst.com.my/feed"
+  },
+  "nt_se": {
+    "feed": "http://www.nt.se/nyheter/rss"
+  },
+  "ntv_com_tr": {
+    "feed": "https://www.ntv.com.tr/yasam.rss"
+  },
+  "nuevaya": {
+    "feed": "https://nuevaya.com.ni/feed/"
+  },
+  "nujournal": {
+    "feed": "http://www.nujournal.com/rss"
+  },
+  "nuusflits": {
+    "feed": "https://nuusflits.com/feed/"
+  },
+  "nwasianweekly": {
+    "feed": "https://nwasianweekly.com/feed/"
+  },
+  "nwt": {
+    "feed": "https://www.nwt.se/rss"
+  },
+  "ny1": {
+    "feed": "http://www.ny1.com/services/contentfeed.nyc%7Call-boroughs%7Cpolitics.hero.rss"
+  },
+  "nzcity": {
+    "feed": "https://home.nzcity.co.nz/rss/news.aspx?catid=1033"
+  },
+  "nzherald_co_nz_section_news": {
+    "feed": "https://www.nzherald.co.nz/arc/outboundfeeds/rss/section/news/?outputType=xml&_website=northland-age"
+  },
+  "nzherald_nzhrsscid_001503343": {
+    "feed": "http://rss.nzherald.co.nz/rss/xml/nzhrsscid_001503343.xml"
+  },
+  "nzherald_nzhrsscid_001503438": {
+    "feed": "http://rss.nzherald.co.nz/rss/xml/nzhrsscid_001503438.xml"
+  },
+  "nzherald_nzhrsscid_001503450": {
+    "feed": "http://rss.nzherald.co.nz/rss/xml/nzhrsscid_001503450.xml"
+  },
+  "nzherald_nzhrsscid_001503462": {
+    "feed": "http://rss.nzherald.co.nz/rss/xml/nzhrsscid_001503462.xml"
+  },
+  "obantimes": {
+    "feed": "https://www.obantimes.co.uk/feed/"
+  },
+  "obj_ca": {
+    "feed": "http://www.obj.ca/rss"
+  },
+  "oblgazeta": {
+    "feed": "https://www.oblgazeta.ru/feed/"
+  },
+  "observertoday": {
+    "feed": "http://www.observertoday.com/rss"
+  },
+  "ocregister": {
+    "feed": "http://www.ocregister.com/atom"
+  },
+  "odemocratagb": {
+    "feed": "http://odemocratagb.com/?feed=rss"
+  },
+  "odessarecord": {
+    "feed": "https://www.odessarecord.com/rss"
+  },
+  "odiario_com": {
+    "feed": "http://odiario.com/rss"
+  },
+  "odiariodovale": {
+    "feed": "https://odiariodovale.com/feed/"
+  },
+  "oexpresso": {
+    "feed": "http://www.oexpresso.com.br/rss"
+  },
+  "ogo": {
+    "feed": "http://ogo.ua/feed"
+  },
+  "ojornaldaregiao": {
+    "feed": "http://www.ojornaldaregiao.com.br/rss"
+  },
+  "okaasan": {
+    "feed": "https://www.okaasan.net/feed/"
+  },
+  "olavarrianoticias": {
+    "feed": "https://olavarrianoticias.com.ar/feed/"
+  },
+  "olaylar": {
+    "feed": "https://olaylar.az/rss/"
+  },
+  "oleantimesherald": {
+    "feed": "http://oleantimesherald.com/feed"
+  },
+  "olomouckenovinky": {
+    "feed": "https://www.olomouckenovinky.cz/repository/rss/zpravy_all_cs.xml"
+  },
+  "omni": {
+    "feed": "https://omni.se/rss.xml"
+  },
+  "omovimento": {
+    "feed": "https://www.omovimento.com.br/portal/feed/"
+  },
+  "on_ge": {
+    "feed": "https://on.ge/rss"
+  },
+  "oneidadispatch": {
+    "feed": "http://www.oneidadispatch.com/atom"
+  },
+  "onenewsbd": {
+    "feed": "https://www.onenewsbd.com/feed"
+  },
+  "oneonline": {
+    "feed": "https://oneonline.mv/feed"
+  },
+  "onlinesentinel": {
+    "feed": "http://www.onlinesentinel.com?feed=rss"
+  },
+  "onortao": {
+    "feed": "http://www.onortao.com.br/rss.xml"
+  },
+  "opanoticias": {
+    "feed": "https://opanoticias.com/feed"
+  },
+  "opapel": {
+    "feed": "https://opapel.com/comments/feed/"
+  },
+  "opemsuo": {
+    "feed": "https://opemsuo.com?feed=atom"
+  },
+  "opinionpropia": {
+    "feed": "http://www.opinionpropia.com.ar/rss"
+  },
+  "opinionsemanarioapiv3": {
+    "feed": "https://opinionsemanarioapiv3.eleco.com.ar/feed-notes"
+  },
+  "oregional": {
+    "feed": "https://oregional.net/feed"
+  },
+  "orenburzhie": {
+    "feed": "http://www.orenburzhie.ru/rss"
+  },
+  "ortadogugazetesi": {
+    "feed": "https://www.ortadogugazetesi.com/rss/news"
+  },
+  "orthodoxostypos": {
+    "feed": "https://orthodoxostypos.gr/rss.xml"
+  },
+  "osaogoncalo": {
+    "feed": "http://www.osaogoncalo.com.br/feed/"
+  },
+  "osmondrepublican": {
+    "feed": "https://www.osmondrepublican.com/rss/articles"
+  },
+  "osul": {
+    "feed": "http://osul.com.br/rss"
+  },
+  "otecfmghana": {
+    "feed": "https://otecfmghana.com/?feed=rss"
+  },
+  "outfrontmagazine": {
+    "feed": "https://www.outfrontmagazine.com/feed/"
+  },
+  "ovaciones": {
+    "feed": "http://www.ovaciones.com/rss.xml"
+  },
+  "oyposten": {
+    "feed": "https://www.oyposten.no/rss.xml"
+  },
+  "pacificsun": {
+    "feed": "http://pacificsun.com?feed=rss"
+  },
+  "pagina10": {
+    "feed": "http://pagina10.com/?feed=rss2"
+  },
+  "paislobo": {
+    "feed": "http://paislobo.cl/rss.xml"
+  },
+  "pakistantimes": {
+    "feed": "https://www.pakistantimes.com/feed/"
+  },
+  "paloaltoonline": {
+    "feed": "http://www.paloaltoonline.com?feed=rss2"
+  },
+  "palpres_disway": {
+    "feed": "https://palpres.disway.id/rss/oku"
+  },
+  "pamegipedo": {
+    "feed": "http://www.pamegipedo.com/rss"
+  },
+  "pamplonaactual": {
+    "feed": "https://pamplonaactual.com/feed/"
+  },
+  "pan": {
+    "feed": "http://pan.am?feed=rss"
+  },
+  "paracatu": {
+    "feed": "http://paracatu.net/rss"
+  },
+  "paraguay": {
+    "feed": "http://paraguay.com/index.rss"
+  },
+  "paranavaionline": {
+    "feed": "https://www.paranavaionline.com.br/rss.xml"
+  },
+  "pardubickenovinky": {
+    "feed": "https://www.pardubickenovinky.cz/repository/rss/zpravy_all_cs.xml"
+  },
+  "paris-normandie": {
+    "feed": "https://www.paris-normandie.fr/rss.xml"
+  },
+  "parkcitiespeople": {
+    "feed": "https://www.parkcitiespeople.com/feed/"
+  },
+  "paron": {
+    "feed": "https://www.paron.gr/rss"
+  },
+  "partner_dw": {
+    "feed": "http://partner.dw.com/syndication/feeds/RSS_VAF_Club-K.22869-cb.xml"
+  },
+  "pasadenastarnews": {
+    "feed": "http://www.pasadenastarnews.com/atom"
+  },
+  "patriotpost": {
+    "feed": "https://patriotpost.us/rss"
+  },
+  "peacearchnews": {
+    "feed": "http://peacearchnews.com/rss"
+  },
+  "pendoreillerivervalley": {
+    "feed": "https://www.pendoreillerivervalley.com/rss/articles"
+  },
+  "peopledaily": {
+    "feed": "https://peopledaily.digital/rss"
+  },
+  "peoplesdaily": {
+    "feed": "https://peoplesdaily.ng/feed/"
+  },
+  "periodicoelmexicano": {
+    "feed": "https://www.periodicoelmexicano.com.mx/rss"
+  },
+  "periodicolaguajira": {
+    "feed": "http://periodicolaguajira.com/?format=feed&type=rss"
+  },
+  "periskopi": {
+    "feed": "https://periskopi.com/sq/rss.xml"
+  },
+  "pesterlloyd": {
+    "feed": "http://pesterlloyd.net/rss"
+  },
+  "pghcitypaper": {
+    "feed": "http://www.pghcitypaper.com/?feed=atom"
+  },
+  "philenews": {
+    "feed": "https://en.philenews.com/feed/"
+  },
+  "philippinesnews": {
+    "feed": "http://feeds.philippinesnews.net/rss/0267775d6f1c3971"
+  },
+  "philippinetimes": {
+    "feed": "http://feeds.philippinetimes.com/rss/0267775d6f1c3971"
+  },
+  "phoenixmag": {
+    "feed": "http://phoenixmag.com/rss"
+  },
+  "phoenixvillenews": {
+    "feed": "http://www.phoenixvillenews.com/atom"
+  },
+  "pilardetodosapiv3": {
+    "feed": "https://pilardetodosapiv3.eleco.com.ar/feed-notes"
+  },
+  "pilarpolitico": {
+    "feed": "http://pilarpolitico.com.ar/rss"
+  },
+  "pinebluffspost": {
+    "feed": "http://pinebluffspost.com/rss/articles"
+  },
+  "pink": {
+    "feed": "https://pink.rs/rss-feed"
+  },
+  "pipestoneflyer": {
+    "feed": "http://www.pipestoneflyer.ca/rss"
+  },
+  "pisra": {
+    "feed": "http://www.pisra.com.au/rss"
+  },
+  "pjmedia": {
+    "feed": "https://pjmedia.com/feed"
+  },
+  "planetesport": {
+    "feed": "http://www.planetesport.dz/?feed=rss"
+  },
+  "pln-pskov": {
+    "feed": "https://pln-pskov.ru/rss.php"
+  },
+  "plovdiv24": {
+    "feed": "https://plovdiv24.bg/rss.php"
+  },
+  "plzenskenovinky": {
+    "feed": "https://www.plzenskenovinky.cz/repository/rss/zpravy_all_cs.xml"
+  },
+  "pmnewsnigeria": {
+    "feed": "https://www.pmnewsnigeria.com/feed/"
+  },
+  "pogled": {
+    "feed": "https://pogled.info/rss"
+  },
+  "polennu": {
+    "feed": "https://polennu.dk/rss"
+  },
+  "politicargentina": {
+    "feed": "https://www.politicargentina.com/feed/ultimasnoticias.xml"
+  },
+  "politics": {
+    "feed": "https://www.politics.co.uk/feed/"
+  },
+  "politicspa": {
+    "feed": "http://www.politicspa.com?feed=rss"
+  },
+  "politie": {
+    "feed": "http://www.politie.sr/feed/"
+  },
+  "pomorska": {
+    "feed": "http://www.pomorska.pl/rss"
+  },
+  "portalamazonia": {
+    "feed": "http://portalamazonia.com/rss"
+  },
+  "portaldanoticia": {
+    "feed": "http://portaldanoticia.com.br/rss"
+  },
+  "portaldeamericana": {
+    "feed": "http://www.portaldeamericana.com/atom"
+  },
+  "portaldoholanda": {
+    "feed": "https://www.portaldoholanda.com.br/feed"
+  },
+  "portalmorada": {
+    "feed": "http://www.portalmorada.com.br/rss"
+  },
+  "portalodia": {
+    "feed": "http://www.portalodia.com/rss/index.xml"
+  },
+  "portalregional": {
+    "feed": "http://www.portalregional.net.br/rss"
+  },
+  "portaltanacidade": {
+    "feed": "http://portaltanacidade.com/feed"
+  },
+  "portlandmercury": {
+    "feed": "http://portlandmercury.com?feed=rss"
+  },
+  "portlincolntimes": {
+    "feed": "http://portlincolntimes.com.au/rss"
+  },
+  "posmetropadang": {
+    "feed": "http://posmetropadang.co.id/rss"
+  },
+  "post-journal": {
+    "feed": "http://post-journal.com/rss"
+  },
+  "postnewsgroup": {
+    "feed": "http://www.postnewsgroup.com/rss.xml"
+  },
+  "pottsmerc": {
+    "feed": "http://pottsmerc.com/atom"
+  },
+  "powelltribune": {
+    "feed": "https://www.powelltribune.com/browse.rss"
+  },
+  "prensalibreformosa": {
+    "feed": "https://www.prensalibreformosa.com/feed/rss/"
+  },
+  "prensasantiago": {
+    "feed": "http://www.prensasantiago.com.ar/rss"
+  },
+  "presenciapr": {
+    "feed": "http://www.presenciapr.com/feed/"
+  },
+  "press-herald": {
+    "feed": "http://press-herald.com/feed/"
+  },
+  "pressdemocrat": {
+    "feed": "http://pressdemocrat.com/atom"
+  },
+  "pressherald_2": {
+    "feed": "https://www.pressherald.com/feed/"
+  },
+  "pressherald_times-record": {
+    "feed": "https://www.pressherald.com/times-record/feed/"
+  },
+  "presstelegram": {
+    "feed": "http://www.presstelegram.com/atom"
+  },
+  "primachivasso": {
+    "feed": "https://primachivasso.it/rdf"
+  },
+  "primeralinea": {
+    "feed": "https://primeralinea.com.co/rss"
+  },
+  "prin_gr": {
+    "feed": "http://prin.gr?feed=rss"
+  },
+  "prismamediadigital_com": {
+    "feed": "https://feed.prismamediadigital.com/v1/fac/rss?limit=20"
+  },
+  "prismamediadigital_v1_voi": {
+    "feed": "https://feed.prismamediadigital.com/v1/voi/rss?limit=20"
+  },
+  "prnewswire": {
+    "feed": "http://www.prnewswire.co.uk/rss/english-releases-news.rss"
+  },
+  "proceso": {
+    "feed": "https://proceso.hn/feed/"
+  },
+  "pronto": {
+    "feed": "http://pronto.com.ar/feeds/rss"
+  },
+  "proycontra": {
+    "feed": "http://proycontra.com.pe/rss.xml"
+  },
+  "proyectodiez": {
+    "feed": "http://www.proyectodiez.mx/rss"
+  },
+  "publimetro_co": {
+    "feed": "http://publimetro.co/arc/outboundfeeds/rss/?outputType=xml"
+  },
+  "puertoricotribune": {
+    "feed": "http://www.puertoricotribune.com/rss"
+  },
+  "qoly": {
+    "feed": "https://qoly.jp/_rss/rss20.xml"
+  },
+  "queer": {
+    "feed": "http://queer.de/rss/newsticker2.0.komplett.xml"
+  },
+  "quepasajujuy": {
+    "feed": "https://www.quepasajujuy.com.ar/files/rss/default.xml"
+  },
+  "r24n": {
+    "feed": "https://r24n.com/rss/noticias.xml"
+  },
+  "radarbanten": {
+    "feed": "https://www.radarbanten.co.id/rss"
+  },
+  "radarlampung": {
+    "feed": "https://radarlampung.co.id/feed/"
+  },
+  "radartegal_disway": {
+    "feed": "https://radartegal.disway.id/rss/tegal"
+  },
+  "radikal": {
+    "feed": "http://www.radikal.com.tr/rss"
+  },
+  "radioberlin": {
+    "feed": "http://www.radioberlin.de/index.xml/allitems=true/feed=rss/path=middleColumnList%21teaserbox_1732549717.xml"
+  },
+  "radiodelguaran": {
+    "feed": "http://www.radiodelguaran.com.ar/rss"
+  },
+  "radiodos": {
+    "feed": "https://www.radiodos.com.ar/rss"
+  },
+  "radiofrance": {
+    "feed": "https://www.radiofrance.fr/franceculture/rss"
+  },
+  "radioguemes": {
+    "feed": "http://www.radioguemes.com.ar/rss"
+  },
+  "radioinblu": {
+    "feed": "https://www.radioinblu.it/feed/"
+  },
+  "radioinfinitagoya": {
+    "feed": "http://radioinfinitagoya.com.ar/v1/feed/"
+  },
+  "radiolavoz": {
+    "feed": "http://radiolavoz.com.ar/rss"
+  },
+  "radiomagallanes": {
+    "feed": "http://radiomagallanes.cl/rss"
+  },
+  "radiomundial": {
+    "feed": "http://radiomundial.com.ve/rss"
+  },
+  "radionz": {
+    "feed": "http://www.radionz.co.nz/podcasts/allrnz.rss"
+  },
+  "radioproto": {
+    "feed": "http://www.radioproto.com.cy/?feed=rss"
+  },
+  "radiorebelde": {
+    "feed": "http://radiorebelde.cu/atom"
+  },
+  "radiosvoboda": {
+    "feed": "https://www.radiosvoboda.org/api/"
+  },
+  "rajdhanidaily": {
+    "feed": "https://rajdhanidaily.com/rss"
+  },
+  "ramalloinforma": {
+    "feed": "http://www.ramalloinforma.com.ar/rss"
+  },
+  "rbatv": {
+    "feed": "http://www.rbatv.com.br/rss"
+  },
+  "reconquistahoy": {
+    "feed": "https://www.reconquistahoy.com/rss"
+  },
+  "record_com_mx": {
+    "feed": "https://www.record.com.mx/rss"
+  },
+  "redlandsdailyfacts": {
+    "feed": "http://www.redlandsdailyfacts.com/atom"
+  },
+  "reflex": {
+    "feed": "http://reflex.cz/rss"
+  },
+  "regiaonoroeste": {
+    "feed": "http://www.regiaonoroeste.com/atom"
+  },
+  "regionalmedianews": {
+    "feed": "https://regionalmedianews.com/feed/"
+  },
+  "regionalni": {
+    "feed": "http://regionalni.com/atom"
+  },
+  "regionalninovinky": {
+    "feed": "https://www.regionalninovinky.cz/repository/rss/zpravy_all_cs.xml"
+  },
+  "replicaonline": {
+    "feed": "https://www.replicaonline.ro/rss"
+  },
+  "reporteri": {
+    "feed": "https://reporteri.net/rss"
+  },
+  "republicanherald": {
+    "feed": "http://republicanherald.com/atom"
+  },
+  "reviewonline": {
+    "feed": "http://reviewonline.com/rss"
+  },
+  "revistadiners": {
+    "feed": "http://revistadiners.com.co/rss"
+  },
+  "rfa": {
+    "feed": "http://www.rfa.org/korean/RSS"
+  },
+  "rheintaler": {
+    "feed": "https://rheintaler.ch/rss"
+  },
+  "rian": {
+    "feed": "http://sp.rian.ru/export/rss2/index.xml"
+  },
+  "riau24": {
+    "feed": "https://www.riau24.com/rss/berita.xml"
+  },
+  "richmondmagazine": {
+    "feed": "https://richmondmagazine.com/api/rss/content.rss"
+  },
+  "rijnmond": {
+    "feed": "https://www.rijnmond.nl/rss/index.xml"
+  },
+  "rimbeyreview": {
+    "feed": "http://www.rimbeyreview.com/rss"
+  },
+  "riograndesun": {
+    "feed": "https://www.riograndesun.com/rss"
+  },
+  "risingsunlenasia": {
+    "feed": "http://www.risingsunlenasia.co.za/?feed=rss2"
+  },
+  "ritzau": {
+    "feed": "https://via.ritzau.dk/rss/releases/latest"
+  },
+  "riverineherald": {
+    "feed": "https://www.riverineherald.com.au/feeds"
+  },
+  "rivieraradio": {
+    "feed": "http://rivieraradio.mc/feed"
+  },
+  "rjrnewsonline": {
+    "feed": "http://rjrnewsonline.com/feed/business"
+  },
+  "rnd": {
+    "feed": "https://www.rnd.de/arc/outboundfeeds/rss/"
+  },
+  "robsonranchpioneerpress": {
+    "feed": "https://robsonranchpioneerpress.com/feed/"
+  },
+  "rolandonaorla": {
+    "feed": "https://rolandonaorla.com.br/rss.xml"
+  },
+  "rostov": {
+    "feed": "https://rostov.ru/rss.xml"
+  },
+  "roteironoticias": {
+    "feed": "http://www.roteironoticias.com.br/?feed=rss"
+  },
+  "royanews": {
+    "feed": "https://royanews.tv/rss"
+  },
+  "rozhlas": {
+    "feed": "http://www.rozhlas.cz/zpravy/rss_aktualne"
+  },
+  "rpp": {
+    "feed": "http://rpp.pe/feed"
+  },
+  "rsi": {
+    "feed": "https://www.rsi.ch/sport/?f=rss"
+  },
+  "rss": {
+    "feed": "https://rss.app/feeds/HfE00F3NojWZnaCV.xml?paged=1&paged=1"
+  },
+  "rthk": {
+    "feed": "http://rthk.hk/rthk/news/rss/c_expressnews_clocal.xml"
+  },
+  "rtl_hu": {
+    "feed": "https://rss.rtl.hu/"
+  },
+  "rtr": {
+    "feed": "https://www.rtr.ch/novitads/bnf/rss/5452850"
+  },
+  "rtrs": {
+    "feed": "http://rtrs.tv/vijesti/rss.php"
+  },
+  "rtvbpk": {
+    "feed": "https://rtvbpk.ba/feed/"
+  },
+  "rtvdrenthe": {
+    "feed": "https://www.rtvdrenthe.nl/rss/index.xml"
+  },
+  "rtvoost": {
+    "feed": "https://www.rtvoost.nl/rss"
+  },
+  "rtvutrecht": {
+    "feed": "https://www.rtvutrecht.nl/rss/sport.xml"
+  },
+  "rus_err": {
+    "feed": "https://rus.err.ee/rss"
+  },
+  "ryeandbattleobserver": {
+    "feed": "https://www.ryeandbattleobserver.co.uk/rss"
+  },
+  "sadoimardum": {
+    "feed": "http://sadoimardum.tj/rss.xml"
+  },
+  "saint-petersburg": {
+    "feed": "https://saint-petersburg.ru/rss/spbru.rss"
+  },
+  "salamancapress": {
+    "feed": "http://salamancapress.com/feed"
+  },
+  "salamancartvaldia": {
+    "feed": "https://salamancartvaldia.es/rss.xml"
+  },
+  "salemnews": {
+    "feed": "http://salemnews.net/rss"
+  },
+  "salinasun": {
+    "feed": "https://salinasun.online/rdf"
+  },
+  "saloumactu": {
+    "feed": "http://saloumactu.com?feed=rss"
+  },
+  "saludnews": {
+    "feed": "http://www.saludnews.net?feed=rss"
+  },
+  "sandhillsexpress": {
+    "feed": "http://www.sandhillsexpress.com/atom"
+  },
+  "sandiegouniontribune": {
+    "feed": "http://sandiegouniontribune.com/atom"
+  },
+  "sanfernandodigital": {
+    "feed": "http://sanfernandodigital.com.ar?feed=rss"
+  },
+  "sangbadkonika": {
+    "feed": "http://www.sangbadkonika.com/feed/"
+  },
+  "sanmartinadiario": {
+    "feed": "https://www.sanmartinadiario.com.ar/rss/"
+  },
+  "sanpetemessenger": {
+    "feed": "https://sanpetemessenger.com/feed/"
+  },
+  "sanslimitesn": {
+    "feed": "https://sanslimitesn.com?feed=rss"
+  },
+  "sanyufm": {
+    "feed": "http://sanyufm.com/rss"
+  },
+  "saratogian": {
+    "feed": "http://www.saratogian.com/atom"
+  },
+  "sardiniapost": {
+    "feed": "https://sardiniapost.it/?feed=rss2"
+  },
+  "saudigazette": {
+    "feed": "http://www.saudigazette.com.sa/rssFeed/31"
+  },
+  "sauerlandkurier": {
+    "feed": "https://www.sauerlandkurier.de/deutschland-welt/rssfeed.rdf"
+  },
+  "sbnation": {
+    "feed": "https://www.sbnation.com/rss/index.xml"
+  },
+  "sbnewspaper": {
+    "feed": "https://www.sbnewspaper.com/feed/"
+  },
+  "sbsun": {
+    "feed": "http://www.sbsun.com/atom"
+  },
+  "scoop": {
+    "feed": "https://www.scoop.co.nz/storyindex/index.rss?s.c=AK"
+  },
+  "sdvoice": {
+    "feed": "http://www.sdvoice.info?feed=rss"
+  },
+  "sealynews": {
+    "feed": "https://www.sealynews.com/rss/articles"
+  },
+  "semanarioactualidad": {
+    "feed": "http://www.semanarioactualidad.com.ar/rss"
+  },
+  "semissourian": {
+    "feed": "https://www.semissourian.com/rss.xml"
+  },
+  "senadinhomacaiba": {
+    "feed": "http://senadinhomacaiba.com.br/blog/feed/"
+  },
+  "seneweb": {
+    "feed": "http://seneweb.com/rss.xml"
+  },
+  "sentinelandenterprise": {
+    "feed": "http://www.sentinelandenterprise.com/atom"
+  },
+  "sentv": {
+    "feed": "https://www.sentv.info?feed=rss"
+  },
+  "sesqazeti": {
+    "feed": "https://sesqazeti.az/feed.php"
+  },
+  "seymourtelegraph": {
+    "feed": "https://www.seymourtelegraph.com.au/feeds"
+  },
+  "sggp": {
+    "feed": "https://www.sggp.org.vn/rss/home.rss"
+  },
+  "sgvtribune": {
+    "feed": "http://www.sgvtribune.com/atom"
+  },
+  "shanghainews": {
+    "feed": "http://feeds.shanghainews.net/rss/360231fd461d67ac"
+  },
+  "shawlocal_arc_outboundfeeds": {
+    "feed": "https://www.shawlocal.com/arc/outboundfeeds/rss/?outputType=xml"
+  },
+  "shawlocal_news_local": {
+    "feed": "https://www.shawlocal.com/arc/outboundfeeds/rss/category/bureau-county-republican/news/local/?outputType=xml"
+  },
+  "shelknamsur": {
+    "feed": "https://shelknamsur.com/rss/general.xml"
+  },
+  "shepherdexpress": {
+    "feed": "https://shepherdexpress.com/api/rss/content.rss"
+  },
+  "shoredailynews": {
+    "feed": "https://shoredailynews.com/feed/"
+  },
+  "shqiperia": {
+    "feed": "http://lajme.shqiperia.com/feed/rss/media/4/medianame/Panorama"
+  },
+  "shtusim": {
+    "feed": "https://shtusim.com/feed/"
+  },
+  "si21": {
+    "feed": "https://www.si21.com/rss/sl/"
+  },
+  "sibconline": {
+    "feed": "https://www.sibconline.com.sb/feed/"
+  },
+  "sierraleonetimes": {
+    "feed": "http://feeds.sierraleonetimes.com/rss/8fcd2bb0346b8627"
+  },
+  "signalscv": {
+    "feed": "http://www.signalscv.com?feed=rss"
+  },
+  "singaporenews": {
+    "feed": "http://feeds.singaporenews.net/rss/a677a0718b69db72"
+  },
+  "skaraborgsbygden": {
+    "feed": "https://www.skaraborgsbygden.se/rss.xml"
+  },
+  "skyhidailynews": {
+    "feed": "http://skyhidailynews.com/rss"
+  },
+  "smokymountainnews": {
+    "feed": "http://www.smokymountainnews.com?feed=rss"
+  },
+  "smp_se": {
+    "feed": "http://smp.se/rss"
+  },
+  "socialsamosa": {
+    "feed": "https://www.socialsamosa.com/rss"
+  },
+  "soester-anzeiger": {
+    "feed": "https://www.soester-anzeiger.de/deutschland-welt/rssfeed.rdf"
+  },
+  "softpower": {
+    "feed": "https://www.softpower.ug/rss"
+  },
+  "solochaco": {
+    "feed": "https://solochaco.com/feed/"
+  },
+  "somoyerkonthosor": {
+    "feed": "https://www.somoyerkonthosor.com/feed"
+  },
+  "sonomanews": {
+    "feed": "http://www.sonomanews.com/atom"
+  },
+  "sorianototal": {
+    "feed": "https://www.sorianototal.com/feed/"
+  },
+  "southernchestercountyweeklies": {
+    "feed": "http://southernchestercountyweeklies.com/atom"
+  },
+  "southwesttimes": {
+    "feed": "https://www.southwesttimes.com/feed/"
+  },
+  "sozcu": {
+    "feed": "http://sozcu.com.tr/rss.xml"
+  },
+  "sport-express": {
+    "feed": "https://www.sport-express.ru/services/materials/news/se/"
+  },
+  "sport-ivoire": {
+    "feed": "http://www.sport-ivoire.ci/rss.xml"
+  },
+  "sport1": {
+    "feed": "http://sport1.de/atom"
+  },
+  "sportbox": {
+    "feed": "https://news.sportbox.ru/taxonomy/term/7212/0/feed"
+  },
+  "sportingnews": {
+    "feed": "https://www.sportingnews.com/au/rss"
+  },
+  "sports": {
+    "feed": "https://www.sports.ru/rss/all_news.xml"
+  },
+  "sports-focus": {
+    "feed": "https://sports-focus.co.za/feed/"
+  },
+  "sportsnet": {
+    "feed": "http://sportsnet.ca/atom"
+  },
+  "sportstar_thehindu": {
+    "feed": "https://sportstar.thehindu.com/feeder/default.rss"
+  },
+  "spreaker": {
+    "feed": "https://www.spreaker.com/show/2122617/episodes/feed"
+  },
+  "srf": {
+    "feed": "https://www.srf.ch/news/bnf/rss/1646"
+  },
+  "srherald": {
+    "feed": "http://srherald.com/rss"
+  },
+  "standard-democrat": {
+    "feed": "http://standard-democrat.com/rss.xml"
+  },
+  "stargazete": {
+    "feed": "http://www.stargazete.com/rss/spor.xml"
+  },
+  "startitup": {
+    "feed": "http://startitup.sk/rss"
+  },
+  "startribune": {
+    "feed": "https://www.startribune.com/local/index.rss2"
+  },
+  "starweekly": {
+    "feed": "http://starweekly.com.au/rss"
+  },
+  "stkittsgazette": {
+    "feed": "http://www.stkittsgazette.com/rss"
+  },
+  "stluciachronicle": {
+    "feed": "http://www.stluciachronicle.com/rss"
+  },
+  "stolitsa": {
+    "feed": "https://www.stolitsa.ee/rss"
+  },
+  "straitstimes": {
+    "feed": "https://www.straitstimes.com/news/life/rss.xml"
+  },
+  "strathmoretimes": {
+    "feed": "http://www.strathmoretimes.com/rss"
+  },
+  "stredoceskenovinky": {
+    "feed": "https://www.stredoceskenovinky.cz/repository/rss/zpravy_all_cs.xml"
+  },
+  "struma": {
+    "feed": "https://www.struma.com/rss/"
+  },
+  "stuff_2": {
+    "feed": "https://www.stuff.co.nz/feed"
+  },
+  "stuff_co_nz": {
+    "feed": "https://www.stuff.co.nz/rss"
+  },
+  "stuff_co_za": {
+    "feed": "https://stuff.co.za?feed=rss"
+  },
+  "stvincenttribune": {
+    "feed": "http://www.stvincenttribune.com/rss"
+  },
+  "sudinfo_2023_cible_principale": {
+    "feed": "https://www.sudinfo.be/rss2/2023/cible_principale_gratuit"
+  },
+  "sudinfo_60_default_destination": {
+    "feed": "http://www.sudinfo.be/feed/60/default_destination_block_regions/"
+  },
+  "sudinfo_be": {
+    "feed": "http://www.sudinfo.be/rss/2023/cible_principale_gratuit"
+  },
+  "suffolknews": {
+    "feed": "https://www.suffolknews.co.uk/_api/rss/bury_news_feed.xml"
+  },
+  "sulutnews": {
+    "feed": "http://www.sulutnews.com/rss"
+  },
+  "sumaterapost": {
+    "feed": "https://sumaterapost.co/rss"
+  },
+  "sundayexpress": {
+    "feed": "http://sundayexpress.co.ls/?feed=rss"
+  },
+  "sungazette": {
+    "feed": "http://sungazette.com/rss"
+  },
+  "suntimes": {
+    "feed": "http://www.suntimes.com/feed"
+  },
+  "sussexexpress": {
+    "feed": "https://www.sussexexpress.co.uk/rss"
+  },
+  "sussexexpress_co_uk": {
+    "feed": "https://www.sussexexpress.co.uk/your-sussex/west-sussex/crawley/rss"
+  },
+  "sussexexpress_west-sussex_midh": {
+    "feed": "https://www.sussexexpress.co.uk/your-sussex/west-sussex/midhurst-and-petworth/rss"
+  },
+  "svaboda": {
+    "feed": "https://www.svaboda.org/api/"
+  },
+  "svoboda": {
+    "feed": "https://www.svoboda.org/api/"
+  },
+  "sylvanlakenews": {
+    "feed": "http://www.sylvanlakenews.com/rss"
+  },
+  "szekelyhon": {
+    "feed": "https://szekelyhon.ro/rss/szekelyhon_hirek.xml"
+  },
+  "szon": {
+    "feed": "https://szon.hu/feed/"
+  },
+  "sztafeta": {
+    "feed": "https://sztafeta.pl/feed/"
+  },
+  "t-online": {
+    "feed": "https://suche.t-online.de/editorial_news.xml"
+  },
+  "tabla": {
+    "feed": "https://www.tabla.com.sg/rss.xml"
+  },
+  "tachles": {
+    "feed": "https://tachles.ch/feed"
+  },
+  "tagblatt": {
+    "feed": "https://www.tagblatt.ch/ostschweiz/frauenfeld.rss"
+  },
+  "tagblatt_ch": {
+    "feed": "https://www.tagblatt.ch/ostschweiz/toggenburg.rss"
+  },
+  "tageblatt_lu": {
+    "feed": "https://www.tageblatt.lu/news.rss"
+  },
+  "talabanews": {
+    "feed": "https://www.talabanews.net/rss.xml"
+  },
+  "talamua": {
+    "feed": "http://www.talamua.com/?feed=rss"
+  },
+  "talkingpointsmemo": {
+    "feed": "http://www.talkingpointsmemo.com?feed=rss2"
+  },
+  "tangerangonline": {
+    "feed": "http://tangerangonline.id?feed=rss"
+  },
+  "taylorpress": {
+    "feed": "https://www.taylorpress.net/rss/articles"
+  },
+  "tdg": {
+    "feed": "http://www.tdg.ch/rss_ticker.html"
+  },
+  "techetoday": {
+    "feed": "https://www.techetoday.com/rss/articles"
+  },
+  "technologyreview": {
+    "feed": "https://www.technologyreview.jp/feed/rdf"
+  },
+  "teixeiranews": {
+    "feed": "http://teixeiranews.com.br?feed=rss"
+  },
+  "telegraf": {
+    "feed": "https://www.telegraf.rs/rss"
+  },
+  "telerama": {
+    "feed": "https://www.telerama.fr/rss/cinema.xml"
+  },
+  "terkini": {
+    "feed": "https://makassar.terkini.id/rdf"
+  },
+  "terra": {
+    "feed": "https://www.terra.com.br/rss.xml"
+  },
+  "texascatholic": {
+    "feed": "http://www.texascatholic.com/feed/"
+  },
+  "texasenergyreport": {
+    "feed": "https://texasenergyreport.com/feed/"
+  },
+  "texasinsider": {
+    "feed": "http://www.texasinsider.org/index.rss"
+  },
+  "texasmonthly": {
+    "feed": "http://texasmonthly.com?feed=rss"
+  },
+  "thaiexaminer": {
+    "feed": "http://www.thaiexaminer.com/rss"
+  },
+  "thailandnews": {
+    "feed": "http://feeds.thailandnews.net/rss/7eb51d3138244bed"
+  },
+  "thaipost": {
+    "feed": "https://www.thaipost.net/feed/"
+  },
+  "thairath": {
+    "feed": "http://thairath.co.th/rss/news"
+  },
+  "the-tartan": {
+    "feed": "https://the-tartan.org/feed/"
+  },
+  "theabujatimes": {
+    "feed": "https://theabujatimes.com/rss.xml"
+  },
+  "theadvance": {
+    "feed": "https://theadvance.ca/?feed=comments-rss2"
+  },
+  "thealpenanews": {
+    "feed": "http://thealpenanews.com/rss"
+  },
+  "thearabianpost": {
+    "feed": "https://thearabianpost.com/feed"
+  },
+  "theatlantavoice": {
+    "feed": "https://www.theatlantavoice.com/rss.xml"
+  },
+  "thebalochhal": {
+    "feed": "http://thebalochhal.com/rss"
+  },
+  "theblacksheartimes": {
+    "feed": "https://www.theblacksheartimes.com/rss/articles"
+  },
+  "thecambodianews": {
+    "feed": "http://feeds.thecambodianews.net/rss/c7e1014a94f7e43b"
+  },
+  "thecarletonian": {
+    "feed": "https://thecarletonian.com/feed/"
+  },
+  "thecatholicspirit": {
+    "feed": "http://thecatholicspirit.com/rss"
+  },
+  "thecherrycreeknews": {
+    "feed": "http://www.thecherrycreeknews.com/rss"
+  },
+  "thecitizen": {
+    "feed": "http://thecitizen.com/rss"
+  },
+  "thedenmarknews": {
+    "feed": "https://thedenmarknews.com/rss.xml"
+  },
+  "thedhakatimes": {
+    "feed": "https://thedhakatimes.com/feed/"
+  },
+  "thedigitalnp": {
+    "feed": "https://thedigitalnp.com/rss.xml"
+  },
+  "thegeorgiasun": {
+    "feed": "http://thegeorgiasun.com/?feed=rss2"
+  },
+  "thegremlin": {
+    "feed": "https://www.thegremlin.co.za/atom"
+  },
+  "thehansindia": {
+    "feed": "https://www.thehansindia.com/google_feeds.xml"
+  },
+  "theintelligencer_net": {
+    "feed": "http://www.theintelligencer.net/rss"
+  },
+  "thekatynews": {
+    "feed": "http://thekatynews.com/rss"
+  },
+  "themarker": {
+    "feed": "http://www.themarker.com/cmlink/themarker-%D7%9B%D7%95%D7%AA%D7%A8%D7%95%D7%AA-%D7%93%D7%A3-%D7%94%D7%91%D7%99%D7%AA-1.145"
+  },
+  "themorningsun": {
+    "feed": "http://themorningsun.com/atom"
+  },
+  "thenation": {
+    "feed": "https://www.thenation.com/feed/?post_type=article"
+  },
+  "thenewdawnliberia": {
+    "feed": "https://thenewdawnliberia.com/feed/"
+  },
+  "thenews-chronicle": {
+    "feed": "http://thenews-chronicle.com/rss"
+  },
+  "thenewsherald": {
+    "feed": "http://thenewsherald.com/atom"
+  },
+  "thenewsjournal": {
+    "feed": "https://www.thenewsjournal.net/feed/"
+  },
+  "thenewsnigeria": {
+    "feed": "http://thenewsnigeria.com.ng/feed"
+  },
+  "thephuketnews": {
+    "feed": "https://www.thephuketnews.com/rss-xml/news.xml"
+  },
+  "thepolypost": {
+    "feed": "https://thepolypost.com/feed/"
+  },
+  "theportugalnews": {
+    "feed": "https://www.theportugalnews.com/rss"
+  },
+  "theprogress_com": {
+    "feed": "https://www.theprogress.com/?feed=rss2"
+  },
+  "therecordnewspaper": {
+    "feed": "https://therecordnewspaper.org/rss"
+  },
+  "thereporteronline": {
+    "feed": "http://www.thereporteronline.com/atom"
+  },
+  "thermopir": {
+    "feed": "https://www.thermopir.com/rss"
+  },
+  "theroot": {
+    "feed": "https://www.theroot.com/feed"
+  },
+  "therunneronline": {
+    "feed": "https://therunneronline.com/feed/atom/"
+  },
+  "thesaturdaypaper": {
+    "feed": "http://thesaturdaypaper.com.au/feed.xml"
+  },
+  "thestandardnewspaper_ca": {
+    "feed": "https://www.thestandardnewspaper.ca/blog-feed.xml"
+  },
+  "thestar": {
+    "feed": "https://www.thestar.com/search/?f=rss&t=article&c=news*&l=50&s=start_time&sd=desc"
+  },
+  "thestylus": {
+    "feed": "https://thestylus.net/feed/"
+  },
+  "thesuffolkjournal": {
+    "feed": "https://thesuffolkjournal.com/feed/atom/"
+  },
+  "thesun_my": {
+    "feed": "https://thesun.my/feed/"
+  },
+  "thethaiger": {
+    "feed": "https://thethaiger.com/feed"
+  },
+  "thetimes-tribune": {
+    "feed": "http://thetimes-tribune.com/atom"
+  },
+  "thetowerlight": {
+    "feed": "http://thetowerlight.com/rss"
+  },
+  "thevarsity": {
+    "feed": "https://thevarsity.ca/feed/"
+  },
+  "thevindicator": {
+    "feed": "https://www.thevindicator.com/rss/articles"
+  },
+  "thevistapress": {
+    "feed": "https://thevistapress.com/feed/atom/"
+  },
+  "thewaynecountynews": {
+    "feed": "https://www.thewaynecountynews.com/feed.atom"
+  },
+  "theweek_co_uk": {
+    "feed": "http://theweek.co.uk/rss"
+  },
+  "thewestsidegazette": {
+    "feed": "http://www.thewestsidegazette.com?feed=rss"
+  },
+  "thies24": {
+    "feed": "https://www.thies24.com?feed=rss"
+  },
+  "thoibao": {
+    "feed": "https://thoibao.com/feed/"
+  },
+  "thonline": {
+    "feed": "http://www.thonline.com/search/?q=&t=article&l=500&d=today&d1=&d2=&s=&sd=desc&f=rss"
+  },
+  "tiemponoticias": {
+    "feed": "http://tiemponoticias.com.ar/?feed=rss"
+  },
+  "tienphong": {
+    "feed": "https://www.tienphong.vn/rss/home.rss"
+  },
+  "timeline": {
+    "feed": "http://timeline.cl/rss"
+  },
+  "times_co_sz": {
+    "feed": "http://www.times.co.sz/rss"
+  },
+  "timesfreepress": {
+    "feed": "http://www.timesfreepress.com?feed=rss"
+  },
+  "timesherald": {
+    "feed": "http://www.timesherald.com/atom"
+  },
+  "timesindonesia": {
+    "feed": "https://www.timesindonesia.co.id/feed/all/politik"
+  },
+  "timesleaderonline": {
+    "feed": "http://timesleaderonline.com/rss"
+  },
+  "timesobserver": {
+    "feed": "http://timesobserver.com/rss"
+  },
+  "timesofisrael": {
+    "feed": "http://www.timesofisrael.com/rss"
+  },
+  "timesofmalta": {
+    "feed": "http://www.timesofmalta.com/rss"
+  },
+  "timpul": {
+    "feed": "http://www.timpul.md/rss"
+  },
+  "tion": {
+    "feed": "https://www.tion.ro/feed/"
+  },
+  "tn_nova": {
+    "feed": "http://tn.nova.cz/rss"
+  },
+  "toledofreepress": {
+    "feed": "http://toledofreepress.com/rss"
+  },
+  "topcleaners": {
+    "feed": "https://topcleaners.ie/feed/"
+  },
+  "topnews": {
+    "feed": "http://www.topnews.sn?feed=rss"
+  },
+  "townpress": {
+    "feed": "https://townpress.co.za/rss.xml"
+  },
+  "tpimediagroup": {
+    "feed": "https://www.tpimediagroup.org/search/?f=rss&t=article&c=alexcityoutlook&l=50&s=start_time&sd=desc"
+  },
+  "tpr": {
+    "feed": "http://paul@tpr.org/feeds"
+  },
+  "trailtimes_ca": {
+    "feed": "http://trailtimes.ca/atom"
+  },
+  "triblive": {
+    "feed": "https://triblive.com/rdf"
+  },
+  "tribunadebarueri": {
+    "feed": "http://www.tribunadebarueri.com.br/rss"
+  },
+  "tribunadeituverava": {
+    "feed": "http://www.tribunadeituverava.com.br/feed/"
+  },
+  "tribunademexico": {
+    "feed": "https://tribunademexico.com/feed/"
+  },
+  "tribunadenobres": {
+    "feed": "http://www.tribunadenobres.com.br/rss"
+  },
+  "tribunapr": {
+    "feed": "https://www.tribunapr.com.br/feed/"
+  },
+  "tribune_net_ph": {
+    "feed": "http://www.tribune.net.ph/rss.xml"
+  },
+  "tricountysentry": {
+    "feed": "https://www.tricountysentry.com/feed"
+  },
+  "trincoll": {
+    "feed": "https://tripod.domains.trincoll.edu/feed/"
+  },
+  "trinidadtribune": {
+    "feed": "http://www.trinidadtribune.com/rss"
+  },
+  "triplicate": {
+    "feed": "http://www.triplicate.com/atom.xml"
+  },
+  "tropnews": {
+    "feed": "https://www.tropnews.com/blog-feed.xml"
+  },
+  "trthaber": {
+    "feed": "https://www.trthaber.com/sondakika.rss"
+  },
+  "tsk-tv": {
+    "feed": "https://tsk-tv.com/js/rss_fnn.php"
+  },
+  "tsl": {
+    "feed": "https://tsl.news/feed/"
+  },
+  "tulsatoday": {
+    "feed": "http://www.tulsatoday.com/rss"
+  },
+  "turkiyegazetesi": {
+    "feed": "http://turkiyegazetesi.com.tr/rss"
+  },
+  "tv2": {
+    "feed": "http://www.tv2.no/rest/cms-feeds-dw-rest/v2/cms/article/"
+  },
+  "tv2bornholm": {
+    "feed": "https://www.tv2bornholm.dk/rss"
+  },
+  "tv4": {
+    "feed": "https://tv4.ge/feed/"
+  },
+  "tv5": {
+    "feed": "https://www.tv5.rs/rss.xml"
+  },
+  "tvcenario": {
+    "feed": "http://tvcenario.com/rss"
+  },
+  "tvgroove": {
+    "feed": "http://tvgroove.com/?feed=rss"
+  },
+  "tvr": {
+    "feed": "http://www.tvr.ro/rss/stiri.xml"
+  },
+  "twincities": {
+    "feed": "http://www.twincities.com/atom"
+  },
+  "tworivertimes": {
+    "feed": "http://tworivertimes.com/rss.xml"
+  },
+  "tyzden": {
+    "feed": "http://www.tyzden.sk/feed"
+  },
+  "tyzhden": {
+    "feed": "http://tyzhden.ua?feed=rss"
+  },
+  "u71news": {
+    "feed": "https://www.u71news.com/rss/rss.xml"
+  },
+  "udreview": {
+    "feed": "http://udreview.com/rss"
+  },
+  "ukraine-nachrichten": {
+    "feed": "http://ukraine-nachrichten.de/feed"
+  },
+  "ultimahora_com": {
+    "feed": "https://www.ultimahora.com/index.atom"
+  },
+  "ultimasnoticias_inf_br": {
+    "feed": "https://www.ultimasnoticias.inf.br/feed/"
+  },
+  "ulusal": {
+    "feed": "https://www.ulusal.com.tr/rss/"
+  },
+  "unionleader": {
+    "feed": "https://www.unionleader.com/rss.xml"
+  },
+  "unomasuno": {
+    "feed": "http://www.unomasuno.com.mx?feed=rss"
+  },
+  "uralpress": {
+    "feed": "https://uralpress.ru/rss"
+  },
+  "urbanmilwaukee": {
+    "feed": "http://urbanmilwaukee.com?feed=rss"
+  },
+  "urfahaber": {
+    "feed": "https://www.urfahaber.com/rss.xml"
+  },
+  "usteckenovinky": {
+    "feed": "https://www.usteckenovinky.cz/repository/rss/zpravy_all_cs.xml"
+  },
+  "utahbusiness": {
+    "feed": "https://www.utahbusiness.com/rss/latest.rss"
+  },
+  "uzone": {
+    "feed": "https://uzone.id/feed"
+  },
+  "valor": {
+    "feed": "http://www.valor.com.br/rss"
+  },
+  "vanguardngr": {
+    "feed": "https://www.vanguardngr.com/feed/"
+  },
+  "varden": {
+    "feed": "https://www.varden.no/rss"
+  },
+  "varecha_pravda": {
+    "feed": "https://varecha.pravda.sk/rss/recepty.rss"
+  },
+  "vatanemrooz": {
+    "feed": "https://vatanemrooz.ir/fa/rss/allnews"
+  },
+  "vecherka": {
+    "feed": "https://vecherka.su/rss/"
+  },
+  "vermontjournal": {
+    "feed": "http://vermontjournal.com/feed"
+  },
+  "vernonmorningstar": {
+    "feed": "http://vernonmorningstar.com/rss"
+  },
+  "vesti-online": {
+    "feed": "http://www.vesti-online.com/rss"
+  },
+  "vg_hu": {
+    "feed": "https://www.vg.hu/publicapi/hu/rss/vilaggazdasag/articles"
+  },
+  "vi": {
+    "feed": "http://vi.cl/rss"
+  },
+  "viannews": {
+    "feed": "https://www.viannews.com/rss/articles"
+  },
+  "viduthalai": {
+    "feed": "https://viduthalai.in/rss"
+  },
+  "vietnamnews": {
+    "feed": "https://vietnamnews.vn/rss/sports.rss"
+  },
+  "vietnamnews_net": {
+    "feed": "http://feeds.vietnamnews.net/rss/fc849e836694179b"
+  },
+  "vietnamtribune": {
+    "feed": "http://feeds.vietnamtribune.com/rss/fc849e836694179b"
+  },
+  "viettimes": {
+    "feed": "https://viettimes.vn/rss/home.rss"
+  },
+  "villaangelaprensa": {
+    "feed": "http://villaangelaprensa.com.ar/rss"
+  },
+  "villamariaya": {
+    "feed": "http://www.villamariaya.com/feed"
+  },
+  "vindy": {
+    "feed": "http://www.vindy.com/rss"
+  },
+  "vir": {
+    "feed": "https://vir.com.vn/rss_feed/"
+  },
+  "virumaateataja": {
+    "feed": "http://www.virumaateataja.ee/rss"
+  },
+  "visaooeste": {
+    "feed": "http://www.visaooeste.com.br/?feed=rss"
+  },
+  "vivirenjuarez": {
+    "feed": "http://www.vivirenjuarez.com/atom"
+  },
+  "vladnews": {
+    "feed": "https://vladnews.ru/rss.xml"
+  },
+  "vm": {
+    "feed": "https://vm.ru/rss"
+  },
+  "vmnews": {
+    "feed": "https://vmnews.ru/rss.xml"
+  },
+  "voanews": {
+    "feed": "https://www.voanews.com/api/"
+  },
+  "voh": {
+    "feed": "https://voh.com.vn/rss/573"
+  },
+  "voiceofoc": {
+    "feed": "http://www.voiceofoc.org?feed=rss"
+  },
+  "vox": {
+    "feed": "https://www.vox.com/rss/index.xml"
+  },
+  "vpravda": {
+    "feed": "https://vpravda.ru/rss.xml"
+  },
+  "vradini": {
+    "feed": "https://www.vradini.gr/rss"
+  },
+  "vrt": {
+    "feed": "https://www.vrt.be/vrtnws/nl.rss.articles.xml"
+  },
+  "vt": {
+    "feed": "https://www.vt.se/rss/sport/"
+  },
+  "vz": {
+    "feed": "http://vz.lt/rss"
+  },
+  "waheagle": {
+    "feed": "http://waheagle.com/atom"
+  },
+  "waikatotimes": {
+    "feed": "https://www.waikatotimes.co.nz/rss"
+  },
+  "waitsburgtimes": {
+    "feed": "https://www.waitsburgtimes.com/rss"
+  },
+  "wamc": {
+    "feed": "http://www.wamc.org/rss.xml"
+  },
+  "washingtonpost": {
+    "feed": "https://feeds.washingtonpost.com/rss/politics"
+  },
+  "wauchopegazette": {
+    "feed": "https://www.wauchopegazette.com.au/rss.xml"
+  },
+  "wavy": {
+    "feed": "http://wavy.com/feed/"
+  },
+  "waz-online": {
+    "feed": "https://www.waz-online.de/arc/outboundfeeds/rss//"
+  },
+  "wbal": {
+    "feed": "http://wbal.com?feed=rss"
+  },
+  "wbez": {
+    "feed": "http://www.wbez.org/rss"
+  },
+  "wbt": {
+    "feed": "http://www.wbt.com/rss"
+  },
+  "webtan_impress": {
+    "feed": "https://webtan.impress.co.jp/rss.xml"
+  },
+  "weeklyblitz": {
+    "feed": "http://www.weeklyblitz.net/?feed=rss"
+  },
+  "weeklysonarbangla": {
+    "feed": "http://www.weeklysonarbangla.net/rss.xml"
+  },
+  "weirtondailytimes": {
+    "feed": "http://weirtondailytimes.com/rss"
+  },
+  "weslander": {
+    "feed": "http://www.weslander.co.za/?feed=rss"
+  },
+  "westchesterfamily": {
+    "feed": "https://www.westchesterfamily.com/?feed=rss2"
+  },
+  "westernnebraskaobserver": {
+    "feed": "http://www.westernnebraskaobserver.net/rss/articles"
+  },
+  "westfaironline": {
+    "feed": "http://westfaironline.com/atom"
+  },
+  "whig": {
+    "feed": "http://whig.com/rss"
+  },
+  "whittierdailynews": {
+    "feed": "http://www.whittierdailynews.com/atom"
+  },
+  "wilcoxnewspapers_com": {
+    "feed": "https://wilcoxnewspapers.com/comments/feed/"
+  },
+  "wipr": {
+    "feed": "http://wipr.pr/rss"
+  },
+  "wiscnews": {
+    "feed": "https://www.wiscnews.com/search/?f=rss&t=article&s=columbusjournal&l=50&s=start_time&sd=desc"
+  },
+  "wjon": {
+    "feed": "https://wjon.com/rdf"
+  },
+  "wlrfm": {
+    "feed": "http://www.wlrfm.com/rdf"
+  },
+  "wnbf": {
+    "feed": "http://wnbf.com/rss"
+  },
+  "wnypapers": {
+    "feed": "https://www.wnypapers.com/feeds/100000/news-rss-feed"
+  },
+  "wochenanzeiger_de": {
+    "feed": "https://www.wochenanzeiger.de/api/content/public/rss?path=Lw=="
+  },
+  "wollondillyadvertiser": {
+    "feed": "http://www.wollondillyadvertiser.com.au/rss.xml"
+  },
+  "wooster": {
+    "feed": "https://thewoostervoice.spaces.wooster.edu/rss"
+  },
+  "worcesterobserver": {
+    "feed": "https://worcesterobserver.co.uk/rss-feed/"
+  },
+  "worldtimes": {
+    "feed": "http://www.worldtimes.co.jp/rss.xml"
+  },
+  "wort": {
+    "feed": "http://www.wort.lu/rss"
+  },
+  "wortfm": {
+    "feed": "https://www.wortfm.org/feed/"
+  },
+  "worthingherald": {
+    "feed": "https://www.worthingherald.co.uk/rss"
+  },
+  "wscountytimes": {
+    "feed": "https://www.wscountytimes.co.uk/rss"
+  },
+  "wsfp": {
+    "feed": "https://www.wsfp.co.uk/rss"
+  },
+  "wshu": {
+    "feed": "https://www.wshu.org/index.rss"
+  },
+  "wsls": {
+    "feed": "https://www.wsls.com/arc/outboundfeeds/rss/category/news/?outputType=xml&size=10/"
+  },
+  "wtaw": {
+    "feed": "http://wtaw.com/feed/atom/"
+  },
+  "wvexecutive": {
+    "feed": "http://wvexecutive.com/rss"
+  },
+  "wyomingpublicmedia": {
+    "feed": "http://wyomingpublicmedia.org/feeds"
+  },
+  "xebat": {
+    "feed": "https://xebat.net/ku/?feed=rss2"
+  },
+  "yafri": {
+    "feed": "http://yafri.ca?feed=rss"
+  },
+  "yemenonline": {
+    "feed": "http://www.yemenonline.info/feed"
+  },
+  "yenisafak": {
+    "feed": "https://www.yenisafak.com/rss"
+  },
+  "yourborderland": {
+    "feed": "https://yourborderland.ca/feed/"
+  },
+  "yourcentralvalley": {
+    "feed": "https://www.yourcentralvalley.com/feed/"
+  },
+  "yourcharlottecounty": {
+    "feed": "https://yourcharlottecounty.ca/feed/"
+  },
+  "yourkenora": {
+    "feed": "https://yourkenora.ca/feed/"
+  },
+  "yourokmulgee": {
+    "feed": "https://www.yourokmulgee.com/rss/articles"
+  },
+  "yoursouthshore": {
+    "feed": "https://yoursouthshore.ca/feed/"
+  },
+  "yoursun": {
+    "feed": "https://www.yoursun.com/search/?f=rss&t=article&c=charlotte&l=50&s=start_time&sd=desc"
+  },
+  "yoursunsetcountry": {
+    "feed": "https://yoursunsetcountry.ca/feed/"
+  },
+  "yourthunderbay": {
+    "feed": "https://yourthunderbay.ca/feed/"
+  },
+  "yts": {
+    "feed": "http://www.yts.co.jp/rss.xml"
+  },
+  "yucatan": {
+    "feed": "http://yucatan.com.mx/rss"
+  },
+  "yucatanalamano": {
+    "feed": "http://yucatanalamano.com/rss.xml"
+  },
+  "z101digital": {
+    "feed": "http://z101digital.com/atom"
+  },
+  "zambianeye": {
+    "feed": "http://zambianeye.com/rss"
+  },
+  "zaol": {
+    "feed": "https://www.zaol.hu/feed/"
+  },
+  "zarya": {
+    "feed": "https://zarya.by/?feed=rdf"
+  },
+  "zhodinonews": {
+    "feed": "https://zhodinonews.by/atom"
+  },
+  "zimbabwesituation": {
+    "feed": "http://www.zimbabwesituation.com/rss"
+  },
+  "ziuadevest": {
+    "feed": "http://www.ziuadevest.ro/feed/"
+  }
+}
