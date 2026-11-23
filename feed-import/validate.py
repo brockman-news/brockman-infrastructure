@@ -28,8 +28,11 @@ import aiohttp
 from common import host_of, registered_domain
 
 HERE = os.path.dirname(os.path.abspath(__file__))
+# --workdir moves candidates.json, results.jsonl, bodies/ and validate-runs.jsonl (select_active.py uses news-active/)
+WORK = HERE
 BODIES = os.path.join(HERE, "bodies")
 RESULTS = os.path.join(HERE, "results.jsonl")
+RECENT_DAYS = 7
 
 CONCURRENCY = 200
 PER_HOST = 4  # keyed by registered domain, so *.substack.com etc. share one limit
@@ -42,8 +45,10 @@ HEADERS = {
 }
 
 
-def classify_body(path, content_type, url):
+def classify_body(path, content_type, url, fetched_at=None):
     """feedparser verdict for a stored body (runs in a worker process)."""
+    import calendar
+
     import feedparser
 
     with open(path, "rb") as f:
@@ -54,9 +59,18 @@ def classify_body(path, content_type, url):
     d = feedparser.parse(body, response_headers={"content-type": content_type or "", "content-location": url})
     entries = d.get("entries", [])
     usable = 0
+    now = fetched_at or time.time()
+    recent, newest = set(), None
     for e in entries:
         if (e.get("title") or "").strip() and (e.get("link") or "").strip():
             usable += 1
+            when = e.get("published_parsed") or e.get("updated_parsed")
+            if when:
+                t = calendar.timegm(when)
+                if t <= now + 86400:  # ignore items dated in the future
+                    newest = t if newest is None else max(newest, t)
+                    if t >= now - RECENT_DAYS * 86400:
+                        recent.add(e.get("link").strip())
     out.update({
         "fp_version": d.get("version", ""),
         "fp_bozo": bool(d.get("bozo")),
@@ -65,6 +79,9 @@ def classify_body(path, content_type, url):
         "fp_entries": len(entries),
         "fp_usable": usable,
         "fp_title": (d.get("feed", {}).get("title") or "")[:200],
+        # distinct item links dated within RECENT_DAYS of the fetch; newest item date (unix time)
+        "fp_recent7": len(recent),
+        "fp_newest": newest,
     })
     return out
 
@@ -161,6 +178,7 @@ class Validator:
             rec["attempts"] = attempt
             retry_wait = None
             async with hsem, isem, self.gsem:
+                rec["fetched_at"] = round(time.time())  # once a slot is free: the 7-day window counts from here
                 try:
                     res = await asyncio.wait_for(self.fetch_once(session, url, dest), TIMEOUT + 5)
                     rec.update(res)
@@ -189,7 +207,7 @@ class Validator:
                 loop = asyncio.get_running_loop()
                 try:
                     rec.update(await loop.run_in_executor(self.pool, classify_body, dest,
-                                                          rec["content_type"], rec["final_url"]))
+                                                          rec["content_type"], rec["final_url"], rec["fetched_at"]))
                 except Exception as e:  # noqa: BLE001
                     rec["fp_error"] = f"{type(e).__name__}: {e}"[:300]
             else:
@@ -224,7 +242,7 @@ class Validator:
         self.out.close()
         wall = time.monotonic() - t0
         print(f"done: {len(todo)} in {wall:.0f}s", file=sys.stderr, flush=True)
-        with open(os.path.join(HERE, "validate-runs.jsonl"), "a") as f:
+        with open(os.path.join(WORK, "validate-runs.jsonl"), "a") as f:
             f.write(json.dumps({"mode": self.mode,
                                 "started": time.strftime("%Y-%m-%dT%H:%M:%S%z", time.localtime(time.time() - wall)),
                                 "fetched": len(todo), "wall_seconds": round(wall, 1),
@@ -243,10 +261,16 @@ def main():
     ap.add_argument("--concurrency", type=int, default=CONCURRENCY)
     ap.add_argument("--pace", type=float, default=0.0, help="seconds each request keeps its slots afterwards")
     ap.add_argument("--per-ip", type=int, default=PER_IP)
+    ap.add_argument("--workdir", help="directory with candidates.json; results.jsonl and bodies/ go there too")
     args = ap.parse_args()
 
+    global WORK, BODIES, RESULTS
+    if args.workdir:
+        WORK = os.path.abspath(args.workdir)
+        BODIES = os.path.join(WORK, "bodies")
+        RESULTS = os.path.join(WORK, "results.jsonl")
     os.makedirs(BODIES, exist_ok=True)
-    with open(os.path.join(HERE, "candidates.json")) as f:
+    with open(os.path.join(WORK, "candidates.json")) as f:
         cands = json.load(f)
     if args.limit:
         cands = cands[: args.limit]

@@ -1,0 +1,6566 @@
+{
+  "a-priori": {
+    "feed": "https://a-priori.bearblog.dev/feed/"
+  },
+  "aaroncheng": {
+    "feed": "https://www.aaroncheng.me/atom/"
+  },
+  "aaugh": {
+    "feed": "https://aaugh.com/wordpress/feed/"
+  },
+  "abandonedasapup": {
+    "feed": "https://abandonedasapup.com/atom/"
+  },
+  "abarry": {
+    "feed": "https://abarry.org/feed/"
+  },
+  "abdessettar": {
+    "feed": "https://abdessettar.xyz/atom/"
+  },
+  "abdullah_gula": {
+    "feed": "https://abdullah.gula.bi/index.xml"
+  },
+  "abhishekco": {
+    "feed": "https://abhishekco.de/rss.xml"
+  },
+  "abigaildevoe": {
+    "feed": "https://www.abigaildevoe.com/blog-feed.xml"
+  },
+  "abloggymess": {
+    "feed": "https://abloggymess.com/feed/"
+  },
+  "abm-77": {
+    "feed": "https://abm-77.dev/feed/"
+  },
+  "aboutlondonlaura": {
+    "feed": "https://aboutlondonlaura.com/feed/"
+  },
+  "absurdpirate": {
+    "feed": "https://blog.absurdpirate.com/atom/"
+  },
+  "academicaesthetic": {
+    "feed": "https://academicaesthetic.com/feed/"
+  },
+  "academicvc": {
+    "feed": "http://academicvc.com/feed/"
+  },
+  "acassis": {
+    "feed": "https://acassis.wordpress.com/feed/"
+  },
+  "accurseddragon": {
+    "feed": "https://accurseddragon.com/comic/rss?id=1"
+  },
+  "acevf": {
+    "feed": "https://acevf.com/feed/"
+  },
+  "achalmersblog": {
+    "feed": "https://achalmersblog.com/feed/"
+  },
+  "achilles": {
+    "feed": "https://blog.achilles.ml/atom/"
+  },
+  "achyutjoshi": {
+    "feed": "https://achyutjoshi.blog/atom/"
+  },
+  "activeclearing": {
+    "feed": "https://activeclearing.blogspot.com/feeds/posts/default"
+  },
+  "adam_ci": {
+    "feed": "https://adam.ci/train/feed.xml"
+  },
+  "adamcrussell": {
+    "feed": "https://adamcrussell.livejournal.com/data/atom"
+  },
+  "adamfortuna": {
+    "feed": "https://wp.adamfortuna.com/feed"
+  },
+  "adamisom": {
+    "feed": "https://adamisom.is/feed/"
+  },
+  "adamnoah": {
+    "feed": "https://adamnoah.com/feed/"
+  },
+  "adamretter": {
+    "feed": "https://blog.adamretter.org.uk/rss/"
+  },
+  "adansix": {
+    "feed": "https://adansix.net/feed/"
+  },
+  "adatum": {
+    "feed": "https://adatum.no/feed"
+  },
+  "adequatesource": {
+    "feed": "https://adequatesource.com/rss/"
+  },
+  "adhddd": {
+    "feed": "https://adhddd.com/feed/"
+  },
+  "adityamalani": {
+    "feed": "https://adityamalani.bearblog.dev/feed/"
+  },
+  "adventuresandnaps": {
+    "feed": "https://adventuresandnaps.com/feed/"
+  },
+  "adviceunasked": {
+    "feed": "https://adviceunasked.blogspot.com/feeds/posts/default"
+  },
+  "aedileworks": {
+    "feed": "https://aedileworks.com/feed/"
+  },
+  "aeld": {
+    "feed": "https://aeld.io/feed/?type=rss"
+  },
+  "aerojockey": {
+    "feed": "https://blog.aerojockey.com/feed/"
+  },
+  "aeryn": {
+    "feed": "https://aeryn.me/atom/"
+  },
+  "aeryn_art": {
+    "feed": "https://aeryn.art/feed/?q=photoblog&type=rss"
+  },
+  "afarshadblog": {
+    "feed": "https://afarshadblog.bearblog.dev/atom.xml"
+  },
+  "afterdark-blog_arimamary": {
+    "feed": "https://afterdark-blog.arimamary.net/feed/"
+  },
+  "afterglory": {
+    "feed": "https://afterglory.net/feed/"
+  },
+  "afterhoursacademic": {
+    "feed": "https://afterhoursacademic.com/atom/"
+  },
+  "agamid": {
+    "feed": "https://agamid.bearblog.dev/feed/"
+  },
+  "agent-wow": {
+    "feed": "https://agent-wow.sh/feed/"
+  },
+  "agltd": {
+    "feed": "https://agltd.bearblog.dev/feed/"
+  },
+  "agnes": {
+    "feed": "https://agnes.love/feed/"
+  },
+  "ahmedmassoud": {
+    "feed": "https://ahmedmassoud.me/blog/rss.xml"
+  },
+  "ahtava": {
+    "feed": "https://rasmus.ahtava.com/feed/"
+  },
+  "ai5zi": {
+    "feed": "https://ai5zi.com/feed/"
+  },
+  "aimadethis": {
+    "feed": "https://aimadethis.design/feed.xml"
+  },
+  "aishwaryagoel_com": {
+    "feed": "https://aishwaryagoel.com/feed/"
+  },
+  "aivarsk": {
+    "feed": "https://aivarsk.com/atom.xml"
+  },
+  "ajdecon": {
+    "feed": "https://thinking.ajdecon.org/feed/"
+  },
+  "ajwaxman": {
+    "feed": "https://www.ajwaxman.com/feed.xml"
+  },
+  "aklein": {
+    "feed": "https://aklein.bearblog.dev/atom.xml"
+  },
+  "akshayverma": {
+    "feed": "https://akshayverma.xyz/feed/"
+  },
+  "alam": {
+    "feed": "https://www.alam.ph/atom/"
+  },
+  "alandix": {
+    "feed": "https://alandix.com/feed/"
+  },
+  "alaniswright": {
+    "feed": "https://alaniswright.com/index.xml"
+  },
+  "alanyuppie": {
+    "feed": "https://alanyuppie.blogspot.com/feeds/posts/default"
+  },
+  "alastairbarber": {
+    "feed": "https://alastairbarber.com/index.xml"
+  },
+  "alax": {
+    "feed": "https://alax.info/blog/feed"
+  },
+  "albanbrooke": {
+    "feed": "https://albanbrooke.com/feed/"
+  },
+  "albedolab": {
+    "feed": "https://albedolab.hashnode.dev/rss.xml"
+  },
+  "alderautomation_ca": {
+    "feed": "https://blog.alderautomation.ca/feed/"
+  },
+  "alegnoli": {
+    "feed": "https://alegnoli.com/feed/"
+  },
+  "alejandrotlaie": {
+    "feed": "https://alejandrotlaie.net/rss.xml"
+  },
+  "aleksei": {
+    "feed": "https://aleksei.dev/atom/"
+  },
+  "alethia": {
+    "feed": "https://alethia.news/rss/"
+  },
+  "alets": {
+    "feed": "https://log.alets.ch/rss/"
+  },
+  "alexanderbjoy": {
+    "feed": "https://alexanderbjoy.com/feed/"
+  },
+  "alexandergoslin": {
+    "feed": "https://alexandergoslin.me/feed.xml"
+  },
+  "alexanderlking": {
+    "feed": "https://alexanderlking.com/feed/"
+  },
+  "alexhowells": {
+    "feed": "https://alexhowells.com/feed.xml"
+  },
+  "alexyancey": {
+    "feed": "https://alexyancey.com/atom/"
+  },
+  "algebra_fallible": {
+    "feed": "https://algebra.fallible.net/feed/"
+  },
+  "aliasunder": {
+    "feed": "https://aliasunder.dev/rss.xml"
+  },
+  "alichraghi": {
+    "feed": "https://alichraghi.github.io/index.xml"
+  },
+  "allancho": {
+    "feed": "https://www.allancho.com/feeds/posts/default"
+  },
+  "allentingley": {
+    "feed": "https://allentingley.com/feed/"
+  },
+  "allevato_me": {
+    "feed": "https://allevato.me/feed.xml"
+  },
+  "allthebees": {
+    "feed": "https://allthebees.de/atom/"
+  },
+  "allthingsabidedeternally": {
+    "feed": "https://allthingsabidedeternally.com/feed/"
+  },
+  "allthingsandy": {
+    "feed": "https://www.allthingsandy.com/feed/"
+  },
+  "alok_blog": {
+    "feed": "https://alok.blog/feed.xml"
+  },
+  "alokda": {
+    "feed": "https://alokda.wordpress.com/feed/"
+  },
+  "alonso-canales": {
+    "feed": "https://blog.alonso-canales.com/feed/"
+  },
+  "alpnotes": {
+    "feed": "https://alpnotes.site/atom.xml"
+  },
+  "alterick": {
+    "feed": "https://alterick.bearblog.dev/rss.xml"
+  },
+  "alvinsoon": {
+    "feed": "https://alvinsoon.com/feed/"
+  },
+  "alwinjohn": {
+    "feed": "https://blog.alwinjohn.com/feed/"
+  },
+  "alxjrvs": {
+    "feed": "https://alxjrvs.com/feed.xml"
+  },
+  "alysterwho": {
+    "feed": "https://alysterwho.blog/feed/"
+  },
+  "amanda-regan": {
+    "feed": "https://amanda-regan.com/posts/index.xml"
+  },
+  "amandaquraishi": {
+    "feed": "https://www.amandaquraishi.com/feed/atom/"
+  },
+  "amanitaproject": {
+    "feed": "https://amanitaproject.com/feed.xml"
+  },
+  "amateuraerodynamics": {
+    "feed": "https://www.amateuraerodynamics.com/feeds/posts/default"
+  },
+  "ambrzykowski": {
+    "feed": "https://blog.ambrzykowski.com/feed/"
+  },
+  "americanloons": {
+    "feed": "https://americanloons.blogspot.com/feeds/posts/default"
+  },
+  "amiepsa": {
+    "feed": "https://amiepsa.xyz/atom/"
+  },
+  "amigaalive": {
+    "feed": "https://amigaalive.blogspot.com/feeds/posts/default"
+  },
+  "aminda": {
+    "feed": "https://aminda.eu/blog/feed.xml"
+  },
+  "aminezarouali": {
+    "feed": "https://aminezarouali.com/atom/"
+  },
+  "amoderndilemma": {
+    "feed": "https://www.amoderndilemma.com/atom/"
+  },
+  "amusingmulcahy": {
+    "feed": "https://www.amusingmulcahy.com/feed/"
+  },
+  "amxquant": {
+    "feed": "https://amxquant.com/atom/"
+  },
+  "amykay": {
+    "feed": "https://blog.amykay.dev/atom/"
+  },
+  "analogspring": {
+    "feed": "https://analogspring.com/feed/"
+  },
+  "anamericanhomestead": {
+    "feed": "https://anamericanhomestead.com/feed/"
+  },
+  "anamnesia": {
+    "feed": "https://anamnesia.bearblog.dev/feed/"
+  },
+  "anarsoul": {
+    "feed": "https://anarsoul.blogspot.com/feeds/posts/default"
+  },
+  "ancientshell": {
+    "feed": "https://ancientshell.com/atom/"
+  },
+  "andersmartinhelle": {
+    "feed": "https://writer.andersmartinhelle.com/feed/"
+  },
+  "andgodspeed": {
+    "feed": "https://andgodspeed.com/blog/rss.xml"
+  },
+  "andikaseto": {
+    "feed": "https://notes.andikaseto.com/feed/"
+  },
+  "andrej_xyz": {
+    "feed": "https://andrej.xyz/feed/"
+  },
+  "andrewducker_livejournal": {
+    "feed": "https://andrewducker.livejournal.com/data/atom"
+  },
+  "andrewgalbraith": {
+    "feed": "https://andrewgalbraith.com/feed/"
+  },
+  "andrewjeffrey": {
+    "feed": "https://andrewjeffrey.co.uk/feed/"
+  },
+  "andrewkantor": {
+    "feed": "https://www.andrewkantor.com/feed/"
+  },
+  "andrewsarafa": {
+    "feed": "https://andrewsarafa.ghost.io/rss/"
+  },
+  "andrijaa": {
+    "feed": "https://andrijaa.com/atom/"
+  },
+  "androidcoliseum": {
+    "feed": "https://www.androidcoliseum.com/feeds/posts/default"
+  },
+  "andyforsberg": {
+    "feed": "https://andyforsberg.com/rss.xml"
+  },
+  "angelanoble": {
+    "feed": "https://angelanoble.com/feed/"
+  },
+  "anglesmorts": {
+    "feed": "https://anglesmorts.org/atom/"
+  },
+  "angrybunnyman_com": {
+    "feed": "https://angrybunnyman.com/atom/"
+  },
+  "anikaris": {
+    "feed": "https://blog.anikaris.com/atom/"
+  },
+  "animeshchouhan": {
+    "feed": "https://animeshchouhan.com/rss.xml"
+  },
+  "aninfinitedealofnothing": {
+    "feed": "https://aninfinitedealofnothing.com/atom/"
+  },
+  "anjuroad": {
+    "feed": "https://www.anjuroad.com/feed/"
+  },
+  "anmolkoul": {
+    "feed": "https://anmolkoul.wordpress.com/feed/"
+  },
+  "annabmeyer": {
+    "feed": "https://www.annabmeyer.com/feed/"
+  },
+  "annahamilton": {
+    "feed": "https://annahamilton.art/feed/"
+  },
+  "annoflo": {
+    "feed": "https://annoflo.net/feed/"
+  },
+  "anothersoulwandering": {
+    "feed": "https://anothersoulwandering.net/feed/"
+  },
+  "anselm-project": {
+    "feed": "https://www.anselm-project.com/blog/feed"
+  },
+  "ansharora": {
+    "feed": "https://ansharora.in/atom/"
+  },
+  "antarat": {
+    "feed": "https://shiara.antarat.com/feed/"
+  },
+  "anthonybald": {
+    "feed": "https://blog.anthonybald.win/feed/"
+  },
+  "anthonycameron": {
+    "feed": "https://www.anthonycameron.com/feed.xml"
+  },
+  "antranigv": {
+    "feed": "https://antranigv.am/feed/atom/"
+  },
+  "anuganti": {
+    "feed": "https://anuganti.com/articles/feed.xml"
+  },
+  "anxietyshark": {
+    "feed": "https://www.anxietyshark.ca/rss/"
+  },
+  "aparcar": {
+    "feed": "https://aparcar.org/index.xml"
+  },
+  "apbsal": {
+    "feed": "https://apbsal.blogspot.com/feeds/posts/default"
+  },
+  "aphie": {
+    "feed": "https://aphie.xyz/feed/"
+  },
+  "apoorplayer": {
+    "feed": "https://www.apoorplayer.blog/feed.xml"
+  },
+  "aporiae": {
+    "feed": "https://aporiae.blog/feed/"
+  },
+  "aracine": {
+    "feed": "https://devlog.aracine.net/atom/"
+  },
+  "archivalfutures": {
+    "feed": "https://archivalfutures.blog/atom/"
+  },
+  "archtonic": {
+    "feed": "https://archtonic.net/feed/"
+  },
+  "ardgraft": {
+    "feed": "https://ardgraft.com/feed/"
+  },
+  "arkoe": {
+    "feed": "https://blog.arkoe.net/feed/"
+  },
+  "armeet_bearblog": {
+    "feed": "https://armeet.bearblog.dev/atom/"
+  },
+  "armoroff": {
+    "feed": "https://armoroff.com/feed/"
+  },
+  "artaj": {
+    "feed": "https://blog.artaj.online/feed/"
+  },
+  "artificially-awesome": {
+    "feed": "https://artificially-awesome.com/posts/index.xml"
+  },
+  "artursepp": {
+    "feed": "https://artursepp.com/feed/"
+  },
+  "arun-akk": {
+    "feed": "https://arun-akk.blogspot.com/feeds/posts/default"
+  },
+  "aryehoffman": {
+    "feed": "https://aryehoffman.com/feed/"
+  },
+  "asciitweezers": {
+    "feed": "https://blog.asciitweezers.com/feed/"
+  },
+  "ashbuk_dev": {
+    "feed": "https://ashbuk.dev/posts/index.xml"
+  },
+  "askdna": {
+    "feed": "https://askdna.coffee/atom/"
+  },
+  "askiiart": {
+    "feed": "https://askiiart.net/feed.xml"
+  },
+  "asonix": {
+    "feed": "https://blog.asonix.dog/atom.xml"
+  },
+  "aspiredotnet": {
+    "feed": "https://aspiredotnet.bearblog.dev/feed/"
+  },
+  "assigned": {
+    "feed": "https://deavmi.assigned.network/index.xml"
+  },
+  "astrian": {
+    "feed": "https://en.astrian.lol/feed/"
+  },
+  "asuh": {
+    "feed": "https://asuh.com/feed/"
+  },
+  "atariarchive": {
+    "feed": "https://www.atariarchive.org/feed/"
+  },
+  "atfzl": {
+    "feed": "https://atfzl.com/index.xml"
+  },
+  "athrael": {
+    "feed": "https://athrael.net/rss.xml"
+  },
+  "atmosphericunderworld": {
+    "feed": "https://atmosphericunderworld.com/feed/"
+  },
+  "atomicsandwich": {
+    "feed": "https://atomicsandwich.com/blog?format=rss"
+  },
+  "atopthefourthwall": {
+    "feed": "https://atopthefourthwall.com/feed/"
+  },
+  "attentivearchive": {
+    "feed": "https://attentivearchive.com/atom/"
+  },
+  "auroraman": {
+    "feed": "https://www.auroraman.ca/atom/"
+  },
+  "aussiebytes": {
+    "feed": "https://www.aussiebytes.com/atom/"
+  },
+  "autismanswersback": {
+    "feed": "https://autismanswersback.bearblog.dev/feed/"
+  },
+  "autisticallyyours": {
+    "feed": "https://autisticallyyours.net/feed/"
+  },
+  "autoglo": {
+    "feed": "https://autoglo.blogspot.com/feeds/posts/default"
+  },
+  "autumn-wright": {
+    "feed": "https://autumn-wright.com/feed/"
+  },
+  "averagesecurity": {
+    "feed": "https://averagesecurity.com/atom/"
+  },
+  "avi_engineer": {
+    "feed": "https://avi.engineer/feed/"
+  },
+  "avoidpointer": {
+    "feed": "https://blog.avoidpointer.com/feed/"
+  },
+  "axantum": {
+    "feed": "https://blog.axantum.com/feeds/posts/default"
+  },
+  "axelk": {
+    "feed": "https://axelk.ee/feed/"
+  },
+  "axodys": {
+    "feed": "https://so.axodys.com/atom/"
+  },
+  "ayaanshah": {
+    "feed": "https://ayaanshah.blog/feed/"
+  },
+  "aylabythesea": {
+    "feed": "https://aylabythesea.com/feed/"
+  },
+  "ayurastro": {
+    "feed": "https://ayurastro.com/feed.xml"
+  },
+  "ayushnangia": {
+    "feed": "https://ayushnangia.github.io/feed.xml"
+  },
+  "babinec": {
+    "feed": "https://babinec.com/feed/"
+  },
+  "babuexportcompany": {
+    "feed": "https://www.babuexportcompany.com/atom/"
+  },
+  "backyardyum": {
+    "feed": "https://backyardyum.com/solar-cooking/sun-oven/feed/"
+  },
+  "badgersworkbench": {
+    "feed": "https://badgersworkbench.com/atom/"
+  },
+  "badlodge": {
+    "feed": "https://badlodge.com/feed/"
+  },
+  "badly-knitted": {
+    "feed": "https://badly-knitted.livejournal.com/data/atom"
+  },
+  "bakesandbliss": {
+    "feed": "https://bakesandbliss.co/feed/"
+  },
+  "bala": {
+    "feed": "https://bala.sh/rss.xml"
+  },
+  "balavishal": {
+    "feed": "https://balavishal.com/atom/"
+  },
+  "baldnerd": {
+    "feed": "https://baldnerd.com/feed/atom/"
+  },
+  "balochy": {
+    "feed": "https://balochy.de/blog/index.xml"
+  },
+  "bamawing": {
+    "feed": "https://bamawing.bearblog.dev/feed/"
+  },
+  "bandok": {
+    "feed": "https://blog.bandok.com/feeds/posts/default"
+  },
+  "barbarajeannecelebritygossip": {
+    "feed": "https://www.barbarajeannecelebritygossip.com/thetrio?format=rss"
+  },
+  "barraqueira": {
+    "feed": "https://barraqueira.bearblog.dev/atom.xml"
+  },
+  "barthsnotes": {
+    "feed": "https://barthsnotes.com/feed/"
+  },
+  "barto": {
+    "feed": "https://barto.bearblog.dev/feed/"
+  },
+  "bartoll": {
+    "feed": "https://bartoll.se/feed/"
+  },
+  "bartoszosipiuk": {
+    "feed": "https://bartoszosipiuk.pl/en/rss.xml"
+  },
+  "basementcommunity_com": {
+    "feed": "https://blog.basementcommunity.com/atom/"
+  },
+  "basic": {
+    "feed": "https://basic.bearblog.dev/atom/"
+  },
+  "bavis": {
+    "feed": "https://bavis.org/atom/"
+  },
+  "bayton": {
+    "feed": "https://bayton.org/feed.xml"
+  },
+  "bcengine": {
+    "feed": "https://bcengine.net/feed/"
+  },
+  "bdvorak": {
+    "feed": "https://bdvorak.com/rss.xml"
+  },
+  "beabetterdev": {
+    "feed": "https://beabetterdev.com/feed/"
+  },
+  "beamedaway_com": {
+    "feed": "https://beamedaway.com/feed/"
+  },
+  "beanis": {
+    "feed": "https://blog.beanis.eu/atom/"
+  },
+  "bearblog_stevedylan": {
+    "feed": "https://bearblog.stevedylan.dev/atom/"
+  },
+  "beckyances": {
+    "feed": "https://beckyances.net/feed/atom/"
+  },
+  "beechooscape": {
+    "feed": "https://beechooscape.bearblog.dev/feed/"
+  },
+  "beefgravy": {
+    "feed": "https://beefgravy.blogspot.com/feeds/posts/default"
+  },
+  "beew": {
+    "feed": "https://beew.me/atom/"
+  },
+  "belico": {
+    "feed": "https://belico.dev/atom/"
+  },
+  "belkadan": {
+    "feed": "https://belkadan.com/blog/atom"
+  },
+  "ben-chaplin": {
+    "feed": "https://ben-chaplin.com/feed.xml"
+  },
+  "benbrignell": {
+    "feed": "https://benbrignell.com/rss.xml"
+  },
+  "bendaubney_com": {
+    "feed": "https://bendaubney.com/feed/"
+  },
+  "benfattori": {
+    "feed": "https://benfattori.com/atom/"
+  },
+  "bengodfrey": {
+    "feed": "https://bengodfrey.dev/rss.xml"
+  },
+  "benhollis": {
+    "feed": "https://benhollis.net/blog/feed.xml"
+  },
+  "benjamin_ie": {
+    "feed": "https://blog.benjamin.ie/api/rss"
+  },
+  "benmandrew": {
+    "feed": "https://benmandrew.com/feed.xml"
+  },
+  "benricemccarthy_com": {
+    "feed": "https://benricemccarthy.com/blog/rss.xml"
+  },
+  "berryde": {
+    "feed": "https://berryde.com/rss.xml"
+  },
+  "bettaieb": {
+    "feed": "https://bettaieb.com/atom/"
+  },
+  "beyondthebusfactor": {
+    "feed": "https://beyondthebusfactor.org/feed.xml"
+  },
+  "beyondwritingcode": {
+    "feed": "https://www.beyondwritingcode.com/feed"
+  },
+  "bhagavan": {
+    "feed": "https://bhagavan.dev/feed/"
+  },
+  "bhagyeshpathak": {
+    "feed": "https://bhagyeshpathak.com/feed.xml"
+  },
+  "bhanuvadlakonda": {
+    "feed": "https://bhanuvadlakonda.com/atom/"
+  },
+  "biblewheel": {
+    "feed": "https://biblewheel.com/feed/"
+  },
+  "bibliomancy": {
+    "feed": "https://bibliomancy.blog/atom/"
+  },
+  "bigbold": {
+    "feed": "https://bigbold.bearblog.dev/feed/"
+  },
+  "biggujo": {
+    "feed": "https://biggujo.com/index.xml"
+  },
+  "billkerr2": {
+    "feed": "https://billkerr2.blogspot.com/feeds/posts/default"
+  },
+  "binarydigit": {
+    "feed": "https://binarydigit.net/feed/"
+  },
+  "bitecode": {
+    "feed": "https://bitecode.dev/feed"
+  },
+  "bitsofsimplicity": {
+    "feed": "https://bitsofsimplicity.com/atom.xml"
+  },
+  "bjoerngoegge": {
+    "feed": "https://bjoerngoegge.com/atom/"
+  },
+  "bjornwestergard": {
+    "feed": "https://bjornwestergard.com/atom/"
+  },
+  "bl00cyb": {
+    "feed": "https://blog.bl00cyb.org/feed/"
+  },
+  "blackcoffeebookworm": {
+    "feed": "https://blackcoffeebookworm.bearblog.dev/feed/"
+  },
+  "blackentropy_com": {
+    "feed": "https://blackentropy.com/feed/"
+  },
+  "blandname": {
+    "feed": "https://blandname.com/feed/"
+  },
+  "blaser": {
+    "feed": "https://blaser.blog/atom/"
+  },
+  "blendogames": {
+    "feed": "https://blendogames.com/news/index.xml"
+  },
+  "blockint": {
+    "feed": "https://www.blockint.nl/category/methods/feed/"
+  },
+  "blog-vol": {
+    "feed": "https://blog-vol.bearblog.dev/feed/"
+  },
+  "blogger_585820012390048267": {
+    "feed": "https://www.blogger.com/feeds/585820012390048267/posts/default"
+  },
+  "blogger_605625879464789847": {
+    "feed": "https://www.blogger.com/feeds/605625879464789847/posts/default"
+  },
+  "blogger_9203557": {
+    "feed": "https://www.blogger.com/feeds/9203557/posts/default"
+  },
+  "bloggeronpole": {
+    "feed": "https://bloggeronpole.com/feed/"
+  },
+  "bloggingfromparadise": {
+    "feed": "https://www.bloggingfromparadise.com/feed/"
+  },
+  "blogordie": {
+    "feed": "https://www.blogordie.com/feed/"
+  },
+  "blueteam": {
+    "feed": "https://blueteam.cool/feed.xml"
+  },
+  "bobbylox": {
+    "feed": "https://bobbylox.com/blog/feed/"
+  },
+  "bobdoto": {
+    "feed": "https://writing.bobdoto.computer/atom/"
+  },
+  "bogdanbujdea": {
+    "feed": "https://bogdanbujdea.dev/rss.xml"
+  },
+  "bohyunkim": {
+    "feed": "https://www.bohyunkim.net/blog/feed"
+  },
+  "bonkposting": {
+    "feed": "https://bonkposting.online/feed/"
+  },
+  "bookkity": {
+    "feed": "https://bookkity.com/rss.xml"
+  },
+  "bookmaniac": {
+    "feed": "https://bookmaniac.org/feed/"
+  },
+  "boredzo": {
+    "feed": "https://boredzo.org/blog/feed"
+  },
+  "boringomar": {
+    "feed": "https://boringomar.blog/feed/"
+  },
+  "bosquelanguage": {
+    "feed": "https://bosquelanguage.github.io/feed.xml"
+  },
+  "botsinproduction": {
+    "feed": "https://botsinproduction.com/rss.xml"
+  },
+  "boundlessambient": {
+    "feed": "https://boundlessambient.com/atom/"
+  },
+  "bowlofmisua": {
+    "feed": "https://bowlofmisua.bearblog.dev/feed/"
+  },
+  "bphogan": {
+    "feed": "https://bphogan.com/index.xml"
+  },
+  "bra31k": {
+    "feed": "https://bra31k.dev/en/rss.xml"
+  },
+  "bradydale": {
+    "feed": "https://bradydale.com/feed.xml"
+  },
+  "bradyvitrano": {
+    "feed": "https://bradyvitrano.com/feed/"
+  },
+  "brainsteam": {
+    "feed": "https://brainsteam.co.uk/index.xml"
+  },
+  "braintumor": {
+    "feed": "https://braintumor.wtf/atom/"
+  },
+  "brandtabbott": {
+    "feed": "https://brandtabbott.me/blog/feed.atom"
+  },
+  "brazilinbeta": {
+    "feed": "https://brazilinbeta.com/feed/"
+  },
+  "brendangregg": {
+    "feed": "https://www.brendangregg.com/blog/rss.xml"
+  },
+  "brendonjustin": {
+    "feed": "https://brendonjustin.com/feed/"
+  },
+  "brennanmceachran": {
+    "feed": "https://www.brennanmceachran.com/feed"
+  },
+  "breno_bearblog_dev": {
+    "feed": "https://breno.bearblog.dev/feed/?type=rss"
+  },
+  "brettcodes": {
+    "feed": "https://brettcodes.com/feed/"
+  },
+  "brettharned": {
+    "feed": "https://brettharned.com/rss/"
+  },
+  "brettsbreakroom": {
+    "feed": "https://brettsbreakroom.bearblog.dev/feed/"
+  },
+  "brianclegg": {
+    "feed": "https://brianclegg.blogspot.com/feeds/posts/default"
+  },
+  "briandigital": {
+    "feed": "https://briandigital.com/feed.xml"
+  },
+  "brianlavelle": {
+    "feed": "https://brianlavelle.scot/atom/"
+  },
+  "brianleiternietzsche": {
+    "feed": "https://brianleiternietzsche.blogspot.com/feeds/posts/default"
+  },
+  "brianredbeard_2": {
+    "feed": "https://brianredbeard.com/blog/rss.xml"
+  },
+  "brianthegoldfish": {
+    "feed": "https://brianthegoldfish.blog/atom/"
+  },
+  "brianzahnd": {
+    "feed": "https://brianzahnd.com/feed/"
+  },
+  "brie_rocks": {
+    "feed": "https://brie.rocks/atom/"
+  },
+  "brindly": {
+    "feed": "https://brindly.art/feed.xml"
+  },
+  "britishfoodhistory": {
+    "feed": "https://britishfoodhistory.com/feed/"
+  },
+  "brlink": {
+    "feed": "http://blog.brlink.eu/index.rss"
+  },
+  "brmmm3": {
+    "feed": "https://brmmm3.github.io/feed"
+  },
+  "brockerhoff": {
+    "feed": "https://brockerhoff.net/blog/feed/"
+  },
+  "brodieburnswilliamson": {
+    "feed": "https://brodieburnswilliamson.com/feed/"
+  },
+  "bru": {
+    "feed": "https://corwin.bru.st/index.xml"
+  },
+  "bruab": {
+    "feed": "https://bruab.net/feed/"
+  },
+  "brunerd": {
+    "feed": "https://www.brunerd.com/blog/feed/"
+  },
+  "brunosabot": {
+    "feed": "https://brunosabot.dev/rss.xml"
+  },
+  "bryce_io": {
+    "feed": "https://blog.bryce.io/rss/"
+  },
+  "bullmoose": {
+    "feed": "https://bullmoose.bearblog.dev/feed/"
+  },
+  "burakberk": {
+    "feed": "https://burakberk.dev/rss/"
+  },
+  "burnallgifs": {
+    "feed": "https://burnallgifs.org/rss.xml"
+  },
+  "bushguide101": {
+    "feed": "https://bushguide101.com/feed/"
+  },
+  "bvsveera_net": {
+    "feed": "https://bvsveera.net/feed/"
+  },
+  "bybacon": {
+    "feed": "https://roll.bybacon.com/feed.xml"
+  },
+  "byrdnick": {
+    "feed": "https://byrdnick.com/feed"
+  },
+  "byzxor": {
+    "feed": "https://byzxor.xyz/atom/"
+  },
+  "caffeinatedgorillas": {
+    "feed": "https://caffeinatedgorillas.com/atom/"
+  },
+  "calle": {
+    "feed": "https://calle.dev/atom/"
+  },
+  "calvin_page": {
+    "feed": "https://calvin.page/atom/"
+  },
+  "camden": {
+    "feed": "https://camden.sh/posts/index.xml"
+  },
+  "cameronharwick": {
+    "feed": "https://cameronharwick.com/feed/"
+  },
+  "camisado": {
+    "feed": "https://camisado.co.uk/feed/"
+  },
+  "capreform": {
+    "feed": "https://capreform.eu/feed/"
+  },
+  "caprica_bearblog": {
+    "feed": "https://caprica.bearblog.dev/atom.xml"
+  },
+  "careeratlas": {
+    "feed": "https://careeratlas.dev/writing/rss.xml"
+  },
+  "carelesstalkblog": {
+    "feed": "https://carelesstalkblog.wordpress.com/feed/"
+  },
+  "cariad": {
+    "feed": "https://cariad.blog/atom/"
+  },
+  "caribbeansignal": {
+    "feed": "https://www.caribbeansignal.com/feed/"
+  },
+  "carlosacollazo": {
+    "feed": "https://carlosacollazo.com/atom/"
+  },
+  "carmacks": {
+    "feed": "https://carmacks.bearblog.dev/feed/"
+  },
+  "carosnatch": {
+    "feed": "https://carosnatch.com/feed/"
+  },
+  "cartercole": {
+    "feed": "https://cartercole.com/rss.xml"
+  },
+  "caseyhandmer_com": {
+    "feed": "https://blog.caseyhandmer.com/feed.xml"
+  },
+  "castrokhwela": {
+    "feed": "https://castrokhwela.co.za/feed/"
+  },
+  "casualrobotlab": {
+    "feed": "https://casualrobotlab.com/feed/"
+  },
+  "catgirls": {
+    "feed": "https://catgirls.mov/feed/"
+  },
+  "cathoderaydude": {
+    "feed": "https://blog.cathoderaydude.com/feed.php"
+  },
+  "catsandbirdsandstuff": {
+    "feed": "https://catsandbirdsandstuff.com/atom/"
+  },
+  "catshavenolord": {
+    "feed": "https://blog.catshavenolord.page/atom/"
+  },
+  "cberr": {
+    "feed": "https://cberr.us/blog/atom"
+  },
+  "cbr510-1": {
+    "feed": "https://cbr510-1.bearblog.dev/feed/"
+  },
+  "cdalvaro": {
+    "feed": "https://cdalvaro.io/feed.xml"
+  },
+  "celedi": {
+    "feed": "https://celedi.com/atom/"
+  },
+  "cesspit": {
+    "feed": "https://cesspit.net/drupal/feed/"
+  },
+  "cg505": {
+    "feed": "https://notes.cg505.com/atom/"
+  },
+  "chainsawriot": {
+    "feed": "https://chainsawriot.com/feed/by_tag/emacs.xml"
+  },
+  "chantellesmith": {
+    "feed": "https://www.chantellesmith.co.uk/feed/"
+  },
+  "chaosnode": {
+    "feed": "https://www.chaosnode.net/blog/feed/"
+  },
+  "chaoticgood_computer": {
+    "feed": "https://blog.chaoticgood.computer/index.xml"
+  },
+  "charliebroadway": {
+    "feed": "https://charliebroadway.blogspot.com/feeds/posts/default"
+  },
+  "checkpleasecomic": {
+    "feed": "https://www.checkpleasecomic.com/rss/"
+  },
+  "chelmzy": {
+    "feed": "https://chelmzy.tech/atom/"
+  },
+  "chenjianjx": {
+    "feed": "https://www.chenjianjx.com/feed/"
+  },
+  "chibuikeani": {
+    "feed": "https://chibuikeani.blogspot.com/feeds/posts/default"
+  },
+  "chish": {
+    "feed": "https://chish.dev/rss.xml"
+  },
+  "chloescantina": {
+    "feed": "https://chloescantina.com/atom/"
+  },
+  "chris-henley": {
+    "feed": "https://www.chris-henley.co.uk/journal?format=rss"
+  },
+  "chriscummins_github": {
+    "feed": "http://chriscummins.github.io/feeds/all.atom.xml"
+  },
+  "chrisfinke": {
+    "feed": "https://www.chrisfinke.com/atom"
+  },
+  "chrisglass": {
+    "feed": "https://chrisglass.com/feed/atom/"
+  },
+  "chrislegge": {
+    "feed": "https://blog.chrislegge.com/atom.xml"
+  },
+  "chrisnaude": {
+    "feed": "https://blog.chrisnaude.com/atom/"
+  },
+  "chrisnaylor": {
+    "feed": "https://chrisnaylor.blog/feed/"
+  },
+  "chrispeoples": {
+    "feed": "https://chrispeoples.com/index.xml"
+  },
+  "chrisschlarb": {
+    "feed": "https://chrisschlarb.com/feed/"
+  },
+  "christinasouch": {
+    "feed": "https://christinasouch.com/rss.xml"
+  },
+  "chriswilsonstudio": {
+    "feed": "https://chriswilsonstudio.com/feed/"
+  },
+  "chronosaur": {
+    "feed": "https://chronosaur.us/feed/"
+  },
+  "chunkofcoal_bearblog": {
+    "feed": "https://chunkofcoal.bearblog.dev/feed/"
+  },
+  "chusoft": {
+    "feed": "https://chusoft.dev/atom/"
+  },
+  "cicadamania": {
+    "feed": "https://www.cicadamania.com/cicadas/feed/"
+  },
+  "ciechanowi": {
+    "feed": "https://notes.ciechanowi.cz/rss.xml"
+  },
+  "cipher": {
+    "feed": "https://cipher.org.uk/feed.xml"
+  },
+  "ciswoman": {
+    "feed": "https://theonly.ciswoman.online/atom/"
+  },
+  "citizendot": {
+    "feed": "https://citizendot.github.io/rss"
+  },
+  "cityliv": {
+    "feed": "https://cityliv.ing/feed/"
+  },
+  "cityobservatory": {
+    "feed": "https://cityobservatory.org/feed/atom/"
+  },
+  "clach": {
+    "feed": "https://clach.dev/atom.xml"
+  },
+  "classicsongbird": {
+    "feed": "https://www.classicsongbird.ca/blog?format=rss"
+  },
+  "classynemesis": {
+    "feed": "https://www.classynemesis.com/blog/feed"
+  },
+  "clayleatherworks_com": {
+    "feed": "https://clayleatherworks.com/index.xml"
+  },
+  "clemenss-art": {
+    "feed": "https://clemenss-art.tumblr.com/rss"
+  },
+  "clichefactory": {
+    "feed": "https://clichefactory.com/writing/feed/"
+  },
+  "clintballinger": {
+    "feed": "https://clintballinger.wordpress.com/feed/"
+  },
+  "clippingsilver": {
+    "feed": "https://clippingsilver.com/atom/"
+  },
+  "cloudy": {
+    "feed": "https://cloudy.nyc/rss.xml"
+  },
+  "cmdr2": {
+    "feed": "https://cmdr2.github.io/atom.xml"
+  },
+  "coacheshotseat": {
+    "feed": "https://coacheshotseat.com/feed/"
+  },
+  "cocoawithlove": {
+    "feed": "https://www.cocoawithlove.com/feed.xml"
+  },
+  "code2prompt": {
+    "feed": "https://code2prompt.dev/blog/rss"
+  },
+  "codecube": {
+    "feed": "https://codecube.net/feed/"
+  },
+  "coderkini": {
+    "feed": "https://coderkini.dev/feed/"
+  },
+  "coderslexicon": {
+    "feed": "https://coderslexicon.com/atom"
+  },
+  "codessh": {
+    "feed": "https://personal.codessh.de/atom/"
+  },
+  "coding-dude": {
+    "feed": "https://www.coding-dude.com/wp/feed/"
+  },
+  "codingsucksiloveit": {
+    "feed": "https://codingsucksiloveit.blogspot.com/feeds/posts/default"
+  },
+  "coin-operated": {
+    "feed": "http://www.coin-operated.com/feed/"
+  },
+  "coloradobrewerylist": {
+    "feed": "https://www.coloradobrewerylist.com/feed/"
+  },
+  "combatdavey_2": {
+    "feed": "https://combatdavey.net/atom.xml"
+  },
+  "combinatorialgametheory": {
+    "feed": "https://combinatorialgametheory.blogspot.com/feeds/posts/default"
+  },
+  "computeretiquette": {
+    "feed": "https://computeretiquette.net/feed/"
+  },
+  "con5": {
+    "feed": "https://con5.bearblog.dev/feed/"
+  },
+  "conceptofmind": {
+    "feed": "https://conceptofmind.com/feed/"
+  },
+  "concretelunch": {
+    "feed": "https://www.gaming.concretelunch.info/feed/"
+  },
+  "conduition": {
+    "feed": "https://conduition.io/atom.xml"
+  },
+  "conelrad": {
+    "feed": "https://conelrad.blogspot.com/feeds/posts/default"
+  },
+  "congas": {
+    "feed": "https://congas.blog/atom/"
+  },
+  "conifer": {
+    "feed": "https://conifer.blog/feed/"
+  },
+  "connermccall": {
+    "feed": "https://connermccall.com/rss.xml"
+  },
+  "conradakunga": {
+    "feed": "https://www.conradakunga.com/blog/feed.xml"
+  },
+  "constantworkflow": {
+    "feed": "https://constantworkflow.bearblog.dev/feed/"
+  },
+  "constellationinspiration": {
+    "feed": "https://constellationinspiration.com/feed"
+  },
+  "containsnosquid": {
+    "feed": "https://containsnosquid.com/feed/"
+  },
+  "contemplations": {
+    "feed": "https://contemplations.ink/feed/"
+  },
+  "coppershaman": {
+    "feed": "https://coppershaman.com/feed/"
+  },
+  "corymikell": {
+    "feed": "http://www.corymikell.com/feed/"
+  },
+  "coryrist": {
+    "feed": "https://coryrist.com/atom/"
+  },
+  "cosbytan": {
+    "feed": "https://cosbytan.com/feed/"
+  },
+  "cppstories": {
+    "feed": "https://www.cppstories.com/index.xml"
+  },
+  "craigie": {
+    "feed": "https://blog.craigie.dev/atom/"
+  },
+  "crakestraw": {
+    "feed": "https://blog.crakestraw.xyz/atom/"
+  },
+  "crayonhydra": {
+    "feed": "https://crayonhydra.com/feed/"
+  },
+  "crazyapplerumors": {
+    "feed": "http://crazyapplerumors.com/feed/"
+  },
+  "crazybutable": {
+    "feed": "https://crazybutable.com/blog.xml"
+  },
+  "creolened": {
+    "feed": "https://creolened.com/feed/atom/"
+  },
+  "crisluengo": {
+    "feed": "https://www.crisluengo.net/feeds/all.atom.xml"
+  },
+  "cryptoyoda1338": {
+    "feed": "https://cryptoyoda1338.com/feed/"
+  },
+  "crystaljjlee": {
+    "feed": "https://crystaljjlee.com/feed/"
+  },
+  "cssanalytics": {
+    "feed": "https://cssanalytics.wordpress.com/feed/"
+  },
+  "cukic": {
+    "feed": "https://cukic.co/feeds/atom.xml"
+  },
+  "cultnorthwest": {
+    "feed": "https://cultnorthwest.com/feed/"
+  },
+  "cunyat": {
+    "feed": "https://toni.cunyat.net/feeds/posts/default"
+  },
+  "curiouscockatoo": {
+    "feed": "https://curiouscockatoo.net/atom/"
+  },
+  "curiouscoding": {
+    "feed": "https://curiouscoding.nl/index.xml"
+  },
+  "curiousquail": {
+    "feed": "https://blog.curiousquail.com/feed/"
+  },
+  "cybadger": {
+    "feed": "https://www.cybadger.com/feed/"
+  },
+  "cyberfunk": {
+    "feed": "https://cyberfunk.blog/feed/"
+  },
+  "cybergeeks": {
+    "feed": "https://cybergeeks.tech/feed/"
+  },
+  "cybergrey": {
+    "feed": "https://cybergrey.io/atom.xml"
+  },
+  "cycletime": {
+    "feed": "https://www.cycletime.com/feed.xml"
+  },
+  "cyrush": {
+    "feed": "https://rajesh.cyrush.net/feed/"
+  },
+  "dacharycarey": {
+    "feed": "https://dacharycarey.com/index.xml"
+  },
+  "dailyimprovisation": {
+    "feed": "https://dailyimprovisation.blogspot.com/feeds/posts/default"
+  },
+  "dakinikali": {
+    "feed": "https://www.dakinikali.com/blog-feed.xml"
+  },
+  "dalybulge": {
+    "feed": "https://dalybulge.blogspot.com/feeds/posts/default"
+  },
+  "damilola-oladele_dev": {
+    "feed": "https://damilola-oladele.dev/feed.xml"
+  },
+  "damonreece": {
+    "feed": "https://blog.damonreece.com/feed/"
+  },
+  "danb_sh": {
+    "feed": "https://danb.sh/atom/"
+  },
+  "dancroak": {
+    "feed": "https://dancroak.com/feed.xml"
+  },
+  "daneanthonybroderick_com": {
+    "feed": "https://daneanthonybroderick.com/feed/"
+  },
+  "dangermouse": {
+    "feed": "https://www.dangermouse.net/wordpresshome/feed/"
+  },
+  "dangertravels": {
+    "feed": "https://dangertravels.com/feed.php"
+  },
+  "danhagen": {
+    "feed": "https://danhagen.com/feed/"
+  },
+  "daniel_industries": {
+    "feed": "https://daniel.industries/atom.xml"
+  },
+  "danielefilaretti": {
+    "feed": "https://danielefilaretti.com/feed.xml"
+  },
+  "danielmathews": {
+    "feed": "https://www.danielmathews.info/feed/"
+  },
+  "danieln": {
+    "feed": "https://danieln.uk/feed/"
+  },
+  "danielslife": {
+    "feed": "https://danielslife.blog/rss.xml"
+  },
+  "danlockton": {
+    "feed": "https://architectures.danlockton.co.uk/feed/"
+  },
+  "danonymous_blog": {
+    "feed": "https://danonymous.blog/feed/"
+  },
+  "dario": {
+    "feed": "https://dario.cat/feed.xml"
+  },
+  "darkcosmos": {
+    "feed": "https://darkcosmos.com/home/f.rss"
+  },
+  "darthsanddroids": {
+    "feed": "https://darthsanddroids.net/rss.xml"
+  },
+  "dashmage": {
+    "feed": "https://blog.dashmage.dev/feed/"
+  },
+  "datadrivengamer": {
+    "feed": "https://datadrivengamer.blogspot.com/feeds/posts/default"
+  },
+  "datahorde": {
+    "feed": "https://datahorde.org/feed"
+  },
+  "dateemups": {
+    "feed": "https://dateemups.com/feed/"
+  },
+  "dattabytes": {
+    "feed": "https://dattabytes.xyz/feed/"
+  },
+  "daudix": {
+    "feed": "https://daudix.one/blog/rss.xml"
+  },
+  "daughterofthelilies": {
+    "feed": "https://www.daughterofthelilies.com/comic/feed/"
+  },
+  "davemargulius": {
+    "feed": "https://davemargulius.com/feed/"
+  },
+  "daveschumaker": {
+    "feed": "https://daveschumaker.net/feed/"
+  },
+  "davidahughes": {
+    "feed": "https://davidahughes.net/rss/"
+  },
+  "daviddaniels": {
+    "feed": "https://daviddaniels.com/feed/"
+  },
+  "davidenunes": {
+    "feed": "https://davidenunes.com/feed.xml"
+  },
+  "davidexe": {
+    "feed": "https://davidexe.com/atom/"
+  },
+  "davidgsmith": {
+    "feed": "https://davidgsmith.net/rss.xml"
+  },
+  "davidism": {
+    "feed": "https://davidism.com/feed/"
+  },
+  "davidjarvis_com": {
+    "feed": "https://davidjarvis.com/rss/"
+  },
+  "davidstutz": {
+    "feed": "https://davidstutz.de/feed/atom/"
+  },
+  "davidvance": {
+    "feed": "https://davidvance.net/feed/"
+  },
+  "davidwgoldman": {
+    "feed": "http://www.davidwgoldman.com/rss.xml"
+  },
+  "dawnsomewhere": {
+    "feed": "https://dawnsomewhere.com/index.php/feed/"
+  },
+  "dblc": {
+    "feed": "https://dblc.fyi/index.xml"
+  },
+  "dblock": {
+    "feed": "https://code.dblock.org/feed.xml"
+  },
+  "ddahome": {
+    "feed": "https://ddahome.bearblog.dev/feed/"
+  },
+  "debito": {
+    "feed": "https://www.debito.org/?feed=rss2"
+  },
+  "degillettcox": {
+    "feed": "https://degillettcox.com.au/feed/"
+  },
+  "delightql": {
+    "feed": "https://blog.delightql.org/index.xml"
+  },
+  "demoredesign": {
+    "feed": "https://blog.demoredesign.com/atom/"
+  },
+  "denisthiessen": {
+    "feed": "https://denisthiessen.de/feed.xml"
+  },
+  "denkstein": {
+    "feed": "https://denkstein.github.io/feed.xml"
+  },
+  "derg": {
+    "feed": "https://derg.nz/feed.xml"
+  },
+  "derrickjensen": {
+    "feed": "https://derrickjensen.org/feed/atom/"
+  },
+  "desfontain": {
+    "feed": "https://desfontain.es/blog/rss"
+  },
+  "dessy": {
+    "feed": "https://blog.dessy.me/feed/"
+  },
+  "devcodechronicles": {
+    "feed": "https://devcodechronicles.com/rss.xml"
+  },
+  "devenchoudhary": {
+    "feed": "https://devenchoudhary.com/feed/"
+  },
+  "devins": {
+    "feed": "https://devins.page/rss.xml"
+  },
+  "devxperiences": {
+    "feed": "https://www.devxperiences.com/feed/"
+  },
+  "deweymiller": {
+    "feed": "https://deweymiller.xyz/atom/"
+  },
+  "dges": {
+    "feed": "https://ho.dges.online/index.xml"
+  },
+  "dheinemann": {
+    "feed": "https://dheinemann.com/atom/"
+  },
+  "dialuptheoldinternet": {
+    "feed": "https://dialuptheoldinternet.org/feed/"
+  },
+  "didierstevens": {
+    "feed": "https://blog.didierstevens.com/feed/"
+  },
+  "die-hardman": {
+    "feed": "https://die-hardman.com/feed/"
+  },
+  "dieghernan": {
+    "feed": "https://dieghernan.github.io/atom.xml"
+  },
+  "dig-id": {
+    "feed": "https://www.dig-id.de/feed/"
+  },
+  "dijonkitchen": {
+    "feed": "https://www.dijonkitchen.org/index.xml"
+  },
+  "dimm4": {
+    "feed": "https://dimm4.video/atom/"
+  },
+  "diogotc": {
+    "feed": "https://diogotc.com/blog/atom.xml"
+  },
+  "dioscuria": {
+    "feed": "https://dioscuria.com/atom/"
+  },
+  "disruptivetelephony": {
+    "feed": "https://www.disruptivetelephony.com/feed"
+  },
+  "ditapl": {
+    "feed": "https://ditapl.us/feed/"
+  },
+  "divinely-unwize": {
+    "feed": "https://divinely-unwize.com/feed/"
+  },
+  "djberg96": {
+    "feed": "https://djberg96.livejournal.com/data/atom"
+  },
+  "djr_ai": {
+    "feed": "https://www.djr.ai/blog-feed.xml"
+  },
+  "dochia": {
+    "feed": "https://blog.dochia.dev/rss.xml"
+  },
+  "dodgethissecurity": {
+    "feed": "https://www.dodgethissecurity.com/feed/"
+  },
+  "dodgycoder": {
+    "feed": "https://www.dodgycoder.net/feeds/posts/default?alt=rss"
+  },
+  "dognebula": {
+    "feed": "https://felix.dognebula.com/art/rss.xml"
+  },
+  "doingitinpublic": {
+    "feed": "https://doingitinpublic.com/index.xml"
+  },
+  "donohoe": {
+    "feed": "https://donohoe.dev/feed/atom"
+  },
+  "dontmesswithtaxes": {
+    "feed": "https://dontmesswithtaxes.com/feed/"
+  },
+  "dorcohen": {
+    "feed": "https://dorcohen.dev/rss.xml"
+  },
+  "doriantaylor": {
+    "feed": "https://doriantaylor.com/f07f5044-01bc-472d-9079-9b07771b731c"
+  },
+  "dostoynikov_bearblog": {
+    "feed": "https://dostoynikov.bearblog.dev/feed/?type=rss"
+  },
+  "doubledorjestudio": {
+    "feed": "https://doubledorjestudio.com/feed/"
+  },
+  "dougbelshaw": {
+    "feed": "https://substrate.dougbelshaw.com/feed.xml"
+  },
+  "dragonminded": {
+    "feed": "https://dragonminded.com/blog/rss/"
+  },
+  "drcate": {
+    "feed": "https://drcate.com/feed/"
+  },
+  "dreamdawn": {
+    "feed": "https://horror.dreamdawn.com/?feed=rss2"
+  },
+  "dreamlogic": {
+    "feed": "https://dreamlogic.blog/feed/"
+  },
+  "drewing": {
+    "feed": "https://drewing.de/blog/rss.xml"
+  },
+  "drewsrobots": {
+    "feed": "https://drewsrobots.blogspot.com/feeds/posts/default"
+  },
+  "drmiteshmakwana": {
+    "feed": "https://blog.drmiteshmakwana.com/feed/"
+  },
+  "ds-hf": {
+    "feed": "https://ds-hf.com/atom/"
+  },
+  "ds-security": {
+    "feed": "https://ds-security.com/rss.xml"
+  },
+  "dsell": {
+    "feed": "https://dsell.me/atom/"
+  },
+  "dummies-for-destruction": {
+    "feed": "https://www.dummies-for-destruction.co.uk/random/feed/"
+  },
+  "dunkpunk": {
+    "feed": "https://dunkpunk.net/feed/"
+  },
+  "durinthal": {
+    "feed": "https://blog.durinthal.net/feed/"
+  },
+  "dvlog": {
+    "feed": "https://dvlog.dev/index.xml"
+  },
+  "dwrodri": {
+    "feed": "https://dwrodri.gitlab.io/index.xml"
+  },
+  "dystopia": {
+    "feed": "https://www.dystopia.ink/feed/atom/"
+  },
+  "e-whisper": {
+    "feed": "https://e-whisper.com/atom.xml"
+  },
+  "eagleraviorange": {
+    "feed": "https://eagleraviorange.bearblog.dev/feed/"
+  },
+  "earth-to-emma": {
+    "feed": "https://earth-to-emma.bearblog.dev/feed/"
+  },
+  "ebubeakukwe": {
+    "feed": "https://ebubeakukwe.bearblog.dev/feed/"
+  },
+  "eclogiselle": {
+    "feed": "https://www.eclogiselle.com/feeds/posts/default"
+  },
+  "economixcomix": {
+    "feed": "https://economixcomix.com/feed/"
+  },
+  "ecostack": {
+    "feed": "https://ecostack.dev/index.xml"
+  },
+  "ecprotocol": {
+    "feed": "https://ecprotocol.io/feed.xml"
+  },
+  "eden_care": {
+    "feed": "https://eden.care/atom/"
+  },
+  "edisoncode": {
+    "feed": "https://edisoncode.com/feed.xml"
+  },
+  "edmonddantes_ca": {
+    "feed": "https://edmonddantes.ca/feed/"
+  },
+  "edmundxwhite": {
+    "feed": "https://edmundxwhite.com/rss.xml"
+  },
+  "educatedkanak": {
+    "feed": "https://educatedkanak.de/rss/"
+  },
+  "edvane": {
+    "feed": "https://edvane.world/feed.xml"
+  },
+  "eenbakmetzout": {
+    "feed": "https://eenbakmetzout.nl/feed/"
+  },
+  "eferro": {
+    "feed": "https://www.eferro.net/feeds/posts/default"
+  },
+  "eggplant": {
+    "feed": "https://eggplant.place/users/Zerofactorial/feed/reviews/"
+  },
+  "eggwall": {
+    "feed": "https://www.eggwall.com/feeds/posts/default"
+  },
+  "egscomics": {
+    "feed": "https://www.egscomics.com/comic/rss"
+  },
+  "eikenberry": {
+    "feed": "https://www.eikenberry.net/feed/"
+  },
+  "eileenramos": {
+    "feed": "https://www.eileenramos.com/atom/"
+  },
+  "ejmagnier": {
+    "feed": "https://ejmagnier.com/feed/"
+  },
+  "ekhou": {
+    "feed": "https://blog.ekhou.dev/feed/"
+  },
+  "el-naschie": {
+    "feed": "https://el-naschie.net/feed/"
+  },
+  "electronicink": {
+    "feed": "https://electronicink.xyz/atom/"
+  },
+  "elektroelch": {
+    "feed": "https://elektroelch.net/feed/"
+  },
+  "elfden": {
+    "feed": "https://elfden.co.uk/feed/"
+  },
+  "elharo": {
+    "feed": "https://cafe.elharo.com/feed/atom/"
+  },
+  "eligundry": {
+    "feed": "https://eligundry.com/blog.rss"
+  },
+  "elitistcyber": {
+    "feed": "https://elitistcyber.com/atom/"
+  },
+  "elizabethbear": {
+    "feed": "https://www.elizabethbear.com/blog-feed.xml"
+  },
+  "elizabethzagroba": {
+    "feed": "https://elizabethzagroba.com/rss.xml"
+  },
+  "elkinsdiy": {
+    "feed": "https://elkinsdiy.com/feed/"
+  },
+  "ellemouton": {
+    "feed": "https://www.ellemouton.com/index.xml"
+  },
+  "ellen_zone": {
+    "feed": "https://ellen.zone/feed/"
+  },
+  "elliot": {
+    "feed": "https://elliot.my/atom/"
+  },
+  "elmc": {
+    "feed": "https://elmc.at/feed/"
+  },
+  "elmerdata_ai": {
+    "feed": "https://blog.elmerdata.ai/feed/"
+  },
+  "elorganillero": {
+    "feed": "https://elorganillero.com/feed/"
+  },
+  "eltrovemo": {
+    "feed": "https://blog.eltrovemo.com/feed/"
+  },
+  "emanueldanci": {
+    "feed": "https://emanueldanci.com/atom.xml"
+  },
+  "emeraldsip": {
+    "feed": "https://emeraldsip.cafe/atom/"
+  },
+  "emilyhokett": {
+    "feed": "https://www.emilyhokett.blog/feed/"
+  },
+  "emotional-being": {
+    "feed": "https://emotional-being.online/feed/"
+  },
+  "emrahdiril": {
+    "feed": "https://emrahdiril.com/notes/feed/"
+  },
+  "emschwartz": {
+    "feed": "https://emschwartz.me/rss/"
+  },
+  "emsenn": {
+    "feed": "https://emsenn.net/index.xml"
+  },
+  "enbiesarefrom": {
+    "feed": "https://enbiesarefrom.earth/atom/"
+  },
+  "eno-writer": {
+    "feed": "https://www.eno-writer.com/atom/"
+  },
+  "enricozini_org": {
+    "feed": "https://www.enricozini.org/blog/index.atom"
+  },
+  "epilepsydad": {
+    "feed": "https://www.epilepsydad.com/feed/"
+  },
+  "eranstiller": {
+    "feed": "https://eranstiller.com/feed"
+  },
+  "eric_fun": {
+    "feed": "https://eric.fun/rss.xml"
+  },
+  "ericfrisch": {
+    "feed": "https://blog.ericfrisch.com/feed/"
+  },
+  "erickrueger": {
+    "feed": "https://erickrueger.com/atom.xml"
+  },
+  "ericky": {
+    "feed": "https://ericky.xyz/atom/"
+  },
+  "ericnielsen": {
+    "feed": "https://ericnielsen.blog/feed/"
+  },
+  "erikgahner_github": {
+    "feed": "https://erikgahner.github.io/posts/feed.xml"
+  },
+  "eriklonnroth": {
+    "feed": "https://eriklonnroth.com/atom/"
+  },
+  "eriq": {
+    "feed": "https://eriq.se/feed/"
+  },
+  "erkan": {
+    "feed": "https://erkan.se/feed/"
+  },
+  "erranto": {
+    "feed": "https://erranto.com/rss.xml"
+  },
+  "eruditorumpress": {
+    "feed": "https://www.eruditorumpress.com/feed"
+  },
+  "erynnbrook": {
+    "feed": "https://www.erynnbrook.com/feed/atom/"
+  },
+  "esdrasbeleza": {
+    "feed": "https://www.esdrasbeleza.com/feed/atom/"
+  },
+  "etereaestudios": {
+    "feed": "https://etereaestudios.com/feed/"
+  },
+  "ethanaldrich": {
+    "feed": "https://ethanaldrich.org/feed.xml"
+  },
+  "etiamastra": {
+    "feed": "https://etiamastra.com/feed/"
+  },
+  "euan": {
+    "feed": "https://euan.is/atom/"
+  },
+  "eudaemonist": {
+    "feed": "https://www.eudaemonist.com/feed/"
+  },
+  "ev-fae": {
+    "feed": "https://ev-fae.quest/rss/"
+  },
+  "evanforry_com": {
+    "feed": "https://www.evanforry.com/atom/"
+  },
+  "evanrelf": {
+    "feed": "https://evanrelf.com/atom/"
+  },
+  "everydayedwina": {
+    "feed": "https://everydayedwina.bearblog.dev/feed/"
+  },
+  "everygoddamnday": {
+    "feed": "https://www.everygoddamnday.com/feeds/posts/default"
+  },
+  "everythingsims2": {
+    "feed": "https://everythingsims2.com/feed/"
+  },
+  "excesscopyright": {
+    "feed": "https://excesscopyright.blogspot.com/feeds/posts/default"
+  },
+  "exomonstruo": {
+    "feed": "https://exomonstruo.net/feed/"
+  },
+  "expatriotic": {
+    "feed": "https://expatriotic.me/feed/"
+  },
+  "explaininghistory": {
+    "feed": "https://explaininghistory.org/feed/"
+  },
+  "explainmeasured": {
+    "feed": "https://explainmeasured.com/feed.xml"
+  },
+  "explorator": {
+    "feed": "https://explorator.dev/atom/"
+  },
+  "exploringentropy": {
+    "feed": "https://lens.exploringentropy.com/atom/"
+  },
+  "ext": {
+    "feed": "https://ext.fyi/feed/"
+  },
+  "exystence": {
+    "feed": "https://exystence.net/feed/"
+  },
+  "eyewool": {
+    "feed": "https://eyewool.international/feed/"
+  },
+  "f1-metrix-front": {
+    "feed": "https://f1-metrix-front.vercel.app/feed.xml"
+  },
+  "f_0xdhruv": {
+    "feed": "https://0xdhruv.com/atom/"
+  },
+  "f_0xgramajo_xyz": {
+    "feed": "https://0xgramajo.xyz/feed/"
+  },
+  "f_10001calamities": {
+    "feed": "https://10001calamities.bearblog.dev/feed/"
+  },
+  "f_21stcentech": {
+    "feed": "https://www.21stcentech.com/feed/"
+  },
+  "f_24601": {
+    "feed": "https://blog.24601.net/feed/"
+  },
+  "f_2keebs": {
+    "feed": "https://life.2keebs.com/atom/"
+  },
+  "f_2m": {
+    "feed": "https://2m.lt/blog/rss.xml"
+  },
+  "f_3alt": {
+    "feed": "https://3alt.bearblog.dev/feed/"
+  },
+  "f_3jane": {
+    "feed": "https://www.3jane.co.uk/feed.xml"
+  },
+  "f_4s_bearblog_dev": {
+    "feed": "https://4s.bearblog.dev/feed/?type=rss"
+  },
+  "f_50by25": {
+    "feed": "https://50by25.com/feed"
+  },
+  "f_73pctgeek": {
+    "feed": "https://73pctgeek.com/atom/"
+  },
+  "faganm": {
+    "feed": "https://faganm.com/blog/feed/"
+  },
+  "faludi": {
+    "feed": "https://www.faludi.com/feed/"
+  },
+  "fare": {
+    "feed": "https://fare.livejournal.com/data/rss"
+  },
+  "fedibblety": {
+    "feed": "https://www.fedibblety.com/feed/"
+  },
+  "feedburner_bertrandmeyer": {
+    "feed": "http://feeds.feedburner.com/BertrandMeyer"
+  },
+  "feedburner_mrhaki": {
+    "feed": "https://feeds.feedburner.com/mrhaki"
+  },
+  "feedburner_navneetsinghchauhan": {
+    "feed": "http://feeds.feedburner.com/NavneetSinghChauhan-TheTrueWarrior"
+  },
+  "felixgrassl": {
+    "feed": "https://www.felixgrassl.xyz/rss.xml"
+  },
+  "felixleger": {
+    "feed": "https://felixleger.com/index.xml"
+  },
+  "felixmclean": {
+    "feed": "https://felixmclean.com/feed/"
+  },
+  "feralforaging": {
+    "feed": "https://feralforaging.com/feed/"
+  },
+  "fforw": {
+    "feed": "https://fforw.de/blog/rss/"
+  },
+  "figmnt": {
+    "feed": "https://figmnt.com/feed/"
+  },
+  "figuiere": {
+    "feed": "https://www.figuiere.net/hub/wlog/atom.xml"
+  },
+  "filipstanojevic": {
+    "feed": "https://filipstanojevic.com/feed/"
+  },
+  "finnk": {
+    "feed": "https://finnk.ca/feed/"
+  },
+  "fionntantapes": {
+    "feed": "https://fionntantapes.ie/feed/"
+  },
+  "fixermark": {
+    "feed": "https://blog.fixermark.com/index.xml"
+  },
+  "flagdb": {
+    "feed": "https://www.flagdb.com/articles/feed.xml"
+  },
+  "flaviuspopan": {
+    "feed": "https://flaviuspopan.com/atom/"
+  },
+  "flecart": {
+    "feed": "https://flecart.github.io/index.xml"
+  },
+  "flightfromperfection": {
+    "feed": "https://www.flightfromperfection.com/feeds/all.atom.xml"
+  },
+  "fluentself": {
+    "feed": "https://fluentself.com/feed/"
+  },
+  "flyfish": {
+    "feed": "https://flyfish.info/atom/"
+  },
+  "foliedudoute": {
+    "feed": "https://foliedudoute.bearblog.dev/feed/"
+  },
+  "folkcostume": {
+    "feed": "https://folkcostume.blogspot.com/feeds/posts/default"
+  },
+  "folkflora": {
+    "feed": "https://www.folkflora.co/feed/"
+  },
+  "folkhorrorrevival": {
+    "feed": "https://folkhorrorrevival.com/feed/"
+  },
+  "folklorethursday": {
+    "feed": "https://folklorethursday.com/feed/"
+  },
+  "folkroom": {
+    "feed": "https://folkroom.org/feed.xml"
+  },
+  "forbear": {
+    "feed": "https://www.forbear.dev/feed.xml"
+  },
+  "foreheadkisses": {
+    "feed": "https://foreheadkisses.blog/feed/?type=rss"
+  },
+  "forkingmad": {
+    "feed": "https://forkingmad.blog/feed/?type=rss"
+  },
+  "fornoone_org": {
+    "feed": "https://fornoone.org/feed/"
+  },
+  "forsblom": {
+    "feed": "https://oskari.forsblom.xyz/atom/"
+  },
+  "forwardscattering": {
+    "feed": "https://forwardscattering.org/rss"
+  },
+  "founddrama": {
+    "feed": "https://blog.founddrama.net/feed/"
+  },
+  "foundintheberrypatch": {
+    "feed": "https://foundintheberrypatch.blog/atom/"
+  },
+  "francescrossley": {
+    "feed": "https://francescrossley.com/atom/"
+  },
+  "fred_glass": {
+    "feed": "https://fred.glass/feed/"
+  },
+  "freddy": {
+    "feed": "https://freddy.us/feed.xml"
+  },
+  "freedman": {
+    "feed": "https://freedman.dev/atom/"
+  },
+  "frictio": {
+    "feed": "https://frictio.net/atom/"
+  },
+  "friendorfoe": {
+    "feed": "https://blog.friendorfoe.com/feeds/posts/default"
+  },
+  "friendshiprecession": {
+    "feed": "https://friendshiprecession.com/rss.xml"
+  },
+  "ftrain_com": {
+    "feed": "https://ftrain.com/feed.xml"
+  },
+  "fucked": {
+    "feed": "https://security.is.fucked.blog/feed.atom"
+  },
+  "funatparties": {
+    "feed": "https://www.funatparties.org/feed/"
+  },
+  "funcptr": {
+    "feed": "https://funcptr.net/atom.xml"
+  },
+  "g43ld": {
+    "feed": "https://g43ld.bearblog.dev/feed/"
+  },
+  "gabrieldunne": {
+    "feed": "https://gabrieldunne.com/feed.xml"
+  },
+  "gabrielnava": {
+    "feed": "https://www.gabrielnava.dev/rss.xml"
+  },
+  "gabrielsampson": {
+    "feed": "https://gabrielsampson.com/rss.xml"
+  },
+  "gabrielwong": {
+    "feed": "https://blog.gabrielwong.dev/atom/"
+  },
+  "gaelduval": {
+    "feed": "https://gaelduval.com/feed/"
+  },
+  "gages": {
+    "feed": "https://gages.garden/feed/"
+  },
+  "gaiden": {
+    "feed": "https://gaiden.blog/feed/"
+  },
+  "gaivo": {
+    "feed": "https://markos.gaivo.net/articles/feeds/atom.xml"
+  },
+  "galactanet": {
+    "feed": "https://galactanet.com/feed.xml"
+  },
+  "galgyn": {
+    "feed": "https://galgyn.com/feed/"
+  },
+  "gamblingandthelaw": {
+    "feed": "https://www.gamblingandthelaw.com/feed/"
+  },
+  "gameboat_org": {
+    "feed": "https://gameboat.org/atom/"
+  },
+  "gamefulbits": {
+    "feed": "https://www.gamefulbits.com/feed/"
+  },
+  "gamerdad": {
+    "feed": "http://www.gamerdad.com/blog/feed/"
+  },
+  "gamethoughts": {
+    "feed": "https://gamethoughts.bearblog.dev/feed/"
+  },
+  "gamlor": {
+    "feed": "https://gamlor.info/feed.xml"
+  },
+  "garbagecollected_io": {
+    "feed": "https://garbagecollected.io/rss.xml"
+  },
+  "garbe": {
+    "feed": "https://garbe.io/atom.xml"
+  },
+  "garciaripoll": {
+    "feed": "https://juanjose.garciaripoll.com/blog/rss.xml"
+  },
+  "gareth-evans": {
+    "feed": "https://www.gareth-evans.com/feed/"
+  },
+  "garrettstimpson": {
+    "feed": "https://garrettstimpson.ca/feed.xml"
+  },
+  "gatezh": {
+    "feed": "https://gatezh.com/index.xml"
+  },
+  "gazeclub": {
+    "feed": "https://gazeclub.blog/feed/"
+  },
+  "gbtherapy_net": {
+    "feed": "https://gbtherapy.net/feed/"
+  },
+  "gearwashere": {
+    "feed": "https://gearwashere.com/atom/"
+  },
+  "gedblog": {
+    "feed": "https://gedblog.com/feed/"
+  },
+  "gedye": {
+    "feed": "https://blog.gedye.me/feed/"
+  },
+  "gekk": {
+    "feed": "https://gekk.info/articles/articles.xml"
+  },
+  "gen2": {
+    "feed": "https://gen2.space/rss.xml"
+  },
+  "genbox": {
+    "feed": "https://genbox.github.io/feed.xml"
+  },
+  "generalpurposeresearch": {
+    "feed": "https://generalpurposeresearch.com/feed/?type=rss"
+  },
+  "genesispark": {
+    "feed": "https://genesispark.com/feed/"
+  },
+  "geocities": {
+    "feed": "https://blog.geocities.institute/feed"
+  },
+  "geoffoliver": {
+    "feed": "https://geoffoliver.me/feed.xml"
+  },
+  "georgetownmetropolitan": {
+    "feed": "https://georgetownmetropolitan.com/feed/"
+  },
+  "getkohlrabi": {
+    "feed": "https://blog.getkohlrabi.com/feed/"
+  },
+  "gg8": {
+    "feed": "https://blog.gg8.se/wordpress/?feed=rss"
+  },
+  "gglas": {
+    "feed": "https://gglas.ninja/rss.xml"
+  },
+  "ghostoflight": {
+    "feed": "https://ghostoflight.spiderforest.com/comic/rss?id=1"
+  },
+  "ghoulnoise": {
+    "feed": "https://ghoulnoise.com/atom/"
+  },
+  "ghrelin": {
+    "feed": "https://ghrelin.bearblog.dev/feed/"
+  },
+  "giftscomic": {
+    "feed": "https://giftscomic.com/rss.xml"
+  },
+  "gildedguy": {
+    "feed": "https://gildedguy.com/feed"
+  },
+  "ginsberg": {
+    "feed": "https://todd.ginsberg.com/index.xml"
+  },
+  "gitzandglory": {
+    "feed": "https://gitzandglory.com/feed/"
+  },
+  "gizn": {
+    "feed": "https://gizn.org/feed/"
+  },
+  "gjlondon": {
+    "feed": "https://www.gjlondon.com/feed/"
+  },
+  "glab": {
+    "feed": "https://glab.page/atom/"
+  },
+  "glava_2": {
+    "feed": "http://glava.top/rss"
+  },
+  "global-macro-monitor": {
+    "feed": "https://global-macro-monitor.com/feed/"
+  },
+  "globalvariables": {
+    "feed": "https://globalvariables.net/feed/"
+  },
+  "glthr_com": {
+    "feed": "https://www.glthr.com/feed.xml"
+  },
+  "gnuband": {
+    "feed": "https://www.gnuband.org/feed/"
+  },
+  "gobogazette": {
+    "feed": "https://www.gobogazette.com/feed/atom/"
+  },
+  "godberit": {
+    "feed": "https://www.godberit.de/rss.xml"
+  },
+  "goer": {
+    "feed": "https://www.goer.org/Journal/feed/atom"
+  },
+  "gogglebob": {
+    "feed": "https://www.gogglebob.com/feed/"
+  },
+  "going-rogue": {
+    "feed": "https://blaise.going-rogue.com/atom/"
+  },
+  "goinggaijin": {
+    "feed": "https://goinggaijin.com/feed/"
+  },
+  "goldsborough": {
+    "feed": "https://goldsborough.io/rss.xml"
+  },
+  "goodgollyzines": {
+    "feed": "https://goodgollyzines.ca/feed/"
+  },
+  "goodticklebrain": {
+    "feed": "https://goodticklebrain.com/home?format=rss"
+  },
+  "gordoncassie": {
+    "feed": "https://www.gordoncassie.com/feed/"
+  },
+  "gordonmcdowell": {
+    "feed": "https://gordonmcdowell.com/rss.xml"
+  },
+  "gospeak": {
+    "feed": "https://gospeak.org/atom/"
+  },
+  "gotchas": {
+    "feed": "https://gotchas.dev/atom/"
+  },
+  "gothicrosie": {
+    "feed": "https://www.gothicrosie.com/blog-feed.xml"
+  },
+  "gotravelyourway": {
+    "feed": "https://gotravelyourway.com/feed/"
+  },
+  "gr-y": {
+    "feed": "https://gr-y.uk/feed/"
+  },
+  "grae": {
+    "feed": "https://grae.xyz/feed/"
+  },
+  "grafarc": {
+    "feed": "http://grafarc.org/news/feed/"
+  },
+  "grahamfarmelo": {
+    "feed": "https://grahamfarmelo.com/feed/"
+  },
+  "grahamwilsonbrown": {
+    "feed": "https://grahamwilsonbrown.com/feed/"
+  },
+  "graybeard": {
+    "feed": "https://graybeard.ing/feed/"
+  },
+  "grazinggoats": {
+    "feed": "https://grazinggoats.bearblog.dev/feed/"
+  },
+  "greatravine": {
+    "feed": "https://www.greatravine.com/feed/"
+  },
+  "grebe": {
+    "feed": "https://lukas.grebe.me/feed.xml"
+  },
+  "greenleaves": {
+    "feed": "https://greenleaves.bearblog.dev/feed/"
+  },
+  "greggant": {
+    "feed": "https://greggant.com/feed.xml"
+  },
+  "gregorlove": {
+    "feed": "https://gregorlove.com/articles.atom"
+  },
+  "gregpak_nexus": {
+    "feed": "https://blog.gregpak.nexus/feed/"
+  },
+  "gregraiz": {
+    "feed": "https://gregraiz.com/feed.xml"
+  },
+  "gregrickaby": {
+    "feed": "https://gregrickaby.com/feed.xml"
+  },
+  "greshm": {
+    "feed": "https://www.greshm.org/blog/index.xml"
+  },
+  "gridpoint": {
+    "feed": "https://www.gridpoint.consulting/blog?format=rss"
+  },
+  "grigio": {
+    "feed": "https://grigio.org/rss/"
+  },
+  "grimtech": {
+    "feed": "https://grimtech.net/index.xml"
+  },
+  "gurufantasyworld": {
+    "feed": "https://gurufantasyworld.com/feed/"
+  },
+  "haba": {
+    "feed": "https://jamal.haba.sh/feed/"
+  },
+  "habituatedthought": {
+    "feed": "https://habituatedthought.com/feed/"
+  },
+  "hagebols": {
+    "feed": "https://blog.hagebols.com/feed.xml"
+  },
+  "haikuhopeful": {
+    "feed": "https://haikuhopeful.com/feed/"
+  },
+  "halfway": {
+    "feed": "https://halfway.blog/feed/"
+  },
+  "hamishandrews": {
+    "feed": "https://hamishandrews.com/feed/"
+  },
+  "hamkins": {
+    "feed": "https://jdh.hamkins.org/feed/"
+  },
+  "hammyhavoc": {
+    "feed": "https://hammyhavoc.com/feed/"
+  },
+  "handsomeboyscomputer": {
+    "feed": "https://www.handsomeboyscomputer.club/index.xml"
+  },
+  "handstandsam": {
+    "feed": "https://handstandsam.com/feed/"
+  },
+  "handwrittenhomebrew": {
+    "feed": "https://www.handwrittenhomebrew.com/feed/"
+  },
+  "hanki": {
+    "feed": "https://hanki.dev/feed/?type=rss"
+  },
+  "haoliu": {
+    "feed": "https://blog.haoliu.io/feed/"
+  },
+  "happinessiscrossstitching": {
+    "feed": "https://www.happinessiscrossstitching.com/feeds/posts/default"
+  },
+  "happyfellow_bearblog": {
+    "feed": "https://happyfellow.bearblog.dev/feed/"
+  },
+  "harshitbeni": {
+    "feed": "https://notes.harshitbeni.com/atom/"
+  },
+  "hdansin": {
+    "feed": "https://blog.hdansin.com/feed/"
+  },
+  "heathenhearted_net": {
+    "feed": "https://heathenhearted.net/atom/"
+  },
+  "heckyeah": {
+    "feed": "https://heckyeah.fun/feed/"
+  },
+  "helding": {
+    "feed": "https://www.helding.net/posts/index.xml"
+  },
+  "helenaglass": {
+    "feed": "https://helenaglass.net/feed/"
+  },
+  "heliomass": {
+    "feed": "https://heliomass.com/index.xml"
+  },
+  "hellocatfood": {
+    "feed": "https://www.hellocatfood.com/index.xml"
+  },
+  "hellohenryanderson": {
+    "feed": "https://hellohenryanderson.com/feed/"
+  },
+  "hellomatrina": {
+    "feed": "https://hellomatrina.com/atom/"
+  },
+  "hellowhirled": {
+    "feed": "https://hellowhirled.org/atom/"
+  },
+  "henrygustafson": {
+    "feed": "https://henrygustafson.com/feed.xml"
+  },
+  "henryhyde": {
+    "feed": "https://henryhyde.co.uk/feed/"
+  },
+  "hescaide": {
+    "feed": "https://hescaide.me/feed/"
+  },
+  "heurista": {
+    "feed": "https://heurista.net/feed/"
+  },
+  "hexis": {
+    "feed": "https://hexis.ink/feed/"
+  },
+  "hey_jason": {
+    "feed": "https://world.hey.com/jason/feed.atom"
+  },
+  "heyhowdy": {
+    "feed": "https://heyhowdy.blog/feed/"
+  },
+  "heyida": {
+    "feed": "https://heyida.net/feed/"
+  },
+  "higherplaingames": {
+    "feed": "https://higherplaingames.com/feed/"
+  },
+  "highlyprobable": {
+    "feed": "https://highlyprobable.io/feed.xml"
+  },
+  "highperformancewebfonts": {
+    "feed": "https://highperformancewebfonts.com/feed.xml"
+  },
+  "hightechforum": {
+    "feed": "https://hightechforum.org/feed/"
+  },
+  "himeshp": {
+    "feed": "https://himeshp.blogspot.com/feeds/posts/default"
+  },
+  "himynamesdave": {
+    "feed": "https://nudged.himynamesdave.com/feed.xml"
+  },
+  "hipuku": {
+    "feed": "https://www.hipuku.dev/writing/feed.xml"
+  },
+  "hksong": {
+    "feed": "https://hksong.net/feed/"
+  },
+  "hlfshell": {
+    "feed": "https://hlfshell.ai/index.xml"
+  },
+  "hnaftali": {
+    "feed": "https://www.hnaftali.com/blog-feed.xml"
+  },
+  "hntrends": {
+    "feed": "https://www.hntrends.com/feed.xml"
+  },
+  "hodgkins": {
+    "feed": "https://hodgkins.io/rss.xml"
+  },
+  "hollowdie": {
+    "feed": "https://hollowdie.bearblog.dev/feed/"
+  },
+  "hoodie-cat": {
+    "feed": "https://hoodie-cat.dev/feed/"
+  },
+  "horner_io": {
+    "feed": "https://blog.horner.io/feed/"
+  },
+  "horsewithnoname": {
+    "feed": "https://www.horsewithnoname.nl/atom/"
+  },
+  "hotelblues": {
+    "feed": "https://www.hotelblues.com/feed/"
+  },
+  "housetoastonish": {
+    "feed": "https://www.housetoastonish.com/?feed=rss2"
+  },
+  "howardism": {
+    "feed": "https://howardism.org/index.xml"
+  },
+  "howardtayler": {
+    "feed": "https://howardtayler.com/feed/"
+  },
+  "howbabycomic": {
+    "feed": "https://howbabycomic.com/feed/"
+  },
+  "howrandom": {
+    "feed": "https://blog.howrandom.net/feed/"
+  },
+  "hrabovskyi": {
+    "feed": "https://hrabovskyi.online/atom.xml"
+  },
+  "hrmiitm": {
+    "feed": "https://hrmiitm.github.io/blog/index.xml"
+  },
+  "humanmars": {
+    "feed": "https://www.humanmars.net/feeds/posts/default"
+  },
+  "humanparadox": {
+    "feed": "https://humanparadox.org/feed/"
+  },
+  "humanslivehere": {
+    "feed": "https://humanslivehere.com/feed.xml"
+  },
+  "humantech": {
+    "feed": "https://blog.humantech.ch/feed/"
+  },
+  "hurtault": {
+    "feed": "https://blog.hurtault.dev/feed/?type=rss"
+  },
+  "hurty": {
+    "feed": "https://veritas.hurty.net/atom"
+  },
+  "hwtn": {
+    "feed": "https://hwtn.io/feed.xml"
+  },
+  "hydrocodedesign": {
+    "feed": "https://hydrocodedesign.com/feed/"
+  },
+  "hyena": {
+    "feed": "https://hyena.network/index.xml"
+  },
+  "hyeonje_website": {
+    "feed": "https://blog.hyeonje.website/feed/"
+  },
+  "hyperbio_net": {
+    "feed": "https://hyperbio.net/feed/"
+  },
+  "hyperspecificity": {
+    "feed": "https://hyperspecificity.bearblog.dev/feed/"
+  },
+  "hypr": {
+    "feed": "https://hypr.moe/feed/"
+  },
+  "iainsinclair": {
+    "feed": "https://iainsinclair.net/feed/"
+  },
+  "iamrain": {
+    "feed": "https://iamrain.net/atom/"
+  },
+  "iamsuleiman": {
+    "feed": "https://blog.iamsuleiman.com/rss.xml"
+  },
+  "ian-hamilton": {
+    "feed": "https://ian-hamilton.com/feed/"
+  },
+  "icyti": {
+    "feed": "https://icyti.me/feed/"
+  },
+  "idcrisisangel": {
+    "feed": "https://idcrisisangel.ca/feed/"
+  },
+  "idiotz": {
+    "feed": "https://idiotz.nl/feed/"
+  },
+  "iglootree": {
+    "feed": "https://blog.iglootree.com/feed/"
+  },
+  "igorstechnoclub": {
+    "feed": "https://igorstechnoclub.com/feed/"
+  },
+  "ikonoclast": {
+    "feed": "https://ikonoclast.art/feed/"
+  },
+  "ikueb": {
+    "feed": "https://hjk.ikueb.com/feed/"
+  },
+  "imdanielkendall": {
+    "feed": "https://imdanielkendall.com/feed/"
+  },
+  "imeldaspaws": {
+    "feed": "https://imeldaspaws.com/feed/"
+  },
+  "imjustwalkin": {
+    "feed": "https://imjustwalkin.com/feed/"
+  },
+  "impermanente": {
+    "feed": "https://en.impermanente.es/feed.xml"
+  },
+  "in-circles": {
+    "feed": "https://in-circles.uk/feed/"
+  },
+  "in-the-moment": {
+    "feed": "https://in-the-moment.info/atom/"
+  },
+  "incognitocat_me": {
+    "feed": "https://incognitocat.me/feed/?type=rss"
+  },
+  "indepth": {
+    "feed": "https://indepth.dev/rss.xml"
+  },
+  "inkandstillness": {
+    "feed": "https://inkandstillness.com/feed/"
+  },
+  "inmycreativeopinion": {
+    "feed": "https://inmycreativeopinion.blogspot.com/feeds/posts/default"
+  },
+  "inomnia": {
+    "feed": "https://www.inomnia.me/atom/"
+  },
+  "interactionmagic": {
+    "feed": "https://interactionmagic.com/feed"
+  },
+  "interconnected_blog": {
+    "feed": "https://interconnected.blog/rss/"
+  },
+  "interfere": {
+    "feed": "https://www.interfere.nl/atom/"
+  },
+  "intertwingly": {
+    "feed": "https://intertwingly.net/blog/index.atom"
+  },
+  "investlikeafarmer": {
+    "feed": "https://www.investlikeafarmer.com/feeds/posts/default"
+  },
+  "irisyaun": {
+    "feed": "https://www.irisyaun.com/writing?format=rss"
+  },
+  "isabelladangelo": {
+    "feed": "https://isabelladangelo.blogspot.com/feeds/posts/default"
+  },
+  "isprettyawesome": {
+    "feed": "https://morgue.isprettyawesome.com/?feed=rss2"
+  },
+  "isquared": {
+    "feed": "https://isquared.wordpress.com/feed/"
+  },
+  "itch": {
+    "feed": "https://g0ri.itch.io/emergent-adventures/devlog.rss"
+  },
+  "itineraalexandri_com": {
+    "feed": "https://www.itineraalexandri.com/feed/"
+  },
+  "its-her-factory": {
+    "feed": "https://www.its-her-factory.com/feed/"
+  },
+  "itsnero": {
+    "feed": "https://uv.itsnero.com/feed/"
+  },
+  "ivantokar": {
+    "feed": "https://ivantokar.com/rss.xml"
+  },
+  "izoratti": {
+    "feed": "https://izoratti.blogspot.com/feeds/posts/default"
+  },
+  "j4jayant": {
+    "feed": "https://www.j4jayant.com/feeds/posts/default"
+  },
+  "jacen_li": {
+    "feed": "https://jacen.li/feed.xml"
+  },
+  "jackcuthbert": {
+    "feed": "https://jackcuthbert.dev/feed/"
+  },
+  "jackharrington": {
+    "feed": "https://jackharrington.xyz/atom/"
+  },
+  "jacksoncakes": {
+    "feed": "https://jacksoncakes.com/feed/"
+  },
+  "jacksonwhite": {
+    "feed": "https://jacksonwhite.xyz/atom/"
+  },
+  "jacobfunkwrites": {
+    "feed": "https://jacobfunkwrites.com/atom/"
+  },
+  "jacobian_de": {
+    "feed": "https://jacobian.de/atom/"
+  },
+  "jadeeverstone": {
+    "feed": "https://jadeeverstone.com/feed.xml"
+  },
+  "jadmadi": {
+    "feed": "https://jadmadi.net/rss.xml"
+  },
+  "jakobfriedl": {
+    "feed": "https://jakobfriedl.github.io/index.xml"
+  },
+  "james": {
+    "feed": "https://james.li/feed.xml"
+  },
+  "james-zhan": {
+    "feed": "https://journal.james-zhan.com/atom/"
+  },
+  "jamesaaron": {
+    "feed": "https://www.jamesaaron.net/feed/"
+  },
+  "jamescherti": {
+    "feed": "https://www.jamescherti.com/feed/"
+  },
+  "jamesernet": {
+    "feed": "https://jamesernet.com/feed.xml"
+  },
+  "jamigold": {
+    "feed": "https://jamigold.com/feed/"
+  },
+  "jamsilva": {
+    "feed": "https://jamsilva.github.io/rss.xml"
+  },
+  "jang": {
+    "feed": "https://jang.com.pk/rss/1/1"
+  },
+  "janicebakke": {
+    "feed": "https://janicebakke.com/atom/"
+  },
+  "jannouna": {
+    "feed": "https://jannouna.dev/atom/"
+  },
+  "jasmineyow": {
+    "feed": "https://jasmineyow.wordpress.com/feed/"
+  },
+  "jasonderouchie": {
+    "feed": "https://jasonderouchie.com/feed/"
+  },
+  "jasonfleetwoodboldt": {
+    "feed": "https://jasonfleetwoodboldt.com/feed/"
+  },
+  "jasonneilsoto": {
+    "feed": "https://jasonneilsoto.com/atom/"
+  },
+  "jasonsantamaria": {
+    "feed": "https://jasonsantamaria.com/feed.atom"
+  },
+  "jatinchhabra": {
+    "feed": "https://jatinchhabra.com/feed/"
+  },
+  "jayasreesaranathan": {
+    "feed": "https://jayasreesaranathan.blogspot.com/feeds/posts/default"
+  },
+  "jaypjohnson": {
+    "feed": "https://www.jaypjohnson.com/atom.xml"
+  },
+  "jaytorres": {
+    "feed": "https://jaytorres.net/feed/"
+  },
+  "jaywren": {
+    "feed": "https://www.jaywren.com/feed/"
+  },
+  "jbbres": {
+    "feed": "https://www.jbbres.com/articles/feed.xml"
+  },
+  "jbrr": {
+    "feed": "https://jbrr.dev/feed/"
+  },
+  "jcarreras": {
+    "feed": "https://jcarreras.es/posts/index.xml"
+  },
+  "jcchouinard": {
+    "feed": "https://www.jcchouinard.com/feed/"
+  },
+  "jcd": {
+    "feed": "https://jcd.pub/feed.xml"
+  },
+  "jcruz": {
+    "feed": "https://jcruz.eu/posts/index.xml"
+  },
+  "jduchniewicz": {
+    "feed": "https://jduchniewicz.com/index.xml"
+  },
+  "jeddacp_me": {
+    "feed": "https://jeddacp.me/atom/"
+  },
+  "jedwheeler": {
+    "feed": "https://www.jedwheeler.com/feed/"
+  },
+  "jeffbarrett": {
+    "feed": "https://jeffbarrett.eu/feed/"
+  },
+  "jeffnolan": {
+    "feed": "https://www.jeffnolan.com/rss.xml"
+  },
+  "jeffreydonenfeld": {
+    "feed": "https://www.jeffreydonenfeld.com/feed/"
+  },
+  "jeffterrace": {
+    "feed": "https://blog.jeffterrace.com/feeds/posts/default"
+  },
+  "jenn": {
+    "feed": "https://jenn.site/feed/"
+  },
+  "jennamoreci": {
+    "feed": "https://www.jennamoreci.com/blog-feed.xml"
+  },
+  "jensorensen": {
+    "feed": "https://jensorensen.com/feed/"
+  },
+  "jerclarke": {
+    "feed": "https://jerclarke.org/feed/"
+  },
+  "jeremiahjohn": {
+    "feed": "https://jeremiahjohn.org/feed.xml"
+  },
+  "jeroenbouma": {
+    "feed": "https://www.jeroenbouma.com/feed.xml"
+  },
+  "jessespillane": {
+    "feed": "https://jessespillane.com/feed/"
+  },
+  "jessicaramey": {
+    "feed": "https://www.jessicaramey.com/feed/"
+  },
+  "jessvb": {
+    "feed": "https://jessvb.uk/feed/"
+  },
+  "jetgirl": {
+    "feed": "https://jetgirl.art/atom.xml"
+  },
+  "jfdi": {
+    "feed": "https://jfdi.bot/rss.xml"
+  },
+  "jgrarchitect": {
+    "feed": "https://www.jgrarchitect.com/feeds/posts/default"
+  },
+  "jibble": {
+    "feed": "https://www.jibble.org/rss.php"
+  },
+  "jimmybramlett": {
+    "feed": "https://www.jimmybramlett.com/feed/"
+  },
+  "jkap": {
+    "feed": "https://jkap.io/feed/"
+  },
+  "jkroepke": {
+    "feed": "https://jkroepke.de/index.xml"
+  },
+  "jlaasonen": {
+    "feed": "https://jlaasonen.me/atom/"
+  },
+  "jmccall": {
+    "feed": "https://www.jmccall.net/blog-feed.xml"
+  },
+  "joaofavoretti": {
+    "feed": "https://joaofavoretti.blogspot.com/feeds/posts/default"
+  },
+  "jocelyngreen": {
+    "feed": "https://www.jocelyngreen.com/blog/feed.xml"
+  },
+  "joefortin": {
+    "feed": "https://joefortin.com/feed/"
+  },
+  "joehart": {
+    "feed": "https://joehart.work/feed/"
+  },
+  "joehills": {
+    "feed": "https://joehills.net/feed/"
+  },
+  "joelie": {
+    "feed": "https://hdidta.joelie.space/feed/"
+  },
+  "joelratnasothy": {
+    "feed": "https://joelratnasothy.com/atom.xml"
+  },
+  "joereg4": {
+    "feed": "https://joereg4.com/atom/"
+  },
+  "joesavestheday": {
+    "feed": "https://www.joesavestheday.com/feeds/posts/default"
+  },
+  "joewintergreen": {
+    "feed": "https://www.joewintergreen.com/feed/atom/"
+  },
+  "john-steppling": {
+    "feed": "https://john-steppling.com/feed/"
+  },
+  "johnbierce": {
+    "feed": "https://johnbierce.com/feed/"
+  },
+  "johnfial": {
+    "feed": "https://www.johnfial.com/feed/"
+  },
+  "johnhunter": {
+    "feed": "https://johnhunter.com/feed/"
+  },
+  "johnis": {
+    "feed": "https://johnis.me/atom/"
+  },
+  "johnkay": {
+    "feed": "https://www.johnkay.com/feed/"
+  },
+  "johnroedel": {
+    "feed": "https://www.johnroedel.com/blog-feed.xml"
+  },
+  "johnsietsma": {
+    "feed": "https://johnsietsma.com/rss.xml"
+  },
+  "jomalo": {
+    "feed": "https://jomalo.com/feed.xml"
+  },
+  "jonahbuchanan": {
+    "feed": "https://www.jonahbuchanan.com/atom/"
+  },
+  "jonaskemper": {
+    "feed": "https://jonaskemper.com/atom/"
+  },
+  "jonathancamp": {
+    "feed": "https://jonathancamp.com/feed/"
+  },
+  "jonplummer": {
+    "feed": "https://jonplummer.com/feed.xml"
+  },
+  "jorgeortiz": {
+    "feed": "https://jorgeortiz.dev/index.xml"
+  },
+  "josefrichter": {
+    "feed": "https://josefrichter.design/feed.xml"
+  },
+  "josephcarragher": {
+    "feed": "https://josephcarragher.us/atom/"
+  },
+  "josephmosby_com": {
+    "feed": "https://josephmosby.com/feed/"
+  },
+  "joshaniogrigg": {
+    "feed": "https://joshaniogrigg.com/blog/feed.php"
+  },
+  "joshgriffiths": {
+    "feed": "https://joshgriffiths.site/atom/"
+  },
+  "joshhaas": {
+    "feed": "http://blog.joshhaas.com/feed/"
+  },
+  "joshkingsley": {
+    "feed": "https://joshkingsley.me/feed/"
+  },
+  "joshpeterson": {
+    "feed": "https://joshpeterson.github.io/feed.xml"
+  },
+  "joshstrange": {
+    "feed": "https://joshstrange.com/index.xml"
+  },
+  "joshuakugler": {
+    "feed": "https://joshuakugler.com/feeds/all.atom.xml"
+  },
+  "jot101": {
+    "feed": "https://jot101.com/feed/"
+  },
+  "joturk": {
+    "feed": "https://joturk.net/feed.xml"
+  },
+  "joyclubway": {
+    "feed": "https://joyclubway.com/feed/"
+  },
+  "joyfulcreationswithkim": {
+    "feed": "https://joyfulcreationswithkim.blogspot.com/feeds/posts/default"
+  },
+  "joyofcode": {
+    "feed": "https://joyofcode.xyz/rss.xml"
+  },
+  "jpb": {
+    "feed": "https://jpb.dev/feed.xml"
+  },
+  "jpeckmusic": {
+    "feed": "http://jpeckmusic.com/feed/"
+  },
+  "js-d": {
+    "feed": "https://js-d.xyz/atom/"
+  },
+  "juanda": {
+    "feed": "https://juanda.me/feed/"
+  },
+  "juanjchong": {
+    "feed": "https://juanjchong.com/index.xml"
+  },
+  "judyjahng": {
+    "feed": "https://judyjahng.com/atom/"
+  },
+  "juliangirdham": {
+    "feed": "https://www.juliangirdham.com/blog?format=rss"
+  },
+  "julianlbauer": {
+    "feed": "https://www.julianlbauer.com/feed.xml"
+  },
+  "juliendesrosiers": {
+    "feed": "https://www.juliendesrosiers.com/feed.xml"
+  },
+  "justgamesretro": {
+    "feed": "https://www.justgamesretro.com/feed"
+  },
+  "justin-reeves": {
+    "feed": "https://justin-reeves.net/rss.xml"
+  },
+  "justincatanoso": {
+    "feed": "https://www.justincatanoso.com/feed/"
+  },
+  "justinkerby": {
+    "feed": "https://justinkerby.com/feed/"
+  },
+  "justinpot": {
+    "feed": "https://justinpot.com/feed/"
+  },
+  "justinsomnia": {
+    "feed": "https://justinsomnia.org/feed/atom/"
+  },
+  "justinthestacks": {
+    "feed": "https://justinthestacks.com/atom/"
+  },
+  "justpostgres": {
+    "feed": "https://justpostgres.tech/rss.xml"
+  },
+  "juvoni": {
+    "feed": "https://juvoni.com/rss.xml"
+  },
+  "jvkrishna": {
+    "feed": "https://jvkrishna.com/atom/"
+  },
+  "jxsh": {
+    "feed": "https://www.jxsh.io/atom/"
+  },
+  "k10s": {
+    "feed": "https://blog.k10s.dev/atom.xml"
+  },
+  "kadennewton": {
+    "feed": "https://kadennewton.com/atom.xml"
+  },
+  "kagerou": {
+    "feed": "https://kagerou.glass/blog/feed.xml"
+  },
+  "kait2en": {
+    "feed": "https://kait2en.org/feed.xml"
+  },
+  "kalimac": {
+    "feed": "https://kalimac.livejournal.com/data/atom"
+  },
+  "kangminsuk": {
+    "feed": "https://kangminsuk.com/index.xml"
+  },
+  "karanpratapsingh": {
+    "feed": "https://www.karanpratapsingh.com/feed.xml"
+  },
+  "karbonbased": {
+    "feed": "https://karbonbased.io/index.xml"
+  },
+  "karenjex": {
+    "feed": "https://karenjex.blogspot.com/feeds/posts/default"
+  },
+  "karenrsavage": {
+    "feed": "https://www.karenrsavage.com/blog/feed/"
+  },
+  "karldaniel": {
+    "feed": "https://karldaniel.co.uk/feed/"
+  },
+  "karlquinsland": {
+    "feed": "https://karlquinsland.com/index.xml"
+  },
+  "karsli": {
+    "feed": "https://ismail.karsli.net/rss.xml"
+  },
+  "karvalho": {
+    "feed": "https://www.karvalho.com.br/feed/"
+  },
+  "kaskaso": {
+    "feed": "https://alex.kaskaso.li/feed.xml"
+  },
+  "kate": {
+    "feed": "https://blog.kate.land/rss.xml"
+  },
+  "katemonkey": {
+    "feed": "https://blog.katemonkey.com/feed/?type=rss"
+  },
+  "kaumnen": {
+    "feed": "https://kaumnen.com/feed/"
+  },
+  "kdobson": {
+    "feed": "https://www.kdobson.net/feed.xml"
+  },
+  "keanankoppenhaver": {
+    "feed": "https://keanankoppenhaver.com/rss.xml"
+  },
+  "keavi": {
+    "feed": "https://keavi.app/blog/rss.xml"
+  },
+  "keeganchua": {
+    "feed": "https://keeganchua.xyz/feed/"
+  },
+  "keeperoflore": {
+    "feed": "https://keeperoflore.com/atom/"
+  },
+  "keise": {
+    "feed": "https://keise.dev/feed/"
+  },
+  "keithamcgowan": {
+    "feed": "https://keithamcgowan.blogspot.com/feeds/posts/default"
+  },
+  "kellanmarvel": {
+    "feed": "https://kellanmarvel.com/feed/"
+  },
+  "kellshaw_com": {
+    "feed": "https://kellshaw.com/feed/"
+  },
+  "kelsey": {
+    "feed": "https://kelsey.bearblog.dev/feed/"
+  },
+  "kenchangh": {
+    "feed": "https://kenchangh.com/atom/"
+  },
+  "kennyqin": {
+    "feed": "https://kennyqin.com/feed/"
+  },
+  "kennyu": {
+    "feed": "https://kennyu.dev/feed/?type=rss"
+  },
+  "kenta": {
+    "feed": "https://kenta.blogspot.com/atom.xml"
+  },
+  "kerrick": {
+    "feed": "https://kerrick.blog/feed/"
+  },
+  "ketulpatel": {
+    "feed": "https://blog.ketulpatel.dev/feed/"
+  },
+  "kevinper": {
+    "feed": "https://kevinper.com/feed.xml"
+  },
+  "kevquirk": {
+    "feed": "https://kevquirk.com/feed/"
+  },
+  "keydiscussions": {
+    "feed": "https://keydiscussions.com/feed/"
+  },
+  "keziakershaw": {
+    "feed": "https://keziakershaw.net/feed/"
+  },
+  "khyathikomalan": {
+    "feed": "https://khyathikomalan.github.io/feed.xml"
+  },
+  "kiakamgar": {
+    "feed": "https://kiakamgar.com/posts_feed"
+  },
+  "kibuika": {
+    "feed": "https://www.kibuika.com/feed.xml"
+  },
+  "kidlittidbits": {
+    "feed": "https://kidlittidbits.com/feed/"
+  },
+  "kieranmcguire": {
+    "feed": "https://kieranmcguire.uk/rss.xml"
+  },
+  "killacycle": {
+    "feed": "http://www.killacycle.com/feed/"
+  },
+  "kimhq": {
+    "feed": "https://kimhq.net/blog/index.xml"
+  },
+  "kingsofsorts": {
+    "feed": "https://kingsofsorts.com/feed/"
+  },
+  "kirsch": {
+    "feed": "https://marcos.kirsch.mx/feed/"
+  },
+  "kiruba": {
+    "feed": "https://www.kiruba.com/feed"
+  },
+  "klangfeldlabs": {
+    "feed": "https://klangfeldlabs.com/rss.xml"
+  },
+  "kliuev": {
+    "feed": "https://kliuev.dev/blog/index.xml"
+  },
+  "kmnada": {
+    "feed": "https://kmnada.page/atom/"
+  },
+  "knhash": {
+    "feed": "https://knhash.in/feed.xml"
+  },
+  "knivesforcats": {
+    "feed": "https://knivesforcats.online/atom/"
+  },
+  "knlb": {
+    "feed": "https://knlb.dev/essays/feed.xml"
+  },
+  "knowledgegraphnavigator": {
+    "feed": "https://www.knowledgegraphnavigator.com/feed/"
+  },
+  "koboldco": {
+    "feed": "https://blog.koboldco.at/atom/"
+  },
+  "kokosa": {
+    "feed": "https://kokosa.dev/feed"
+  },
+  "kolja": {
+    "feed": "https://kolja.rs/feed/"
+  },
+  "konkr": {
+    "feed": "https://www.konkr.io/feed.xml"
+  },
+  "konloch": {
+    "feed": "https://konloch.com/atom.xml"
+  },
+  "koosjekoene": {
+    "feed": "https://www.koosjekoene.com/home?format=rss"
+  },
+  "koto": {
+    "feed": "https://www.koto.ink/feed/"
+  },
+  "kovashikawa_com": {
+    "feed": "https://kovashikawa.com/feed.xml"
+  },
+  "kraftpaperhat": {
+    "feed": "https://kraftpaperhat.net/feed/"
+  },
+  "kran": {
+    "feed": "https://blog.kran.ai/feed.xml"
+  },
+  "krisfreedain": {
+    "feed": "https://krisfreedain.com/feed/"
+  },
+  "kristianfreeman": {
+    "feed": "https://kristianfreeman.com/blog/rss.xml"
+  },
+  "kromatikon": {
+    "feed": "https://blog.kromatikon.eu/atom/"
+  },
+  "kschaul": {
+    "feed": "https://kschaul.com/index.xml"
+  },
+  "kshitijkhandelwal": {
+    "feed": "https://kshitijkhandelwal.com/feed/"
+  },
+  "kugelfish": {
+    "feed": "https://blog.kugelfish.com/feeds/posts/default"
+  },
+  "kulturemaschine": {
+    "feed": "https://kulturemaschine.com/feed/"
+  },
+  "kurtextrem": {
+    "feed": "https://kurtextrem.de/rss.xml"
+  },
+  "kvch": {
+    "feed": "https://kvch.me/feed/"
+  },
+  "kwanxhen_me": {
+    "feed": "https://blog.kwanxhen.me/feed/"
+  },
+  "kwbaker": {
+    "feed": "https://kwbaker.com/atom/"
+  },
+  "kyarazen": {
+    "feed": "https://www.kyarazen.com/feed/"
+  },
+  "kylenixon": {
+    "feed": "https://kylenixon.ca/feed/"
+  },
+  "kylevallans": {
+    "feed": "https://www.kylevallans.com/atom.xml"
+  },
+  "l-idiot-mystique": {
+    "feed": "https://l-idiot-mystique.blogspot.com/feeds/posts/default"
+  },
+  "l2sfbc": {
+    "feed": "https://l2sfbc.com/feed/"
+  },
+  "lactobacto": {
+    "feed": "https://lactobacto.com/feed/"
+  },
+  "lambdaovertea": {
+    "feed": "https://lambdaovertea.net/feed/"
+  },
+  "lambdasierra": {
+    "feed": "https://www.lambdasierra.com/feed.xml"
+  },
+  "languagehat": {
+    "feed": "https://languagehat.com/feed/"
+  },
+  "laplab": {
+    "feed": "https://laplab.me/posts/index.xml"
+  },
+  "laptopretrospective": {
+    "feed": "https://laptopretrospective.com/feed/"
+  },
+  "larksh": {
+    "feed": "https://blog.larksh.com/feed/"
+  },
+  "larschristensen": {
+    "feed": "https://www.larschristensen.org/blog-feed.xml"
+  },
+  "larsfaye": {
+    "feed": "https://larsfaye.com/rss.xml"
+  },
+  "larvatus": {
+    "feed": "https://larvatus.livejournal.com/data/atom"
+  },
+  "lasha": {
+    "feed": "https://lasha.blog/atom/"
+  },
+  "lasreinas": {
+    "feed": "https://lasreinas.blog/feed/"
+  },
+  "last-child": {
+    "feed": "https://www.last-child.com/feed"
+  },
+  "lateblt": {
+    "feed": "https://lateblt.livejournal.com/data/atom"
+  },
+  "lauramichet": {
+    "feed": "https://blog.lauramichet.com/feed/"
+  },
+  "laurenipsum": {
+    "feed": "https://laurenipsum.spiderforest.com/comic/rss?id=1"
+  },
+  "lautenbacher": {
+    "feed": "https://www.lautenbacher.io/en/feed/"
+  },
+  "lav": {
+    "feed": "https://lav.io/index.xml"
+  },
+  "lazarinastoy": {
+    "feed": "https://lazarinastoy.com/feed/"
+  },
+  "lchamberlin": {
+    "feed": "https://lchamberlin.com/atom/"
+  },
+  "leaflet": {
+    "feed": "https://leaflet.org/feed/"
+  },
+  "learningtheartofelectronics": {
+    "feed": "https://learningtheartofelectronics.com/feed/"
+  },
+  "leavethefeed": {
+    "feed": "https://leavethefeed.org/feed/"
+  },
+  "leekelleher": {
+    "feed": "https://leekelleher.com/feed/"
+  },
+  "leeraedee": {
+    "feed": "https://leeraedee.org/feed/"
+  },
+  "legodud3": {
+    "feed": "https://legodud3.github.io/feed.xml"
+  },
+  "leonlins": {
+    "feed": "https://leonlins.com/rss.xml"
+  },
+  "leosmith": {
+    "feed": "https://leosmith.wtf/rss/blog.xml"
+  },
+  "lesscomputer": {
+    "feed": "https://lesscomputer.ca/feed/"
+  },
+  "lessons-learned": {
+    "feed": "https://lessons-learned.xyz/atom/"
+  },
+  "letsanime": {
+    "feed": "https://letsanime.blogspot.com/feeds/posts/default"
+  },
+  "letsbuildui": {
+    "feed": "https://www.letsbuildui.dev/rss/"
+  },
+  "lewayotte": {
+    "feed": "https://lewayotte.com/feed/"
+  },
+  "lexie": {
+    "feed": "https://lexie.bearblog.dev/feed/"
+  },
+  "leylines": {
+    "feed": "https://www.leylines.net/rss.xml"
+  },
+  "liapas": {
+    "feed": "https://liapas.com/feed/"
+  },
+  "libraryofpotential_com": {
+    "feed": "https://libraryofpotential.com/feed/"
+  },
+  "lief": {
+    "feed": "https://lief.re/blog/index.xml"
+  },
+  "lifeonadeadplanet": {
+    "feed": "https://lifeonadeadplanet.com/feed/"
+  },
+  "lifewhereimfrom": {
+    "feed": "https://lifewhereimfrom.com/feed/"
+  },
+  "lightsforcats": {
+    "feed": "https://lightsforcats.com/atom/"
+  },
+  "lil-weirdos": {
+    "feed": "https://blog.lil-weirdos.com/feed/"
+  },
+  "lilianabounegru": {
+    "feed": "https://lilianabounegru.org/feed/"
+  },
+  "lilianakastilio": {
+    "feed": "https://lilianakastilio.co.uk/rss.xml"
+  },
+  "lilius": {
+    "feed": "https://philip.lilius.io/rss.xml"
+  },
+  "linguisticdiscovery": {
+    "feed": "https://linguisticdiscovery.com/posts/rss/"
+  },
+  "linkage": {
+    "feed": "https://linkage.lol/feed/?type=rss"
+  },
+  "linux-ipsec": {
+    "feed": "https://linux-ipsec.org/feeds/all.atom.xml"
+  },
+  "linuxbabe": {
+    "feed": "https://www.linuxbabe.com/feed/atom"
+  },
+  "listenfaster": {
+    "feed": "https://www.listenfaster.com/main/rss.xml"
+  },
+  "listeningroomsmusic": {
+    "feed": "https://listeningroomsmusic.com/atom.xml"
+  },
+  "liston": {
+    "feed": "https://www.liston.blog/atom/"
+  },
+  "littleintents": {
+    "feed": "https://littleintents.com/atom/"
+  },
+  "littlemu": {
+    "feed": "https://littlemu.blog/feed/?type=rss"
+  },
+  "littoral": {
+    "feed": "https://littoral.ink/atom/"
+  },
+  "liubuntu": {
+    "feed": "https://blog.liubuntu.tech/feed/"
+  },
+  "liveinnovation": {
+    "feed": "https://liveinnovation.org/feed/"
+  },
+  "livlaughlove": {
+    "feed": "https://livlaughlove.bearblog.dev/feed/"
+  },
+  "lizruest": {
+    "feed": "https://www.lizruest.com/feed/"
+  },
+  "ljb": {
+    "feed": "https://ljb.fyi/atom/"
+  },
+  "ljwolf": {
+    "feed": "https://www.ljwolf.org/index.xml"
+  },
+  "llms_scapegoat": {
+    "feed": "https://llms.scapegoat.dev/feed/"
+  },
+  "lmd": {
+    "feed": "https://lmd.sh/feed/"
+  },
+  "lofgren": {
+    "feed": "https://lofgren.xyz/atom/"
+  },
+  "loganconnolly": {
+    "feed": "https://loganconnolly.com/index.xml"
+  },
+  "loganletsgo": {
+    "feed": "https://loganletsgo.com/atom/"
+  },
+  "loganmarek": {
+    "feed": "https://loganmarek.com/atom/"
+  },
+  "lograker": {
+    "feed": "https://lograker.app/blog/feed.xml"
+  },
+  "lonoak": {
+    "feed": "https://lonoak.com/atom/"
+  },
+  "lookwhatmollymade": {
+    "feed": "https://lookwhatmollymade.com/atom/"
+  },
+  "loomcycle": {
+    "feed": "https://loomcycle.dev/blog/feed.xml"
+  },
+  "lootlootlore": {
+    "feed": "https://lootlootlore.blogspot.com/feeds/posts/default"
+  },
+  "lordofnothing": {
+    "feed": "https://lordofnothing.com/atom/"
+  },
+  "lorenabarba": {
+    "feed": "https://lorenabarba.com/feed/"
+  },
+  "lostrainforestsofbritain": {
+    "feed": "https://lostrainforestsofbritain.org/feed/"
+  },
+  "lotuslibrary": {
+    "feed": "https://www.lotuslibrary.com/feed/"
+  },
+  "loufranco": {
+    "feed": "https://loufranco.com/feed"
+  },
+  "louisbscheuer": {
+    "feed": "https://www.louisbscheuer.com/feed/"
+  },
+  "louisgray": {
+    "feed": "https://louisgray.com/atom.xml"
+  },
+  "loveiszero": {
+    "feed": "https://loveiszero.net/?feed=atom"
+  },
+  "lovell": {
+    "feed": "https://ben.lovell.io/blog/atom.xml"
+  },
+  "loyalwingman": {
+    "feed": "https://loyalwingman.org/atom/"
+  },
+  "lucascarlson": {
+    "feed": "https://lucascarlson.net/feed.xml"
+  },
+  "lucksiyo": {
+    "feed": "https://lucksiyo.xyz/feed.xml"
+  },
+  "lucypero": {
+    "feed": "https://lucypero.com/feed.xml"
+  },
+  "ludusnovus": {
+    "feed": "https://ludusnovus.net/feed/"
+  },
+  "lufzle": {
+    "feed": "https://lufzle.dev/rss.xml"
+  },
+  "luisalima": {
+    "feed": "https://luisalima.com/rss.xml"
+  },
+  "lukicdejan": {
+    "feed": "https://lukicdejan.com/feed/"
+  },
+  "lukket": {
+    "feed": "https://lukket.me/atom/"
+  },
+  "lulzx": {
+    "feed": "https://future.lulzx.space/blog/feed.xml"
+  },
+  "lumpmotif": {
+    "feed": "https://lumpmotif.com/feed/"
+  },
+  "lunarloony": {
+    "feed": "https://lunarloony.co.uk/feed/"
+  },
+  "luxuryactivist": {
+    "feed": "https://luxuryactivist.com/feed.xml"
+  },
+  "lylehsaxon": {
+    "feed": "https://lylehsaxon.blogspot.com/feeds/posts/default"
+  },
+  "m1es": {
+    "feed": "https://m1es.net/atom/"
+  },
+  "ma-2a": {
+    "feed": "https://ma-2a.github.io/feed.xml"
+  },
+  "macabe": {
+    "feed": "https://macabe.info/atom/"
+  },
+  "mackcollier": {
+    "feed": "https://mackcollier.com/feed/"
+  },
+  "macvfx": {
+    "feed": "https://macvfx.blog/feed/"
+  },
+  "madelinepritchard_com": {
+    "feed": "https://madelinepritchard.com/feed.xml"
+  },
+  "madl": {
+    "feed": "https://madl.ag/feed.xml"
+  },
+  "magicariot": {
+    "feed": "https://blog.magicariot.com/atom/"
+  },
+  "magicyarnpixels": {
+    "feed": "https://magicyarnpixels.com/feed/"
+  },
+  "magneticfurniture": {
+    "feed": "https://magneticfurniture.blog/atom/"
+  },
+  "mainlog": {
+    "feed": "https://mainlog.dev/rss.xml"
+  },
+  "makariosc": {
+    "feed": "https://makariosc.github.io/feed"
+  },
+  "makebad": {
+    "feed": "https://makebad.games/feed/"
+  },
+  "makethingswithai": {
+    "feed": "https://blog.makethingswithai.org/feed/?type=rss"
+  },
+  "malohacoast": {
+    "feed": "https://malohacoast.com/blog/feed.xml"
+  },
+  "mamoniem": {
+    "feed": "https://mamoniem.com/feed/"
+  },
+  "mandyjacek": {
+    "feed": "https://blog.mandyjacek.ca/feed/"
+  },
+  "manton_org": {
+    "feed": "https://www.manton.org/feed.xml"
+  },
+  "manu": {
+    "feed": "https://manu.garden/feed/"
+  },
+  "manuelzubieta": {
+    "feed": "https://manuelzubieta.com/rss.xml"
+  },
+  "marcoshuerta": {
+    "feed": "https://marcoshuerta.com/posts/index.xml"
+  },
+  "marcovaltas": {
+    "feed": "https://marcovaltas.com/feed.xml"
+  },
+  "markfassett": {
+    "feed": "https://markfassett.com/feed"
+  },
+  "markproffitt": {
+    "feed": "https://markproffitt.com/feed/atom/"
+  },
+  "marshallk": {
+    "feed": "https://marshallk.com/feed"
+  },
+  "martech-magic": {
+    "feed": "https://www.martech-magic.com/index.php/feed/"
+  },
+  "martinkubler": {
+    "feed": "https://www.martinkubler.com/feed/"
+  },
+  "martinralya": {
+    "feed": "https://www.martinralya.com/feed/"
+  },
+  "marzipanandminutiae": {
+    "feed": "https://marzipanandminutiae.tumblr.com/rss"
+  },
+  "masr": {
+    "feed": "https://masr.gitlab.io/index.xml"
+  },
+  "masukomi": {
+    "feed": "https://weblog.masukomi.org/index.xml"
+  },
+  "matanabudy": {
+    "feed": "https://matanabudy.com/feed/?type=rss"
+  },
+  "mathican": {
+    "feed": "https://mathican.net/feed/"
+  },
+  "matt-poston": {
+    "feed": "https://blog.matt-poston.com/feed/"
+  },
+  "mattburke": {
+    "feed": "https://mattburke.dev/atom.xml"
+  },
+  "mattchasblog": {
+    "feed": "https://mattchasblog.blogspot.com/feeds/posts/default"
+  },
+  "mattdonnellymagic": {
+    "feed": "https://mattdonnellymagic.com/feed/"
+  },
+  "matteomanferdini": {
+    "feed": "https://matteomanferdini.com/feed/"
+  },
+  "mattg": {
+    "feed": "https://mattg.co.uk/blog/rss/"
+  },
+  "mattglassman": {
+    "feed": "https://blog.mattglassman.net/atom/"
+  },
+  "matthewdub": {
+    "feed": "https://matthewdub.ca/feed/"
+  },
+  "matthewoldach": {
+    "feed": "https://matthewoldach.com/rss.xml"
+  },
+  "matthewrevelation": {
+    "feed": "https://matthewrevelation.blogspot.com/feeds/posts/default"
+  },
+  "matthewsinclair_com": {
+    "feed": "https://matthewsinclair.com/blog/all.rss"
+  },
+  "matthicks": {
+    "feed": "https://matthicks.com/feed/"
+  },
+  "mattiverse_online": {
+    "feed": "https://mattiverse.online/feed/"
+  },
+  "mattjohnston": {
+    "feed": "https://mattjohnston.co/index.xml"
+  },
+  "mattlangston": {
+    "feed": "https://mattlangston.com/atom/"
+  },
+  "mattmcalister": {
+    "feed": "https://www.mattmcalister.com/feed/"
+  },
+  "mattpaulson": {
+    "feed": "https://www.mattpaulson.com/feed/"
+  },
+  "mattpilz": {
+    "feed": "https://mattpilz.com/feed/"
+  },
+  "maxlv": {
+    "feed": "https://maxlv.net/atom.xml"
+  },
+  "may69": {
+    "feed": "https://www.may69.com/feed/"
+  },
+  "maynier": {
+    "feed": "https://maynier.eu/index.xml"
+  },
+  "maythecliche": {
+    "feed": "https://maythecliche.bearblog.dev/feed/"
+  },
+  "mblunt": {
+    "feed": "https://mblunt.dev/index.xml"
+  },
+  "mbts": {
+    "feed": "https://mbts.dev/rss.xml"
+  },
+  "mcdemarco": {
+    "feed": "https://mcdemarco.net/atom.xml"
+  },
+  "mcoorlim": {
+    "feed": "https://mcoorlim.com/feed/"
+  },
+  "me3tweaks": {
+    "feed": "https://www.me3tweaks.com/blog/feed/"
+  },
+  "meadowdr": {
+    "feed": "https://meadowdr.one/feed/"
+  },
+  "meadowfoam": {
+    "feed": "https://meadowfoam.ing/feed/"
+  },
+  "meaningness": {
+    "feed": "https://meaningness.com/rss.xml"
+  },
+  "measuringworth": {
+    "feed": "https://www.measuringworth.com/blog/?feed=rss2"
+  },
+  "mecheye": {
+    "feed": "https://blog.mecheye.net/feed/"
+  },
+  "median_blog": {
+    "feed": "https://median.blog/feed/"
+  },
+  "mee": {
+    "feed": "http://ai.mee.nu/feed/atom"
+  },
+  "meetmeintavoan": {
+    "feed": "https://blog.meetmeintavoan.com/feed/"
+  },
+  "megane": {
+    "feed": "https://megane.club/atom/"
+  },
+  "meljoann": {
+    "feed": "https://meljoann.com/index.xml"
+  },
+  "melon_industries": {
+    "feed": "https://melon.industries/feed/"
+  },
+  "memorycard": {
+    "feed": "https://memorycard.dev/feed/"
+  },
+  "metamood": {
+    "feed": "https://metamood.ai/atom/"
+  },
+  "metanomad": {
+    "feed": "https://metanomad.blog/atom/"
+  },
+  "metemorris": {
+    "feed": "https://www.metemorris.com/rss.xml"
+  },
+  "metroidcrime": {
+    "feed": "https://blog.metroidcrime.com/atom/"
+  },
+  "mich": {
+    "feed": "https://mich.org/feed/"
+  },
+  "michaelhans": {
+    "feed": "http://michaelhans.com/eclecticism/feed/"
+  },
+  "michaelhly": {
+    "feed": "https://michaelhly.bearblog.dev/feed/"
+  },
+  "michaelmcguiness": {
+    "feed": "https://michaelmcguiness.com/atom/"
+  },
+  "michaelrbock": {
+    "feed": "https://michaelrbock.com/atom/"
+  },
+  "michaelrill": {
+    "feed": "https://www.michaelrill.xyz/feed/"
+  },
+  "michaelroxas": {
+    "feed": "https://michaelroxas.com/atom/"
+  },
+  "michelbaudin": {
+    "feed": "https://michelbaudin.com/feed/"
+  },
+  "mickbrun_com": {
+    "feed": "https://mickbrun.com/feed/?type=rss"
+  },
+  "midlifeadulting": {
+    "feed": "https://midlifeadulting.com/atom/"
+  },
+  "midnight-coding": {
+    "feed": "https://www.midnight-coding.de/blog/feed.xml"
+  },
+  "midnightonmemorylane": {
+    "feed": "https://midnightonmemorylane.blog/feed/"
+  },
+  "mightydudes": {
+    "feed": "https://bigjakeblog.mightydudes.org/feed/"
+  },
+  "mikedp": {
+    "feed": "https://www.mikedp.com/articles?format=rss"
+  },
+  "mikeeyes": {
+    "feed": "https://mikeeyes.com/feed/"
+  },
+  "mikehermele": {
+    "feed": "https://www.mikehermele.com/blog/index.xml"
+  },
+  "miketheman": {
+    "feed": "https://www.miketheman.net/feed/"
+  },
+  "mikeysblog": {
+    "feed": "https://mikeysblog.com/feed/"
+  },
+  "mikkolaksola": {
+    "feed": "https://mikkolaksola.com/atom/"
+  },
+  "milanvit": {
+    "feed": "https://www.milanvit.net/rss/"
+  },
+  "mimiavocado": {
+    "feed": "https://mimiavocado.com/feed/"
+  },
+  "min": {
+    "feed": "https://blog.min.life/atom/"
+  },
+  "mindyourdecisions": {
+    "feed": "https://mindyourdecisions.com/blog/feed/"
+  },
+  "mintzberg": {
+    "feed": "https://mintzberg.org/rss"
+  },
+  "minutemonk": {
+    "feed": "https://minutemonk.org/feed/"
+  },
+  "miracletutorials": {
+    "feed": "https://www.miracletutorials.com/feed/"
+  },
+  "mitanshu7": {
+    "feed": "https://mitanshu7.github.io/rss.xml"
+  },
+  "mixerology": {
+    "feed": "https://www.mixerology.com/feed/"
+  },
+  "mjdescy": {
+    "feed": "https://micro.mjdescy.me/feed.xml"
+  },
+  "mjulius": {
+    "feed": "https://mjulius.com/atom/"
+  },
+  "mkadri85": {
+    "feed": "https://mkadri85.github.io/feed.xml"
+  },
+  "mkalich": {
+    "feed": "https://mkalich.cloud/feed/"
+  },
+  "mkyong": {
+    "feed": "https://mkyong.com/feed/"
+  },
+  "mnguyen_fr": {
+    "feed": "https://mnguyen.fr/rss"
+  },
+  "mo_town": {
+    "feed": "https://mo.town/blog/rss.xml"
+  },
+  "modernhusbands": {
+    "feed": "https://www.modernhusbands.com/blog-feed.xml"
+  },
+  "modestmedusa_com": {
+    "feed": "https://modestmedusa.com/feed/"
+  },
+  "modulolotus": {
+    "feed": "https://modulolotus.net/rss.xml"
+  },
+  "moezying": {
+    "feed": "https://moezying.com/atom/"
+  },
+  "monadicsheep": {
+    "feed": "https://monadicsheep.org/blog/rss.xml"
+  },
+  "monocyte_blog": {
+    "feed": "https://monocyte.blog/atom/"
+  },
+  "monolog_xyz": {
+    "feed": "https://monolog.xyz/atom/"
+  },
+  "monoscope": {
+    "feed": "https://www.monoscope.com/feed/"
+  },
+  "monsterjavaguns": {
+    "feed": "https://monsterjavaguns.com/index.xml"
+  },
+  "moodywarlock": {
+    "feed": "https://moodywarlock.net/feed/"
+  },
+  "moonlitradio": {
+    "feed": "https://moonlitradio.com/feed/"
+  },
+  "moonwriting": {
+    "feed": "https://moonwriting.blog/feed.xml"
+  },
+  "morelightmorelight": {
+    "feed": "https://www.morelightmorelight.com/feed/"
+  },
+  "morespeedlesspower": {
+    "feed": "https://www.morespeedlesspower.com/feeds/posts/default"
+  },
+  "morganlinton": {
+    "feed": "https://blog.morganlinton.com/rss.xml"
+  },
+  "moriareviews": {
+    "feed": "https://moriareviews.com/feed"
+  },
+  "mrdonbrown": {
+    "feed": "https://mrdonbrown.blogspot.com/feeds/posts/default"
+  },
+  "mrjamesbell": {
+    "feed": "https://mrjamesbell.com/rss.xml"
+  },
+  "mrlaulearning": {
+    "feed": "https://www.mrlaulearning.com/feeds/posts/default"
+  },
+  "mrman": {
+    "feed": "https://cdn.mrman.net/notes/atom.xml"
+  },
+  "mrmarket_lol": {
+    "feed": "https://mrmarket.lol/feed/"
+  },
+  "mrrob": {
+    "feed": "https://mrrob.in/atom/"
+  },
+  "mtsoukalos": {
+    "feed": "https://www.mtsoukalos.eu/index.xml"
+  },
+  "mudflower": {
+    "feed": "https://blog.mudflower.earth/atom/"
+  },
+  "muliama": {
+    "feed": "https://www.muliama.blog/atom/"
+  },
+  "mulqueen": {
+    "feed": "https://michael.mulqueen.me.uk/index.xml"
+  },
+  "muonsortes": {
+    "feed": "https://muonsortes.com/feed.xml"
+  },
+  "muratbayraktar": {
+    "feed": "https://muratbayraktar.dev/rss.xml"
+  },
+  "mushon": {
+    "feed": "https://mushon.com/feed/"
+  },
+  "musicbusinessresearch": {
+    "feed": "https://musicbusinessresearch.wordpress.com/feed/"
+  },
+  "musicgnome": {
+    "feed": "https://musicgnome.com/atom/"
+  },
+  "musicologize": {
+    "feed": "https://www.musicologize.com/case-commentary/feed/"
+  },
+  "mvrckhckr": {
+    "feed": "https://mvrckhckr.com/feed.xml"
+  },
+  "mwylot": {
+    "feed": "https://mwylot.net/index.xml"
+  },
+  "myjourneywithdepression": {
+    "feed": "https://myjourneywithdepression.com/feed/"
+  },
+  "mynorthkorea": {
+    "feed": "https://mynorthkorea.blogspot.com/feeds/posts/default"
+  },
+  "mynymbox": {
+    "feed": "https://blog.mynymbox.io/rss.xml"
+  },
+  "mysticmamma": {
+    "feed": "https://mysticmamma.com/feed/"
+  },
+  "mythictrashetc": {
+    "feed": "https://mythictrashetc.net/feed/?type=rss"
+  },
+  "n0tls": {
+    "feed": "https://n0tls.com/feed.xml"
+  },
+  "n0v": {
+    "feed": "https://n0v.io/atom/"
+  },
+  "nadjabester_com": {
+    "feed": "https://blog.nadjabester.com/feed/"
+  },
+  "naladahc": {
+    "feed": "https://www.naladahc.com/feed/"
+  },
+  "narallee": {
+    "feed": "https://narallee.com/feed/"
+  },
+  "nataliewalls": {
+    "feed": "https://nataliewalls.com/feed.xml"
+  },
+  "natannovum": {
+    "feed": "https://www.natannovum.work/rss/"
+  },
+  "natemeyvis": {
+    "feed": "https://www.natemeyvis.com/feed/"
+  },
+  "nav": {
+    "feed": "https://nav.al/feed"
+  },
+  "nayak": {
+    "feed": "https://nayak.im/rss.xml"
+  },
+  "naylandblake": {
+    "feed": "https://naylandblake.net/feed/"
+  },
+  "nburchett": {
+    "feed": "https://nburchett.com/feed/"
+  },
+  "necmttn": {
+    "feed": "https://necmttn.com/feed.xml"
+  },
+  "nedkarlovich": {
+    "feed": "https://nedkarlovich.com/feed.xml"
+  },
+  "neineon77": {
+    "feed": "https://neineon77.neocities.org/neineon.xml"
+  },
+  "nerdstein": {
+    "feed": "https://nerdstein.net/index.xml"
+  },
+  "networkshard": {
+    "feed": "https://networkshard.com/rss.xml"
+  },
+  "neurocritic": {
+    "feed": "https://neurocritic.blogspot.com/feeds/posts/default"
+  },
+  "neuroticruminations": {
+    "feed": "https://neuroticruminations.com/feed/"
+  },
+  "never": {
+    "feed": "https://i.never.nu/feed.xml"
+  },
+  "newenglandfolklore": {
+    "feed": "https://newenglandfolklore.blogspot.com/feeds/posts/default"
+  },
+  "newschematic": {
+    "feed": "https://newschematic.org/index.xml"
+  },
+  "nhaehnle": {
+    "feed": "https://nhaehnle.blogspot.com/feeds/posts/default"
+  },
+  "niccho": {
+    "feed": "https://niccho.dev/atom/"
+  },
+  "nickblow": {
+    "feed": "https://nickblow.tech/feed.xml"
+  },
+  "nickkimbrough": {
+    "feed": "https://blog.nickkimbrough.com/feed/"
+  },
+  "nicklawler": {
+    "feed": "https://nicklawler.website/feed/"
+  },
+  "nickzaccardi": {
+    "feed": "https://nickzaccardi.com/atom/"
+  },
+  "nicolas-steenhout": {
+    "feed": "https://nicolas-steenhout.com/feed.xml"
+  },
+  "nicoleta": {
+    "feed": "https://blog.nicoleta.cc/feed/"
+  },
+  "nigelbarrow": {
+    "feed": "https://www.nigelbarrow.co.uk/blog-feed.xml"
+  },
+  "night-tower": {
+    "feed": "https://shadowfish.night-tower.net/index.xml"
+  },
+  "nijdhackr": {
+    "feed": "https://nijdhackr.lol/feed/"
+  },
+  "nikita-pavlichenko": {
+    "feed": "https://www.nikita-pavlichenko.com/feed.xml"
+  },
+  "nikunjthakkar": {
+    "feed": "https://nikunjthakkar.com/rss.xml"
+  },
+  "nikusha": {
+    "feed": "https://nikusha.com/feed.xml"
+  },
+  "nilk": {
+    "feed": "https://blog.nilk.ee/feed/"
+  },
+  "nindalf_com": {
+    "feed": "https://blog.nindalf.com/index.xml"
+  },
+  "ningnarrative": {
+    "feed": "https://musing.ningnarrative.com/atom/"
+  },
+  "nisa": {
+    "feed": "https://nisa.la/atom/"
+  },
+  "nisanshrestha": {
+    "feed": "https://blog.nisanshrestha.com/atom/"
+  },
+  "njkumar": {
+    "feed": "https://www.njkumar.com/feed/"
+  },
+  "nlsmdn": {
+    "feed": "https://www.nlsmdn.com/rss.xml"
+  },
+  "nnoncarey": {
+    "feed": "https://sha.nnoncarey.com/blog/feed"
+  },
+  "nobulart": {
+    "feed": "https://nobulart.com/feed/"
+  },
+  "noi": {
+    "feed": "https://noi.bearblog.dev/feed/"
+  },
+  "nos-os": {
+    "feed": "https://nos-os.tech/en/feed.xml"
+  },
+  "notaprick": {
+    "feed": "https://notaprick.blog/feed/"
+  },
+  "notes_stateofnats": {
+    "feed": "https://notes.stateofnats.com/feed/"
+  },
+  "notesfromzack": {
+    "feed": "https://notesfromzack.com/feed/"
+  },
+  "nothingeverhappensto": {
+    "feed": "https://nothingeverhappensto.me/feed/"
+  },
+  "nothings_bearblog_dev": {
+    "feed": "https://nothings.bearblog.dev/feed/?type=rss"
+  },
+  "notmydistrict": {
+    "feed": "https://notmydistrict.blog/atom/"
+  },
+  "novalis": {
+    "feed": "https://novalis.org/blog/atom.xml"
+  },
+  "nozomi": {
+    "feed": "http://blog.nozomi.space/posts/index.xml"
+  },
+  "nuclearmonster": {
+    "feed": "https://nuclearmonster.com/feed/"
+  },
+  "numbpilledonline": {
+    "feed": "https://numbpilledonline.wordpress.com/feed/"
+  },
+  "nutrientdense": {
+    "feed": "https://nutrientdense.blogspot.com/feeds/posts/default?alt=rss"
+  },
+  "nyquil": {
+    "feed": "https://nyquil.org/blog/rss.xml"
+  },
+  "oandre": {
+    "feed": "https://oandre.gal/feed/"
+  },
+  "obelisk": {
+    "feed": "https://obelisk.club/feed.xml"
+  },
+  "ocac": {
+    "feed": "https://ocac.spiderforest.com/comic/rss?id=1"
+  },
+  "ocblanco": {
+    "feed": "https://ocblanco.com/feed/"
+  },
+  "ocean-of-thoughts": {
+    "feed": "https://ocean-of-thoughts.xyz/feed/"
+  },
+  "oddathenaeum": {
+    "feed": "https://oddathenaeum.com/feed/"
+  },
+  "oddbits": {
+    "feed": "https://oddbits.ai/blog/rss/"
+  },
+  "ofcrs": {
+    "feed": "https://ofcrs.com/atom/"
+  },
+  "ogden": {
+    "feed": "https://ogden.eu/index.xml"
+  },
+  "oguzpastirmaci": {
+    "feed": "https://oguzpastirmaci.com/posts/index.xml"
+  },
+  "ohmygah": {
+    "feed": "https://ohmygah.me/feed/"
+  },
+  "okaymiriam": {
+    "feed": "https://okaymiriam.com/atom/"
+  },
+  "olathe": {
+    "feed": "https://olathe.online/feed/"
+  },
+  "oldeucryptoboi": {
+    "feed": "https://oldeucryptoboi.com/rss.xml"
+  },
+  "oldmansailing": {
+    "feed": "https://www.oldmansailing.com/feed/"
+  },
+  "ole": {
+    "feed": "https://ole.computer/feed/"
+  },
+  "olex": {
+    "feed": "https://olex.biz/index.xml"
+  },
+  "oliletriathlete": {
+    "feed": "https://oliletriathlete.com/feed/"
+  },
+  "olimel": {
+    "feed": "https://olimel.net/feed.xml"
+  },
+  "oliverhartwich": {
+    "feed": "https://oliverhartwich.com/feed/"
+  },
+  "olivewilson": {
+    "feed": "https://olivewilson.blogspot.com/feeds/posts/default"
+  },
+  "ollelindholm": {
+    "feed": "https://ollelindholm.com/feed/"
+  },
+  "olney": {
+    "feed": "https://olney.ai/feed.xml"
+  },
+  "olu": {
+    "feed": "https://olu.online/feed/?type=rss"
+  },
+  "omarabedelkader": {
+    "feed": "https://www.omarabedelkader.com/blog/feed.xml"
+  },
+  "omasheet": {
+    "feed": "https://omasheet.org/feed.xml"
+  },
+  "omeratagun": {
+    "feed": "https://omeratagun.net/feed.xml"
+  },
+  "omidmash": {
+    "feed": "https://omidmash.de/blog/rss.xml"
+  },
+  "omniafluunt": {
+    "feed": "https://omniafluunt.me/feed/"
+  },
+  "onebadbit": {
+    "feed": "https://onebadbit.com/index.xml"
+  },
+  "oneweekwonder": {
+    "feed": "https://oneweekwonder.blogspot.com/feeds/posts/default"
+  },
+  "onlinegoddess": {
+    "feed": "https://onlinegoddess.net/feed/"
+  },
+  "ooblick": {
+    "feed": "https://ooblick.com/feed/"
+  },
+  "openpluto": {
+    "feed": "https://openpluto.com/atom/"
+  },
+  "openroutes": {
+    "feed": "https://blog.openroutes.co/atom/"
+  },
+  "opensource-analytics": {
+    "feed": "https://opensource-analytics.com/feed/"
+  },
+  "optionsandchanges": {
+    "feed": "https://optionsandchanges.blogspot.com/feeds/posts/default"
+  },
+  "orangc_net": {
+    "feed": "https://orangc.net/rss.xml"
+  },
+  "orangebelly": {
+    "feed": "https://orangebelly.lol/feed/"
+  },
+  "orangejuiceliberationfront": {
+    "feed": "https://orangejuiceliberationfront.com/feed.xml"
+  },
+  "ordinary": {
+    "feed": "https://ordinary.vision/feed/"
+  },
+  "ordinarythings": {
+    "feed": "https://ordinarythings.bearblog.dev/feed/"
+  },
+  "orenraynes_ca": {
+    "feed": "https://orenraynes.ca/feed/"
+  },
+  "orfeasel": {
+    "feed": "https://www.orfeasel.com/feed/"
+  },
+  "orochena": {
+    "feed": "https://orochena.net/feed.xml"
+  },
+  "oshea00": {
+    "feed": "https://oshea00.github.io/posts/index.xml"
+  },
+  "ososabiouk": {
+    "feed": "https://ososabiouk.wordpress.com/feed/"
+  },
+  "ossgolf": {
+    "feed": "https://ossgolf.com/feed.xml"
+  },
+  "otavio": {
+    "feed": "https://otavio.cc/feed/"
+  },
+  "ounodesign": {
+    "feed": "https://ounodesign.com/feed/"
+  },
+  "our-compass": {
+    "feed": "https://our-compass.org/feed/"
+  },
+  "outmanos": {
+    "feed": "https://blog.outmanos.com/index.xml"
+  },
+  "owbt": {
+    "feed": "https://owbt.pl/feed/"
+  },
+  "p0pcycle": {
+    "feed": "https://p0pcycle.com/feed/"
+  },
+  "p99log": {
+    "feed": "https://p99log.com/rss.xml"
+  },
+  "pablo_fail": {
+    "feed": "https://pablo.fail/rss"
+  },
+  "pablos": {
+    "feed": "https://pablos.live/atom/"
+  },
+  "packardjennings": {
+    "feed": "https://packardjennings.com/feed/"
+  },
+  "pagemelt": {
+    "feed": "https://pagemelt.zone/rss.xml"
+  },
+  "paneflow": {
+    "feed": "https://paneflow.dev/feed.xml"
+  },
+  "pangglow": {
+    "feed": "https://www.pangglow.com/files/blog/atom.xml"
+  },
+  "panoskarabelas": {
+    "feed": "https://panoskarabelas.com/blog/index.xml"
+  },
+  "parahumans": {
+    "feed": "https://parahumans.wordpress.com/feed/"
+  },
+  "parallax": {
+    "feed": "https://blog.parallax.fyi/feed/"
+  },
+  "paranormalis": {
+    "feed": "https://num7.paranormalis.com/feed/"
+  },
+  "paras": {
+    "feed": "https://paras.ink/feed/"
+  },
+  "paritybits": {
+    "feed": "https://www.paritybits.me/feed/?type=rss"
+  },
+  "partlark": {
+    "feed": "https://notes.partlark.com/feed.xml"
+  },
+  "pastila": {
+    "feed": "https://pastila.org/rss.xml"
+  },
+  "patchnotes": {
+    "feed": "https://patchnotes.town/atom/"
+  },
+  "pathandpayload": {
+    "feed": "https://pathandpayload.com/feed/?type=rss"
+  },
+  "patricioquezada": {
+    "feed": "https://patricioquezada.com/rss.xml"
+  },
+  "patrickjohanneson": {
+    "feed": "https://patrickjohanneson.com/feed/atom/"
+  },
+  "patrickkeane": {
+    "feed": "https://patrickkeane.me/rss.xml"
+  },
+  "patricklehmann": {
+    "feed": "https://patricklehmann.io/rss.xml"
+  },
+  "paulmck": {
+    "feed": "https://paulmck.livejournal.com/data/rss"
+  },
+  "paulpickering": {
+    "feed": "https://paulpickering.co.uk/feed/"
+  },
+  "paulsondhi": {
+    "feed": "https://paulsondhi.com/atom/"
+  },
+  "paultibbetts": {
+    "feed": "https://paultibbetts.uk/feed.xml"
+  },
+  "paulw": {
+    "feed": "https://paulw.tokyo/index.xml"
+  },
+  "pawamoy": {
+    "feed": "https://pawamoy.github.io/feed_rss_created.xml"
+  },
+  "peet": {
+    "feed": "https://blog.peet.ws/rss.xml"
+  },
+  "penig": {
+    "feed": "https://penig.tumblr.com/rss"
+  },
+  "perdana": {
+    "feed": "https://perdana.dev/feed/"
+  },
+  "perpetualbeta": {
+    "feed": "https://perpetualbeta.com/feed.xml"
+  },
+  "petar_dev": {
+    "feed": "https://petar.dev/atom.xml"
+  },
+  "petergmcdermott": {
+    "feed": "https://petergmcdermott.com/feed/"
+  },
+  "peterlundell": {
+    "feed": "https://www.peterlundell.com/feed/"
+  },
+  "petermc": {
+    "feed": "https://petermc.net/blog/feed/"
+  },
+  "petersuyat": {
+    "feed": "https://petersuyat.com/feed/"
+  },
+  "petros-papatheodorou": {
+    "feed": "https://petros-papatheodorou.dev/writing/atom.xml"
+  },
+  "peyotecowboy": {
+    "feed": "https://peyotecowboy.net/feed/"
+  },
+  "pgxn": {
+    "feed": "https://blog.pgxn.org/feed.xml"
+  },
+  "phantomarine": {
+    "feed": "https://www.phantomarine.com/comic/rss"
+  },
+  "phantomriverstone": {
+    "feed": "https://www.phantomriverstone.com/feeds/posts/default"
+  },
+  "phili": {
+    "feed": "https://phili.pe/feed.xml"
+  },
+  "philipbrewer": {
+    "feed": "https://www.philipbrewer.net/feed/"
+  },
+  "philipcao": {
+    "feed": "https://philipcao.com/feed/"
+  },
+  "philipithomas_www_contraption": {
+    "feed": "https://www.philipithomas.com/feed/rss.xml?utm_source=www.contraption.co&utm_medium=redirect"
+  },
+  "philthevibes": {
+    "feed": "https://philthevibes.com/atom/"
+  },
+  "philwilsn": {
+    "feed": "https://www.philwilsn.com/blog-feed.xml"
+  },
+  "phoam": {
+    "feed": "https://phoam.app/blog/feed.xml"
+  },
+  "phobos-comic": {
+    "feed": "https://www.phobos-comic.com/feed/atom/"
+  },
+  "phpied": {
+    "feed": "https://www.phpied.com/feed/"
+  },
+  "physicsfromtheedge": {
+    "feed": "https://physicsfromtheedge.blogspot.com/feeds/posts/default"
+  },
+  "phytertek": {
+    "feed": "https://www.phytertek.com/blog/rss.xml"
+  },
+  "pianabianco": {
+    "feed": "https://pianabianco.com/inout/essays/rss/"
+  },
+  "piaseczny": {
+    "feed": "https://blog.piaseczny.dev/index.xml"
+  },
+  "pigeonsofwar": {
+    "feed": "https://pigeonsofwar.org/feed/"
+  },
+  "pilawa": {
+    "feed": "https://www.pilawa.org/feed/"
+  },
+  "pileoftext": {
+    "feed": "https://pileoftext.com/feed/"
+  },
+  "pinkbeam": {
+    "feed": "https://pinkbeam.xyz/atom.xml"
+  },
+  "pinkhamster": {
+    "feed": "https://xn.pinkhamster.net/blog/index.rss"
+  },
+  "pinkpetalparty": {
+    "feed": "https://pinkpetalparty.bearblog.dev/feed/"
+  },
+  "pirateking": {
+    "feed": "https://www.pirateking.com/feed/atom/"
+  },
+  "pixelpoppers": {
+    "feed": "https://pixelpoppers.com/index.xml"
+  },
+  "planesailinggames": {
+    "feed": "https://planesailinggames.com/review/index.xml"
+  },
+  "planetisrocks": {
+    "feed": "https://planetisrocks.blogspot.com/feeds/posts/default"
+  },
+  "planetozh": {
+    "feed": "https://planetozh.com/feed/"
+  },
+  "platinumtulip_net": {
+    "feed": "https://blog.platinumtulip.net/feed/"
+  },
+  "playpretend_fyi": {
+    "feed": "https://playpretend.fyi/feed/"
+  },
+  "pnis": {
+    "feed": "https://pnis.co/feed/"
+  },
+  "pocketputer": {
+    "feed": "https://www.pocketputer.com/feeds/posts/default"
+  },
+  "podis": {
+    "feed": "https://podis.blog/feed/"
+  },
+  "pointsforpilots": {
+    "feed": "https://pointsforpilots.blogspot.com/feeds/posts/default"
+  },
+  "poisoningchildren": {
+    "feed": "https://www.poisoningchildren.com/blog?format=rss"
+  },
+  "pokharel": {
+    "feed": "https://www.pokharel.net/feed/"
+  },
+  "politeandgood": {
+    "feed": "https://politeandgood.com/comic/rss?id=1"
+  },
+  "politicsrighthere": {
+    "feed": "https://politicsrighthere.blogspot.com/feeds/posts/default"
+  },
+  "ponti": {
+    "feed": "https://ponti.club/atom/"
+  },
+  "poorplayer": {
+    "feed": "https://poorplayer.mataroa.blog/rss/"
+  },
+  "popovs": {
+    "feed": "https://blog.popovs.lv/atom/"
+  },
+  "possibilityspace": {
+    "feed": "https://www.possibilityspace.org/feed.xml"
+  },
+  "possibilityspace_org": {
+    "feed": "https://www.possibilityspace.org/blog/feed.xml"
+  },
+  "posthuman": {
+    "feed": "https://posthuman.blog/feed/"
+  },
+  "potatopotaro": {
+    "feed": "https://potatopotaro.com/feed/"
+  },
+  "potus-geeks": {
+    "feed": "https://potus-geeks.livejournal.com/data/atom"
+  },
+  "powerhoof": {
+    "feed": "https://www.powerhoof.com/feed/"
+  },
+  "practical_li": {
+    "feed": "https://practical.li/feed_rss_updated.xml"
+  },
+  "prasatt": {
+    "feed": "https://prasatt.me/atom/"
+  },
+  "prastyphylia": {
+    "feed": "https://prastyphylia.bearblog.dev/feed/"
+  },
+  "pretendtypewriter_net": {
+    "feed": "https://pretendtypewriter.net/atom/"
+  },
+  "princeyesuraj": {
+    "feed": "https://princeyesuraj.com/feed/"
+  },
+  "priyavrat-misra": {
+    "feed": "https://priyavrat-misra.github.io/blog/rss.xml"
+  },
+  "probablyworthsharing": {
+    "feed": "https://probablyworthsharing.com/feed.xml"
+  },
+  "prod": {
+    "feed": "https://prod.codes/rss.xml"
+  },
+  "productdeveloper": {
+    "feed": "https://productdeveloper.net/rss.xml"
+  },
+  "profundus": {
+    "feed": "https://profundus.dev/feed/"
+  },
+  "programmerscareer": {
+    "feed": "https://programmerscareer.com/atom.xml"
+  },
+  "programwitherik": {
+    "feed": "https://www.programwitherik.com/blog/rss/"
+  },
+  "proto": {
+    "feed": "https://proto.garden/rss/notes.xml"
+  },
+  "prtksxna": {
+    "feed": "https://prtksxna.com/feed/"
+  },
+  "prux": {
+    "feed": "https://www.prux.org/rss.xml"
+  },
+  "psblab": {
+    "feed": "https://psblab.org/?feed=rss2"
+  },
+  "pseudosingleton": {
+    "feed": "https://pseudosingleton.com/feed/?type=rss"
+  },
+  "psikik": {
+    "feed": "https://www.psikik.com/rss.xml"
+  },
+  "psnosignaluk": {
+    "feed": "https://psnosignaluk.bearblog.dev/feed/"
+  },
+  "psychologyofgames": {
+    "feed": "https://www.psychologyofgames.com/feed/"
+  },
+  "psychsciencenotes": {
+    "feed": "https://psychsciencenotes.blogspot.com/feeds/posts/default"
+  },
+  "pthm": {
+    "feed": "https://pthm.dev/feed/"
+  },
+  "pumpkintravels_uk": {
+    "feed": "https://pumpkintravels.uk/feed/"
+  },
+  "push": {
+    "feed": "https://push.cx/feed"
+  },
+  "pushingshapes": {
+    "feed": "https://www.pushingshapes.com/feed/"
+  },
+  "pussista": {
+    "feed": "https://pussista.com/feed/"
+  },
+  "puzzlezapper": {
+    "feed": "https://puzzlezapper.com/blog/feed/"
+  },
+  "pydevtools": {
+    "feed": "https://pydevtools.com/handbook/index.xml"
+  },
+  "pym": {
+    "feed": "https://pym.re/atom/"
+  },
+  "pzumk": {
+    "feed": "https://pzumk.com/atom/"
+  },
+  "qiyaoliang": {
+    "feed": "https://qiyaoliang.com/rss.xml"
+  },
+  "qlogo": {
+    "feed": "https://qlogo.org/index.xml"
+  },
+  "quadrupleblinded": {
+    "feed": "https://quadrupleblinded.com/feed/"
+  },
+  "quantumproductions": {
+    "feed": "https://quantumproductions.info/rss.xml"
+  },
+  "quickandeasysoftware": {
+    "feed": "https://quickandeasysoftware.net/feed"
+  },
+  "quietpresence": {
+    "feed": "https://quietpresence.art/atom/"
+  },
+  "quilime": {
+    "feed": "https://quilime.com/feed.xml"
+  },
+  "quincyzikmund": {
+    "feed": "https://quincyzikmund.com/atom/"
+  },
+  "quinnbatten": {
+    "feed": "https://www.quinnbatten.com/atom.xml"
+  },
+  "quirksmode": {
+    "feed": "https://quirksmode.org/quirksblog/rss.xml"
+  },
+  "quothalinguist": {
+    "feed": "https://www.quothalinguist.com/feed/"
+  },
+  "qwantz": {
+    "feed": "https://qwantz.com/rssfeed.php"
+  },
+  "r-econometrics": {
+    "feed": "https://www.r-econometrics.com/timeseries/index.xml"
+  },
+  "r10n": {
+    "feed": "https://r10n.com/atom/"
+  },
+  "r4stats": {
+    "feed": "https://r4stats.com/feed/"
+  },
+  "rabbit-reading": {
+    "feed": "https://rabbit-reading.bearblog.dev/feed/"
+  },
+  "rabbitvictor": {
+    "feed": "https://rabbitvictor.com/atom/"
+  },
+  "racheleditullio": {
+    "feed": "https://racheleditullio.com/feed/"
+  },
+  "rachelplusplus": {
+    "feed": "https://www.rachelplusplus.me.uk/blog/atom.xml"
+  },
+  "radix63": {
+    "feed": "https://blog.radix63.dk/feed.xml"
+  },
+  "rafaelkuebler": {
+    "feed": "https://rafaelkuebler.github.io/feed.xml"
+  },
+  "rahul_ws": {
+    "feed": "https://www.rahul.ws/blog/rss.xml"
+  },
+  "ramanisblog": {
+    "feed": "https://ramanisblog.in/feed/"
+  },
+  "randomgoat": {
+    "feed": "https://randomgoat.co/feed/"
+  },
+  "randomnoun": {
+    "feed": "https://www.randomnoun.com/wp/feed/"
+  },
+  "ranticore": {
+    "feed": "https://ranticore.tumblr.com/rss"
+  },
+  "raphaelpour": {
+    "feed": "https://raphaelpour.de/rss.xml"
+  },
+  "raphaelsalaja": {
+    "feed": "https://www.raphaelsalaja.com/rss"
+  },
+  "rapternet": {
+    "feed": "https://lab.rapternet.us/?feed=rss2"
+  },
+  "rashidfaridi": {
+    "feed": "https://rashidfaridi.com/feed/"
+  },
+  "rasikjain_com": {
+    "feed": "https://www.rasikjain.com/posts/index.xml"
+  },
+  "ratemyprompt": {
+    "feed": "https://www.ratemyprompt.dev/blog/rss.xml"
+  },
+  "ravdeep": {
+    "feed": "https://ravdeep.com/index.xml"
+  },
+  "raytriangle": {
+    "feed": "https://raytriangle.com/feed/"
+  },
+  "raywang_org": {
+    "feed": "https://raywang.org/blog/rss.xml"
+  },
+  "rcruz": {
+    "feed": "https://rcruz.dev/feed.xml"
+  },
+  "rcvictorino": {
+    "feed": "https://rcvictorino.com/atom/"
+  },
+  "rdowd": {
+    "feed": "https://rdowd.com/atom/"
+  },
+  "readpablo": {
+    "feed": "https://readpablo.com/feed/"
+  },
+  "readthisandregretit": {
+    "feed": "https://readthisandregretit.blogspot.com/feeds/posts/default"
+  },
+  "readwithmitch": {
+    "feed": "https://readwithmitch.com/atom/"
+  },
+  "realabsinthe": {
+    "feed": "https://realabsinthe.blogspot.com/feeds/posts/default"
+  },
+  "realprosperity": {
+    "feed": "https://realprosperity.org/blog/feed.xml"
+  },
+  "recuerdofugaz": {
+    "feed": "https://recuerdofugaz.blogspot.com/feeds/posts/default"
+  },
+  "redwallandtherabble": {
+    "feed": "https://www.redwallandtherabble.co.uk/rss/"
+  },
+  "reedwrite": {
+    "feed": "https://reedwrite.org/feed/"
+  },
+  "reflections-shivanand": {
+    "feed": "https://reflections-shivanand.blogspot.com/feeds/posts/default"
+  },
+  "reggieescobar": {
+    "feed": "https://reggieescobar.com/rss.xml"
+  },
+  "reginameredith": {
+    "feed": "https://reginameredith.com/feed/"
+  },
+  "relatedwork_blog": {
+    "feed": "https://relatedwork.blog/feed/"
+  },
+  "remainna_xyz": {
+    "feed": "https://blog.remainna.xyz/feed/"
+  },
+  "renaissanceutterances": {
+    "feed": "https://renaissanceutterances.blogspot.com/feeds/posts/default"
+  },
+  "renatovaldes": {
+    "feed": "https://www.renatovaldes.com/essays/feed.xml"
+  },
+  "renjunjie": {
+    "feed": "https://renjunjie.com/feed/"
+  },
+  "rensbr": {
+    "feed": "https://rensbr.eu/blog/rss.xml"
+  },
+  "reportinglivefrommysofa": {
+    "feed": "https://www.reportinglivefrommysofa.com/blog-feed.xml"
+  },
+  "resequest": {
+    "feed": "https://www.resequest.com/feed/"
+  },
+  "resilienceassembled": {
+    "feed": "https://resilienceassembled.blot.im/feed.rss"
+  },
+  "retiolus": {
+    "feed": "https://retiolus.net/index.xml"
+  },
+  "retrainpain": {
+    "feed": "https://www.retrainpain.org/blog-feed.xml"
+  },
+  "return": {
+    "feed": "https://blog.return.moe/feed.xml"
+  },
+  "returnbooleantrue": {
+    "feed": "https://www.returnbooleantrue.com/feeds/posts/default"
+  },
+  "reveriesofahuman": {
+    "feed": "https://reveriesofahuman.com/feed/"
+  },
+  "reversesociety": {
+    "feed": "https://blog.reversesociety.co/rss.xml"
+  },
+  "reynoldsfarm": {
+    "feed": "https://www.reynoldsfarm.com/blog-feed.xml"
+  },
+  "rgnrk": {
+    "feed": "https://rgnrk.com/feed/"
+  },
+  "rheapon": {
+    "feed": "https://rheapon.com/atom/"
+  },
+  "rhett": {
+    "feed": "https://blog.rhett.info/atom.xml"
+  },
+  "rias": {
+    "feed": "https://rias.be/feed"
+  },
+  "ricardocosteira": {
+    "feed": "https://ricardocosteira.dev/rss.xml"
+  },
+  "rice-boy": {
+    "feed": "https://rice-boy.com/rss.xml"
+  },
+  "richard-purves": {
+    "feed": "https://richard-purves.com/feed/"
+  },
+  "richardamsel": {
+    "feed": "https://www.richardamsel.com/blog-feed.xml"
+  },
+  "richardcobbett": {
+    "feed": "https://richardcobbett.com/feed/"
+  },
+  "richdynamix": {
+    "feed": "https://richdynamix.com/feed"
+  },
+  "richiepiggott": {
+    "feed": "https://www.richiepiggott.com/news/feed"
+  },
+  "righttoreadproject": {
+    "feed": "https://righttoreadproject.com/feed/"
+  },
+  "rinaarts": {
+    "feed": "https://rinaarts.com/feed/"
+  },
+  "risanb": {
+    "feed": "https://risanb.com/rss.xml"
+  },
+  "rishirajacharya": {
+    "feed": "https://rishirajacharya.com/atom/"
+  },
+  "rishyak": {
+    "feed": "https://rishyak.com/feed/"
+  },
+  "riumplus": {
+    "feed": "https://www.riumplus.com/feed/"
+  },
+  "rivetgaming": {
+    "feed": "https://rivetgaming.org/atom/"
+  },
+  "rlraymond": {
+    "feed": "https://rlraymond.com/feed/"
+  },
+  "rnotte": {
+    "feed": "https://rnotte.art/feed/"
+  },
+  "roar": {
+    "feed": "https://roar.spiderforest.com/comic/rss?id=1"
+  },
+  "robbowley": {
+    "feed": "https://blog.robbowley.net/feed/"
+  },
+  "robertbirming_com": {
+    "feed": "https://robertbirming.com/feed/"
+  },
+  "robertlipe": {
+    "feed": "https://www.robertlipe.com/feed/"
+  },
+  "robertniles": {
+    "feed": "https://www.robertniles.com/rss.xml"
+  },
+  "robertorosario": {
+    "feed": "https://blog.robertorosario.com/rss/"
+  },
+  "robrogers": {
+    "feed": "https://robrogers.com/feed/"
+  },
+  "robrohan": {
+    "feed": "https://robrohan.com/index.xml"
+  },
+  "rodneyosodo": {
+    "feed": "https://www.rodneyosodo.com/feed.xml"
+  },
+  "roeselienraimond": {
+    "feed": "https://www.roeselienraimond.com/feed/"
+  },
+  "roger-pearse": {
+    "feed": "https://www.roger-pearse.com/weblog/feed/"
+  },
+  "rogerpincombe": {
+    "feed": "https://rogerpincombe.com/atom"
+  },
+  "rohithuppala": {
+    "feed": "https://rohithuppala.com/atom/"
+  },
+  "romainbrette": {
+    "feed": "https://romainbrette.fr/feed/"
+  },
+  "ronnie": {
+    "feed": "https://ronnie.fyi/rss"
+  },
+  "rootandbranchcomic": {
+    "feed": "https://www.rootandbranchcomic.com/feed/atom/"
+  },
+  "rootinprogress": {
+    "feed": "https://rootinprogress.dev/feed/"
+  },
+  "rosemarykirstein": {
+    "feed": "https://www.rosemarykirstein.com/feed/"
+  },
+  "rosiepblog": {
+    "feed": "https://rosiepblog.blogspot.com/feeds/posts/default"
+  },
+  "roth": {
+    "feed": "https://michael.roth.rocks/feed.xml"
+  },
+  "roughtype": {
+    "feed": "https://www.roughtype.com/?feed=rss2"
+  },
+  "roundy": {
+    "feed": "https://roundy.bearblog.dev/feed/"
+  },
+  "rrhaywood": {
+    "feed": "https://www.rrhaywood.com/blog-feed.xml"
+  },
+  "rsaul": {
+    "feed": "https://rsaul.com/atom/"
+  },
+  "rscottjones": {
+    "feed": "https://rscottjones.com/feed/"
+  },
+  "rsdlt": {
+    "feed": "https://rsdlt.dev/rss.xml"
+  },
+  "rshark": {
+    "feed": "https://rshark.space/feed/"
+  },
+  "rsnotes": {
+    "feed": "https://rsnotes.com/feed/"
+  },
+  "rtalur": {
+    "feed": "https://blog.rtalur.com/feed/"
+  },
+  "rudepundit": {
+    "feed": "https://rudepundit.blogspot.com/feeds/posts/default"
+  },
+  "runarcn": {
+    "feed": "https://runarcn.no/feed/"
+  },
+  "runawaydrakaina": {
+    "feed": "https://runawaydrakaina.com/comic/rss?id=1"
+  },
+  "russo": {
+    "feed": "https://russo.report/atom/"
+  },
+  "ryangralinski": {
+    "feed": "https://ryangralinski.com/feed/"
+  },
+  "ryanlanciaux": {
+    "feed": "https://ryanlanciaux.com/rss.xml"
+  },
+  "s-klein": {
+    "feed": "https://s-klein.bearblog.dev/feed/"
+  },
+  "sabaimran": {
+    "feed": "https://sabaimran.com/rss.xml"
+  },
+  "sachlabs": {
+    "feed": "https://sachlabs.com/atom/"
+  },
+  "sadboyrepeat": {
+    "feed": "https://www.sadboyrepeat.com/feed/?type=rss"
+  },
+  "sahilkolwankar": {
+    "feed": "https://sahilkolwankar.com/rss.xml"
+  },
+  "saibhargav": {
+    "feed": "https://saibhargav.hashnode.dev/rss.xml"
+  },
+  "saigonnezumi": {
+    "feed": "https://saigonnezumi.com/feed/"
+  },
+  "saiyanshinobi": {
+    "feed": "https://blog.saiyanshinobi.com/feed/"
+  },
+  "salehsplate": {
+    "feed": "https://salehsplate.com/feed.xml"
+  },
+  "samasaur1": {
+    "feed": "https://samasaur1.github.io/feed.xml"
+  },
+  "sambal": {
+    "feed": "https://sambal.org/feed/"
+  },
+  "samiam": {
+    "feed": "https://www.samiam.org/blog/blog.rss"
+  },
+  "samlowe": {
+    "feed": "https://samlowe.dev/feed.xml"
+  },
+  "samsharp": {
+    "feed": "https://samsharp.ca/feed/"
+  },
+  "samuelpapin": {
+    "feed": "https://samuelpapin.com/atom/"
+  },
+  "sandesh": {
+    "feed": "https://sandesh.ink/feed/"
+  },
+  "santacruztrains": {
+    "feed": "https://www.santacruztrains.com/feeds/posts/default"
+  },
+  "sao": {
+    "feed": "https://blog.sao.dev/atom.xml"
+  },
+  "saraceni": {
+    "feed": "https://saraceni.me/feed/"
+  },
+  "sarthakag": {
+    "feed": "https://sarthakag.bearblog.dev/feed/"
+  },
+  "sashartz": {
+    "feed": "https://sashartz.com/feed/?type=rss"
+  },
+  "saugatkhadka": {
+    "feed": "https://blog.saugatkhadka.com/atom/"
+  },
+  "saulamster": {
+    "feed": "https://blog.saulamster.com/feed/"
+  },
+  "savvynormie": {
+    "feed": "https://savvynormie.com/feed/"
+  },
+  "savyasacheejha": {
+    "feed": "https://savyasacheejha.com/atom.xml"
+  },
+  "scarydba": {
+    "feed": "https://www.scarydba.com/feed/"
+  },
+  "schlitt": {
+    "feed": "https://schlitt.info/blog/feed.xml"
+  },
+  "schneier_index_rdf": {
+    "feed": "http://www.schneier.com/blog/index.rdf"
+  },
+  "schottelius": {
+    "feed": "https://www.nico.schottelius.org/blog/index.rss"
+  },
+  "schuetze": {
+    "feed": "https://blog.schuetze.link/atom.xml"
+  },
+  "schwitzsplinters": {
+    "feed": "https://schwitzsplinters.blogspot.com/feeds/posts/default"
+  },
+  "sciencebits": {
+    "feed": "https://www.sciencebits.com/rss.xml"
+  },
+  "scifiwright": {
+    "feed": "https://scifiwright.com/feed/"
+  },
+  "scottkleper": {
+    "feed": "https://blog.scottkleper.com/feed/"
+  },
+  "scottlilly": {
+    "feed": "https://scottlilly.com/feed/"
+  },
+  "scottrichmond": {
+    "feed": "https://scottrichmond.me/feed/?type=rss"
+  },
+  "scriptingosx": {
+    "feed": "https://scriptingosx.com/feed/"
+  },
+  "seantaylor": {
+    "feed": "https://notes.seantaylor.work/feed/"
+  },
+  "searchingforsignal": {
+    "feed": "https://searchingforsignal.net/feed/"
+  },
+  "seat31b": {
+    "feed": "https://www.seat31b.com/feed/"
+  },
+  "sebin-gg": {
+    "feed": "https://sebin-gg.vercel.app/rss.xml"
+  },
+  "sebiwette": {
+    "feed": "https://sebiwette.de/feed/"
+  },
+  "seerofthe": {
+    "feed": "https://seerofthe.net/feed/"
+  },
+  "seetheair": {
+    "feed": "https://seetheair.org/feed/"
+  },
+  "self-issued": {
+    "feed": "https://self-issued.info/?feed=rss2"
+  },
+  "semioticdrift": {
+    "feed": "https://semioticdrift.com/feed/"
+  },
+  "seoulsonagi_hksong": {
+    "feed": "https://seoulsonagi.hksong.net/atom/"
+  },
+  "sergeykuhne": {
+    "feed": "https://sergeykuhne.com/blog/feed.xml"
+  },
+  "sergeytihon": {
+    "feed": "https://sergeytihon.com/feed/"
+  },
+  "sergiocarrilho": {
+    "feed": "https://sergiocarrilho.com/posts/index.xml"
+  },
+  "sex-drugs-economics": {
+    "feed": "https://sex-drugs-economics.blogspot.com/feeds/posts/default"
+  },
+  "shadycharacters": {
+    "feed": "https://shadycharacters.co.uk/feed.xml"
+  },
+  "shagunagrawal": {
+    "feed": "https://shagunagrawal.me/index.xml"
+  },
+  "shahar": {
+    "feed": "https://shahar.blog/feed.xml"
+  },
+  "shane_fail": {
+    "feed": "https://blog.shane.fail/atom/"
+  },
+  "shanebarry": {
+    "feed": "https://shanebarry.com/atom/"
+  },
+  "shanske": {
+    "feed": "https://david.shanske.com/feed/"
+  },
+  "sharathcgeorge": {
+    "feed": "https://sharathcgeorge.com/feed/"
+  },
+  "sharats_dev": {
+    "feed": "https://sharats.dev/feed.xml"
+  },
+  "sharonleewriter": {
+    "feed": "https://sharonleewriter.com/feed/"
+  },
+  "sharpdevotional": {
+    "feed": "https://sharpdevotional.com/feed/"
+  },
+  "sharynmorrow": {
+    "feed": "https://www.sharynmorrow.com/feed/"
+  },
+  "shashankr": {
+    "feed": "https://www.shashankr.com/feed/feed.xml"
+  },
+  "shashvatshukla": {
+    "feed": "https://shashvatshukla.com/atom/"
+  },
+  "shastry": {
+    "feed": "https://shastry.me/atom/"
+  },
+  "shaunbebbington": {
+    "feed": "https://shaunbebbington.blogspot.com/feeds/posts/default"
+  },
+  "shawndubravac": {
+    "feed": "https://shawndubravac.com/feed/"
+  },
+  "shearerinsanity": {
+    "feed": "https://shearerinsanity.blogspot.com/feeds/posts/default"
+  },
+  "sherwood-smith": {
+    "feed": "https://sherwood-smith.com/feed.xml"
+  },
+  "shilin": {
+    "feed": "https://shilin.ca/feed/?type=rss"
+  },
+  "shimada": {
+    "feed": "https://shimada.bearblog.dev/feed/"
+  },
+  "shitididntknow": {
+    "feed": "https://shitididntknow.com/rss.xml"
+  },
+  "shitvinlikes": {
+    "feed": "https://shitvinlikes.com/atom/"
+  },
+  "shlomif-tech": {
+    "feed": "https://shlomif-tech.livejournal.com/data/atom"
+  },
+  "shni": {
+    "feed": "https://shni.bearblog.dev/feed/"
+  },
+  "shonenpunx": {
+    "feed": "http://www.shonenpunx.com/feed/atom/"
+  },
+  "shortishly": {
+    "feed": "https://shortishly.com/feed.xml"
+  },
+  "shortpacked": {
+    "feed": "https://www.shortpacked.com/comic/rss"
+  },
+  "shotgundebugging": {
+    "feed": "https://shotgundebugging.blogspot.com/feeds/posts/default"
+  },
+  "shoujo": {
+    "feed": "https://shoujo.gay/feed/"
+  },
+  "shtanton_xyz": {
+    "feed": "http://shtanton.xyz/rss.xml"
+  },
+  "siginthistorian": {
+    "feed": "https://siginthistorian.blogspot.com/feeds/posts/default"
+  },
+  "sigkill_sh": {
+    "feed": "https://sigkill.sh/feed/"
+  },
+  "sillypedia": {
+    "feed": "https://sillypedia.org/feed/"
+  },
+  "silveiraneto": {
+    "feed": "https://www.silveiraneto.net/feed/"
+  },
+  "simon-says": {
+    "feed": "https://simon-says.info/rss.xml"
+  },
+  "simonjamesbrady": {
+    "feed": "https://simonjamesbrady.com/feed/"
+  },
+  "simonmorel": {
+    "feed": "https://simonmorel.com/feed/"
+  },
+  "sincelasttime": {
+    "feed": "https://sincelasttime.bearblog.dev/feed/"
+  },
+  "singhajit": {
+    "feed": "https://singhajit.com/feed.xml"
+  },
+  "singinginspanish": {
+    "feed": "https://singinginspanish.bearblog.dev/feed/"
+  },
+  "singpolyma": {
+    "feed": "https://singpolyma.net/feed/"
+  },
+  "sisterclaire": {
+    "feed": "https://www.sisterclaire.com/rss"
+  },
+  "sitmo": {
+    "feed": "https://www.sitmo.com/feed/"
+  },
+  "sivajisahoo": {
+    "feed": "https://sivajisahoo.com/atom/"
+  },
+  "sivark": {
+    "feed": "https://sivark.me/blog/feed.xml"
+  },
+  "sjaykh_in": {
+    "feed": "https://sjaykh.in/feed/"
+  },
+  "skaup": {
+    "feed": "https://blog.skaup.co/feeds/all.atom.xml"
+  },
+  "skeary": {
+    "feed": "https://skeary.me/rss.xml"
+  },
+  "skibs": {
+    "feed": "https://catto.garden/~skibs/feed.xml"
+  },
+  "skiesofbluecloudsofwhite": {
+    "feed": "https://skiesofbluecloudsofwhite.com/feed/"
+  },
+  "skrasser": {
+    "feed": "https://www.skrasser.com/feed.xml"
+  },
+  "skryblans": {
+    "feed": "https://skryblans.com/atom/"
+  },
+  "skudra": {
+    "feed": "https://skudra.net/blog/atom.xml"
+  },
+  "skuka": {
+    "feed": "https://skuka.online/atom/"
+  },
+  "skullandweasel": {
+    "feed": "https://skullandweasel.com/atom/"
+  },
+  "slantedhall": {
+    "feed": "https://slantedhall.com/blog/feed/"
+  },
+  "sleepingbeastgames": {
+    "feed": "https://sleepingbeastgames.com/feed.xml"
+  },
+  "slembcke": {
+    "feed": "https://www.slembcke.net/blog/feed.xml"
+  },
+  "slipstick": {
+    "feed": "https://www.slipstick.com/feed/atom/"
+  },
+  "sloppish": {
+    "feed": "https://sloppish.com/feed.xml"
+  },
+  "smallsharpsoftwaretools": {
+    "feed": "https://smallsharpsoftwaretools.com/index.xml"
+  },
+  "snappishproductions": {
+    "feed": "https://snappishproductions.com/index.xml"
+  },
+  "snaps_jeddacp": {
+    "feed": "https://snaps.jeddacp.com/feed/"
+  },
+  "snell-pym": {
+    "feed": "https://www.snell-pym.org.uk/feed/"
+  },
+  "snigdha": {
+    "feed": "https://snigdha.dev/index.xml"
+  },
+  "snowball": {
+    "feed": "https://snowball.bearblog.dev/feed/"
+  },
+  "soarhen": {
+    "feed": "https://soarhen.com/feed.xml"
+  },
+  "sociological-eye": {
+    "feed": "https://sociological-eye.blogspot.com/feeds/posts/default"
+  },
+  "soderlind": {
+    "feed": "https://soderlind.dev/feed.xml"
+  },
+  "soeren_codes": {
+    "feed": "https://www.soeren.codes/rss.xml"
+  },
+  "softerfocus": {
+    "feed": "https://softerfocus.blog/feed/"
+  },
+  "software_mihvoi": {
+    "feed": "https://software.mihvoi.org/feed.xml"
+  },
+  "solongbloodsuckers": {
+    "feed": "https://www.solongbloodsuckers.com/feed/atom/"
+  },
+  "some---things": {
+    "feed": "https://www.some---things.com/atom/"
+  },
+  "sonderandserendipity": {
+    "feed": "https://www.sonderandserendipity.com/rss.xml"
+  },
+  "sonirico": {
+    "feed": "https://sonirico.dev/index.xml"
+  },
+  "sophiehoulden": {
+    "feed": "https://sophiehoulden.com/feed/"
+  },
+  "southeastasiatrains": {
+    "feed": "https://southeastasiatrains.com/feed/"
+  },
+  "sowieso": {
+    "feed": "https://sowieso.bearblog.dev/feed/"
+  },
+  "spabbit": {
+    "feed": "https://spabbit.com/feed/"
+  },
+  "spacepuppeh": {
+    "feed": "https://spacepuppeh.com/feed/"
+  },
+  "spaceweatherwoman": {
+    "feed": "https://www.spaceweatherwoman.com/feed/"
+  },
+  "sparenotes": {
+    "feed": "https://sparenotes.online/feed/"
+  },
+  "specbranch": {
+    "feed": "https://specbranch.com/index.xml"
+  },
+  "speculumcriticum": {
+    "feed": "https://speculumcriticum.blogspot.com/feeds/posts/default"
+  },
+  "spencerdailey": {
+    "feed": "https://spencerdailey.com/feed/atom/"
+  },
+  "spencermortensen": {
+    "feed": "https://spencermortensen.com/articles/rss.xml"
+  },
+  "spgl": {
+    "feed": "https://spgl.in/blog/feed.atom"
+  },
+  "spiltmilk": {
+    "feed": "https://spiltmilk.blog/feed/"
+  },
+  "sploit": {
+    "feed": "https://sploit.tech/feed.xml"
+  },
+  "spock": {
+    "feed": "https://spock.is/feed.xml"
+  },
+  "sportstalkox": {
+    "feed": "https://sportstalkox.com/feed/"
+  },
+  "spu": {
+    "feed": "https://blog.spu.io/feed/"
+  },
+  "sqlartist": {
+    "feed": "https://sqlartist.github.io/rss.xml"
+  },
+  "sqra": {
+    "feed": "https://sqra.ca/atom/"
+  },
+  "srhh": {
+    "feed": "https://srhh.blog/atom/"
+  },
+  "sridharbhagavathula_com": {
+    "feed": "https://sridharbhagavathula.com/feed/"
+  },
+  "srinivasraghav": {
+    "feed": "https://srinivasraghav.bearblog.dev/feed/"
+  },
+  "stal": {
+    "feed": "https://stal.blogspot.com/feeds/posts/default"
+  },
+  "standaniels": {
+    "feed": "https://standaniels.nl/feed.xml"
+  },
+  "starbase430": {
+    "feed": "https://starbase430.com/feed.xml"
+  },
+  "starkle": {
+    "feed": "https://starkle.dev/atom/"
+  },
+  "stateofnats": {
+    "feed": "https://stateofnats.com/atom/"
+  },
+  "steadytao": {
+    "feed": "https://steadytao.com/rss.xml"
+  },
+  "steamgearinc": {
+    "feed": "http://www.steamgearinc.com/comic/rss?id=1"
+  },
+  "steamtunnel": {
+    "feed": "https://steamtunnel.blogspot.com/feeds/posts/default"
+  },
+  "stellardecay": {
+    "feed": "https://stellardecay.com/atom.xml"
+  },
+  "stephenjayakar": {
+    "feed": "https://stephenjayakar.com/posts/index.xml"
+  },
+  "steveabraham": {
+    "feed": "https://web.steveabraham.com/feed.xml"
+  },
+  "stevecooper": {
+    "feed": "https://stevecooper.org/feed/"
+  },
+  "steved-imaginaryreal": {
+    "feed": "https://steved-imaginaryreal.blogspot.com/feeds/posts/default"
+  },
+  "stevegilham": {
+    "feed": "https://stevegilham.blogspot.com/feeds/posts/default?alt=atom"
+  },
+  "stevenathompson": {
+    "feed": "https://www.stevenathompson.com/atom/"
+  },
+  "stevenlevithan": {
+    "feed": "https://blog.stevenlevithan.com/feed"
+  },
+  "stevestreza": {
+    "feed": "https://stevestreza.com/feed.xml"
+  },
+  "stillinbeta": {
+    "feed": "https://blog.stillinbeta.com/rss.xml"
+  },
+  "stopthepizza": {
+    "feed": "https://stopthepizza.com/atom/"
+  },
+  "stopthethyroidmadness": {
+    "feed": "https://stopthethyroidmadness.com/feed/atom/"
+  },
+  "storagemojo": {
+    "feed": "https://storagemojo.com/feed/atom/"
+  },
+  "storiesfornewworlds": {
+    "feed": "https://storiesfornewworlds.com/atom/"
+  },
+  "strakul": {
+    "feed": "https://strakul.blogspot.com/feeds/posts/default"
+  },
+  "strangerthansf": {
+    "feed": "https://strangerthansf.com/feed.xml"
+  },
+  "straycat": {
+    "feed": "https://blog.straycat.me.uk/feed/"
+  },
+  "straythought": {
+    "feed": "https://straythought.xyz/feed.xml"
+  },
+  "streaminglearningcenter": {
+    "feed": "https://streaminglearningcenter.com/feed"
+  },
+  "streamunconsciousness": {
+    "feed": "https://streamunconsciousness.com/feed/"
+  },
+  "strkr": {
+    "feed": "https://strkr.org/feed/"
+  },
+  "stuartwatkinson": {
+    "feed": "https://www.stuartwatkinson.com/atom/"
+  },
+  "stubbornella": {
+    "feed": "https://www.stubbornella.org/feed/atom/"
+  },
+  "studyen": {
+    "feed": "https://studyen.bearblog.dev/feed/"
+  },
+  "stupid-ideas": {
+    "feed": "https://stupid-ideas.com/feed.xml"
+  },
+  "subramanya": {
+    "feed": "https://subramanya.ai/feed.xml"
+  },
+  "sulfur": {
+    "feed": "https://sulfur.ink/atom/"
+  },
+  "sulimans": {
+    "feed": "https://blog.sulimans.space/rss/"
+  },
+  "sunshine-jones": {
+    "feed": "https://sunshine-jones.com/feed/"
+  },
+  "superfamicom": {
+    "feed": "https://superfamicom.org/blog/feed/"
+  },
+  "surma_technology": {
+    "feed": "https://surma.technology/index.xml"
+  },
+  "susannedoesthesouthwest": {
+    "feed": "https://www.susannedoesthesouthwest.com/feed/"
+  },
+  "susansenator": {
+    "feed": "https://susansenator.com/feed/"
+  },
+  "sussi": {
+    "feed": "https://www.sussi.dk/feed"
+  },
+  "svcallalily": {
+    "feed": "https://svcallalily.com/feed/"
+  },
+  "swimmingblue": {
+    "feed": "https://swimmingblue.tumblr.com/rss"
+  },
+  "swling": {
+    "feed": "https://swling.com/blog/feed/"
+  },
+  "swwomm": {
+    "feed": "https://blog.swwomm.com/feeds/posts/default"
+  },
+  "sydney-yaeko": {
+    "feed": "https://www.sydney-yaeko.com/stories?format=rss"
+  },
+  "syls": {
+    "feed": "https://syls.blog/atom/"
+  },
+  "sylvianvista": {
+    "feed": "https://sylvianvista.com/feed/"
+  },
+  "synkar": {
+    "feed": "https://read.synkar.org/feed/?type=rss"
+  },
+  "sysctl": {
+    "feed": "https://winther.sysctl.dk/atom/"
+  },
+  "systanddeploy": {
+    "feed": "https://www.systanddeploy.com/feeds/posts/default"
+  },
+  "szcz": {
+    "feed": "https://www.szcz.org/feed.xml"
+  },
+  "ta": {
+    "feed": "https://ta.fo/atom/"
+  },
+  "tacit": {
+    "feed": "https://tacit.livejournal.com/data/rss"
+  },
+  "taint": {
+    "feed": "https://taint.org/feed"
+  },
+  "talesoftimesforgotten": {
+    "feed": "https://talesoftimesforgotten.com/feed/"
+  },
+  "tannr": {
+    "feed": "https://www.tannr.com/feed/"
+  },
+  "taptappers": {
+    "feed": "https://rounak.taptappers.club/rss.xml"
+  },
+  "tarah": {
+    "feed": "https://www.tarah.org/feed/"
+  },
+  "tarrio": {
+    "feed": "https://jacobo.tarrio.org/rss/gl.xml"
+  },
+  "taupecat": {
+    "feed": "https://taupecat.com/feed/"
+  },
+  "tawhairangi": {
+    "feed": "https://tawhairangi.bearblog.dev/feed/"
+  },
+  "taylordrew": {
+    "feed": "https://taylordrew.me/atom/"
+  },
+  "taylormarsh": {
+    "feed": "https://taylormarsh.com/feed/"
+  },
+  "tc3_dev": {
+    "feed": "https://tc3.dev/index.xml"
+  },
+  "tea-diary": {
+    "feed": "https://tea-diary.bearblog.dev/feed/"
+  },
+  "team-europe": {
+    "feed": "https://team-europe.blogspot.com/feeds/posts/default"
+  },
+  "team-us": {
+    "feed": "https://reflections.team-us.org/rss.xml"
+  },
+  "tech_dirkjonker": {
+    "feed": "https://tech.dirkjonker.nl/feed/"
+  },
+  "techaccelerationandresilience": {
+    "feed": "https://techaccelerationandresilience.com/blog-posts?format=rss"
+  },
+  "techaddo": {
+    "feed": "https://techaddo.com/feed.xml"
+  },
+  "techbit": {
+    "feed": "https://techbit.ca/index.xml"
+  },
+  "technollama": {
+    "feed": "https://www.technollama.co.uk/feed"
+  },
+  "technologizer": {
+    "feed": "https://technologizer.com/home/feed/atom/"
+  },
+  "teknogeek": {
+    "feed": "https://blog.teknogeek.io/index.xml"
+  },
+  "telecomsinfrastructure": {
+    "feed": "https://www.telecomsinfrastructure.com/feeds/posts/default"
+  },
+  "telnetbbsguide": {
+    "feed": "https://www.telnetbbsguide.com/feed/"
+  },
+  "tendingoaks": {
+    "feed": "https://www.tendingoaks.com/atom/"
+  },
+  "tenwatts": {
+    "feed": "https://tenwatts.blogspot.com/feeds/posts/default"
+  },
+  "terfi": {
+    "feed": "https://terfi.fyi/rss.xml"
+  },
+  "termina": {
+    "feed": "https://termina.li/atom/"
+  },
+  "terminallucidity": {
+    "feed": "https://terminallucidity.net/feed/"
+  },
+  "terriblemaps": {
+    "feed": "https://terriblemaps.co.uk/feed/"
+  },
+  "tessajhill": {
+    "feed": "https://tessajhill.com/feed/"
+  },
+  "textby": {
+    "feed": "https://textby.me/atom/"
+  },
+  "thakeechowdhury": {
+    "feed": "https://thakeechowdhury.xyz/feed/"
+  },
+  "thanlont": {
+    "feed": "https://thanlont.blogspot.com/feeds/posts/default"
+  },
+  "tharropoulos": {
+    "feed": "https://www.tharropoulos.dev/blog/rss.xml"
+  },
+  "the-chihuahua": {
+    "feed": "https://the-chihuahua.co.uk/feed.xml"
+  },
+  "the-niceguy": {
+    "feed": "http://www.the-niceguy.com/rss.xml"
+  },
+  "the-solar-system-diaries": {
+    "feed": "https://the-solar-system-diaries.bearblog.dev/feed/"
+  },
+  "the-typing-pool": {
+    "feed": "https://the-typing-pool.com/feed/"
+  },
+  "theafricancriminologyjournal": {
+    "feed": "https://theafricancriminologyjournal.wordpress.com/feed/"
+  },
+  "theambertrap": {
+    "feed": "https://theambertrap.org/feed/"
+  },
+  "theashesofphoenix": {
+    "feed": "https://theashesofphoenix.com/atom/"
+  },
+  "theburningmonk": {
+    "feed": "https://theburningmonk.com/feed/"
+  },
+  "thecampvs": {
+    "feed": "https://thecampvs.com/feed/"
+  },
+  "thecrushedviolet": {
+    "feed": "https://blog.thecrushedviolet.kitchen/feed/?type=rss"
+  },
+  "thecsillags": {
+    "feed": "https://drew.thecsillags.com/index.xml"
+  },
+  "thedansimonson": {
+    "feed": "https://blog.thedansimonson.com/feed/"
+  },
+  "theemptycart": {
+    "feed": "https://theemptycart.com/feed/"
+  },
+  "thefluidsociety": {
+    "feed": "https://thefluidsociety.com/en/feed/"
+  },
+  "thefrugalgamer": {
+    "feed": "https://www.thefrugalgamer.net/blog/feed/"
+  },
+  "thefuckwitgazette": {
+    "feed": "https://thefuckwitgazette.bearblog.dev/feed/"
+  },
+  "theglen": {
+    "feed": "https://theglen.livejournal.com/data/atom"
+  },
+  "thegogglesdonothing": {
+    "feed": "https://thegogglesdonothing.com/atom.xml"
+  },
+  "thegreatrecession": {
+    "feed": "https://thegreatrecession.info/feed.xml"
+  },
+  "thehourisblue_com": {
+    "feed": "https://thehourisblue.com/feed/"
+  },
+  "theinvisiblementor": {
+    "feed": "https://theinvisiblementor.com/feed/"
+  },
+  "theiqrafiles": {
+    "feed": "https://theiqrafiles.bearblog.dev/feed/"
+  },
+  "thelonebard": {
+    "feed": "https://thelonebard.com/feed/"
+  },
+  "themindcollection": {
+    "feed": "https://themindcollection.com/feed/"
+  },
+  "themixreview": {
+    "feed": "https://themixreview.org/reviews/index.xml"
+  },
+  "themosaicfingerprint": {
+    "feed": "https://www.themosaicfingerprint.com/feed/"
+  },
+  "thenandnow": {
+    "feed": "https://www.thenandnow.co/feed/"
+  },
+  "thenerdybird": {
+    "feed": "https://thenerdybird.com/feed/atom/"
+  },
+  "thenichevo": {
+    "feed": "https://thenichevo.com/feed/"
+  },
+  "theninhotline": {
+    "feed": "https://www.theninhotline.com/news/4fb.xml"
+  },
+  "theonemancompany": {
+    "feed": "https://theonemancompany.com/feed.xml"
+  },
+  "theorangeone": {
+    "feed": "https://theorangeone.net/feeds/all/"
+  },
+  "theotherlinh": {
+    "feed": "https://theotherlinh.com/atom/"
+  },
+  "theothermccain": {
+    "feed": "https://theothermccain.com/feed/"
+  },
+  "theramblersroute": {
+    "feed": "https://www.theramblersroute.com/?format=rss"
+  },
+  "therealsamizdat": {
+    "feed": "https://therealsamizdat.com/feed/"
+  },
+  "theripplesguy": {
+    "feed": "https://theripplesguy.com/feed/"
+  },
+  "therivertao": {
+    "feed": "https://www.therivertao.com/feed.xml"
+  },
+  "thesecondfactor": {
+    "feed": "https://thesecondfactor.com/feed/"
+  },
+  "theshapeofamother": {
+    "feed": "https://theshapeofamother.com/feed/"
+  },
+  "thetemplarknight": {
+    "feed": "https://thetemplarknight.com/feed/"
+  },
+  "thethiefsheir": {
+    "feed": "https://thethiefsheir.com/blog/rss/"
+  },
+  "thetrackahead": {
+    "feed": "https://thetrackahead.com/feed/"
+  },
+  "theuntourists": {
+    "feed": "https://www.theuntourists.com/feed/"
+  },
+  "theusualtongues": {
+    "feed": "https://theusualtongues.com/feed/"
+  },
+  "theviennasecession": {
+    "feed": "https://www.theviennasecession.com/feed/"
+  },
+  "thewarmvoid": {
+    "feed": "https://thewarmvoid.cc/feed/"
+  },
+  "thewolfsound": {
+    "feed": "https://thewolfsound.com/feed.xml"
+  },
+  "thewrenhaus": {
+    "feed": "https://thewrenhaus.art/atom/"
+  },
+  "thingle": {
+    "feed": "https://thingle.online/posts_feed"
+  },
+  "thingspool": {
+    "feed": "https://thingspool.net/feed.atom"
+  },
+  "thinkering": {
+    "feed": "https://thinkering.blog/atom/"
+  },
+  "thinkidiot": {
+    "feed": "https://thinkidiot.com/feed"
+  },
+  "thisfatfunnylife": {
+    "feed": "https://thisfatfunnylife.wordpress.com/feed/"
+  },
+  "thisisamusing": {
+    "feed": "https://thisisamusing.com/feed/"
+  },
+  "thisistheremix": {
+    "feed": "https://thisistheremix.dev/index.xml"
+  },
+  "thomasflight": {
+    "feed": "https://thomasflight.com/rss.xml"
+  },
+  "thomasharpole": {
+    "feed": "https://thomasharpole.com/atom/"
+  },
+  "thomaspurves": {
+    "feed": "https://www.thomaspurves.com/feed/"
+  },
+  "thomasvn": {
+    "feed": "https://thomasvn.dev/feed/"
+  },
+  "thoughtinvest": {
+    "feed": "https://blog.thoughtinvest.com/index.xml"
+  },
+  "thoughts_pivic": {
+    "feed": "https://thoughts.pivic.com/feed/"
+  },
+  "thoward37_me": {
+    "feed": "https://thoward37.me/blog/atom.xml"
+  },
+  "tijmenschep": {
+    "feed": "https://www.tijmenschep.com/feed/"
+  },
+  "tillystranstuesdays": {
+    "feed": "https://www.tillystranstuesdays.com/feed/atom/"
+  },
+  "timhayes": {
+    "feed": "https://timhayes.net/feed/"
+  },
+  "timlawrenceportfolio": {
+    "feed": "https://www.timlawrenceportfolio.com/atom/"
+  },
+  "timmeey": {
+    "feed": "https://blog.timmeey.de/feed.xml"
+  },
+  "timothyjohnsonsci": {
+    "feed": "https://timothyjohnsonsci.com/rss.xml"
+  },
+  "tinkerdwarf_com": {
+    "feed": "https://tinkerdwarf.com/feed/"
+  },
+  "tinytip": {
+    "feed": "https://tinytip.co/feed.xml"
+  },
+  "tismlens": {
+    "feed": "https://tismlens.net/feed/"
+  },
+  "tmoabom": {
+    "feed": "https://tmoabom.blog/?feed=rss2"
+  },
+  "tobin": {
+    "feed": "https://tobin.cc/blog/index.xml"
+  },
+  "tokleine": {
+    "feed": "https://tokleine.de/feed/"
+  },
+  "tolkunov": {
+    "feed": "https://tolkunov.dev/index.xml"
+  },
+  "tomasp": {
+    "feed": "https://tomasp.net/rss.xml"
+  },
+  "tomasvemola": {
+    "feed": "https://tomasvemola.com/feed/"
+  },
+  "tommasocroce": {
+    "feed": "https://tommasocroce.eu/atom/"
+  },
+  "tomorrowmakers": {
+    "feed": "https://tomorrowmakers.org/journal?format=rss"
+  },
+  "tonologue_tonytriesstuff": {
+    "feed": "https://tonologue.tonytriesstuff.com/feed/"
+  },
+  "tonycolston": {
+    "feed": "https://tonycolston.com/feed/"
+  },
+  "topfunky": {
+    "feed": "https://topfunky.com/index.xml"
+  },
+  "topslakr": {
+    "feed": "https://topslakr.com/feed/"
+  },
+  "touchton": {
+    "feed": "https://touchton.xyz/feed/?type=rss"
+  },
+  "tracelate": {
+    "feed": "https://tracelate.xyz/feed/"
+  },
+  "travelingtomas": {
+    "feed": "https://travelingtomas.com/feed/"
+  },
+  "travelwithawiseguy": {
+    "feed": "https://www.travelwithawiseguy.com/blog-feed.xml"
+  },
+  "trialandfailure": {
+    "feed": "https://trialandfailure.net/feed/"
+  },
+  "tricia": {
+    "feed": "https://www.tricia.me/feed/"
+  },
+  "trickjarrett": {
+    "feed": "https://www.trickjarrett.com/feed.rss"
+  },
+  "triestequantumregister": {
+    "feed": "https://triestequantumregister.wordpress.com/feed/"
+  },
+  "tripton": {
+    "feed": "https://blog.tripton.dev/feed/"
+  },
+  "troid": {
+    "feed": "https://blog.troid.tech/feed/"
+  },
+  "truancywriting": {
+    "feed": "https://truancywriting.com/atom/"
+  },
+  "trvgrn": {
+    "feed": "https://blog2.trvgrn.com/feed/"
+  },
+  "tsiro": {
+    "feed": "https://tsiro.net/atom/"
+  },
+  "ttfuture": {
+    "feed": "https://ttfuture.org/feed/"
+  },
+  "tugbakibar": {
+    "feed": "https://tugbakibar.pro/atom/"
+  },
+  "tuppenceforstardust": {
+    "feed": "https://tuppenceforstardust.spiderforest.com/comic/rss?id=1"
+  },
+  "tuxthink": {
+    "feed": "https://tuxthink.blogspot.com/feeds/posts/default"
+  },
+  "twigstechtips": {
+    "feed": "https://twigstechtips.blogspot.com/feeds/posts/default"
+  },
+  "twirlingbookprincess": {
+    "feed": "https://twirlingbookprincess.com/feed/"
+  },
+  "twoforksandapassport": {
+    "feed": "https://www.twoforksandapassport.com/feed/"
+  },
+  "txtbased": {
+    "feed": "https://txtbased.media/feed.xml"
+  },
+  "tylerdiv": {
+    "feed": "https://tylerdiv.com/feed/"
+  },
+  "tylerelton": {
+    "feed": "https://tylerelton.com/index.xml"
+  },
+  "type": {
+    "feed": "https://type.lol/studies.rss"
+  },
+  "typeonce": {
+    "feed": "https://www.typeonce.dev/feed.xml"
+  },
+  "typewritermechanic": {
+    "feed": "https://blog.typewritermechanic.com/feed/"
+  },
+  "uchenml": {
+    "feed": "https://uchenml.tech/rss.xml"
+  },
+  "ugurkoysuren": {
+    "feed": "https://ugurkoysuren.com/atom/"
+  },
+  "ulrichkautz": {
+    "feed": "https://ulrichkautz.com/index.xml"
+  },
+  "ultrasciencelabs": {
+    "feed": "https://ultrasciencelabs.com/feed/page:feed.xml"
+  },
+  "unabridgedstories": {
+    "feed": "https://unabridgedstories.com/feed/"
+  },
+  "unbuffered": {
+    "feed": "https://unbuffered.stream/atom/"
+  },
+  "uncarved": {
+    "feed": "http://www.uncarved.org/blog/feed/"
+  },
+  "unclogmymind": {
+    "feed": "https://unclogmymind.bearblog.dev/feed/"
+  },
+  "underpantsandoverbites": {
+    "feed": "https://underpantsandoverbites.com/feed/"
+  },
+  "understandingbibleprophecy": {
+    "feed": "https://www.understandingbibleprophecy.org/feed/"
+  },
+  "unexpected": {
+    "feed": "https://unexpected.quest/atom/"
+  },
+  "unlimitedpastimes": {
+    "feed": "https://blog.unlimitedpastimes.com/atom/"
+  },
+  "unremarkable_website": {
+    "feed": "https://unremarkable.website/feed/"
+  },
+  "untitledoperator": {
+    "feed": "https://blog.untitledoperator.com/feed/"
+  },
+  "urbanexile": {
+    "feed": "https://www.urbanexile.net/feed/"
+  },
+  "utopiaslab": {
+    "feed": "https://www.utopiaslab.space/atom/"
+  },
+  "utpalmv": {
+    "feed": "https://utpalmv.com/feed.xml"
+  },
+  "uzasne_com": {
+    "feed": "https://uzasne.com/atom/"
+  },
+  "v0": {
+    "feed": "https://blog.v0.net/rss/"
+  },
+  "vahetorozyan": {
+    "feed": "https://vahetorozyan.com/feed/"
+  },
+  "valdes": {
+    "feed": "https://valdes.cc/feed.xml"
+  },
+  "valerialoves": {
+    "feed": "https://www.valerialoves.com/atom/"
+  },
+  "valleyecon": {
+    "feed": "https://valleyecon.blogspot.com/feeds/posts/default"
+  },
+  "vampirefriday": {
+    "feed": "https://blog.vampirefriday.org/posts/index.xml"
+  },
+  "vandaandeddie": {
+    "feed": "https://vandaandeddie.uk/feed/"
+  },
+  "vanderheide": {
+    "feed": "http://vanderheide.ca/blog/feed/"
+  },
+  "vaniea": {
+    "feed": "https://vaniea.com/index.xml"
+  },
+  "vantagepointnorth": {
+    "feed": "https://blog.vantagepointnorth.net/feeds/posts/default"
+  },
+  "vantezzen_io": {
+    "feed": "https://vantezzen.io/blog/feed.xml"
+  },
+  "variart": {
+    "feed": "https://variart.io/blog/atom.xml"
+  },
+  "varunwrites": {
+    "feed": "https://varunwrites.com/feed/"
+  },
+  "vasilishynkarenka": {
+    "feed": "https://vasilishynkarenka.com/rss/"
+  },
+  "vato": {
+    "feed": "https://vato.yt/feed/"
+  },
+  "vaudevillegho": {
+    "feed": "https://www.vaudevillegho.st/atom/"
+  },
+  "ve7sl": {
+    "feed": "https://ve7sl.blogspot.com/feeds/posts/default"
+  },
+  "vedantsingla": {
+    "feed": "https://vedantsingla.com/feed/"
+  },
+  "velominati": {
+    "feed": "https://www.velominati.com/feed/"
+  },
+  "velvetdispatch": {
+    "feed": "https://velvetdispatch.com/feed/"
+  },
+  "verber": {
+    "feed": "https://verber.com/feed/"
+  },
+  "verja": {
+    "feed": "https://widdershins.verja.net/feed/"
+  },
+  "veronique": {
+    "feed": "https://veronique.ink/feed/"
+  },
+  "versionsoftruth": {
+    "feed": "https://versionsoftruth.blog/feed/"
+  },
+  "verynicewebsite": {
+    "feed": "http://verynicewebsite.net/feed/atom/"
+  },
+  "veryserious": {
+    "feed": "https://research.veryserious.systems/rss/"
+  },
+  "vianegativa": {
+    "feed": "https://www.vianegativa.us/feed/"
+  },
+  "vicente": {
+    "feed": "https://vicente.services/feed.xml"
+  },
+  "vickiboykis": {
+    "feed": "https://vickiboykis.com/index.xml"
+  },
+  "vics_bearblog": {
+    "feed": "https://vics.bearblog.dev/feed/?type=rss"
+  },
+  "victorianeely": {
+    "feed": "https://victorianeely.com/atom/"
+  },
+  "victorpoughon": {
+    "feed": "https://victorpoughon.fr/feed/?type=rss"
+  },
+  "vigaroeentertainment": {
+    "feed": "https://vigaroeentertainment.blogspot.com/feeds/posts/default"
+  },
+  "viimeinen": {
+    "feed": "https://viimeinen.com/feed/"
+  },
+  "vikramtech": {
+    "feed": "https://vikramtech.cc/feed/"
+  },
+  "vinayiyengar": {
+    "feed": "https://www.vinayiyengar.com/rss.xml"
+  },
+  "vinceblog": {
+    "feed": "https://vinceblog.net/atom/"
+  },
+  "vinckr": {
+    "feed": "https://vinckr.com/feed.xml"
+  },
+  "virtuallyjason": {
+    "feed": "https://virtuallyjason.blogspot.com/feeds/posts/default"
+  },
+  "visaint": {
+    "feed": "https://notes.visaint.space/atom/"
+  },
+  "visualmode": {
+    "feed": "https://still.visualmode.dev/blogmarks.atom"
+  },
+  "vivapowerpc": {
+    "feed": "https://vivapowerpc.eu/blog-rss.xml"
+  },
+  "vlad_build": {
+    "feed": "https://vlad.build/feed/"
+  },
+  "vmfunc_gg": {
+    "feed": "https://vmfunc.gg/rss.xml"
+  },
+  "vorefamily": {
+    "feed": "https://steven.vorefamily.net/feed/"
+  },
+  "vshenoy": {
+    "feed": "https://vshenoy.com/atom/"
+  },
+  "vulpine": {
+    "feed": "https://vulpine.zone/blog/feed.xml"
+  },
+  "vuptime": {
+    "feed": "https://vuptime.io/feed.xml"
+  },
+  "wabisabianon": {
+    "feed": "https://wabisabianon.space/atom/"
+  },
+  "walford": {
+    "feed": "https://walford.com/feed/"
+  },
+  "wanpengtan": {
+    "feed": "https://www.wanpengtan.com/feed/"
+  },
+  "warlock": {
+    "feed": "https://warlock.ai/feed.xml"
+  },
+  "warrensbox": {
+    "feed": "https://warrensbox.com/rss/"
+  },
+  "wasatchweatherweenies": {
+    "feed": "https://wasatchweatherweenies.blogspot.com/feeds/posts/default"
+  },
+  "washingtonpost_com": {
+    "feed": "https://feeds.washingtonpost.com/rss/world"
+  },
+  "wastelandandsky": {
+    "feed": "https://wastelandandsky.blogspot.com/feeds/posts/default"
+  },
+  "wayansatya": {
+    "feed": "https://wayansatya.com/feed/"
+  },
+  "waynehoover": {
+    "feed": "https://waynehoover.com/rss.xml"
+  },
+  "webknjaz": {
+    "feed": "https://webknjaz.me/feed.xml"
+  },
+  "webofmike": {
+    "feed": "https://webofmike.com/index.xml"
+  },
+  "webwizwork": {
+    "feed": "https://www.webwizwork.com/feed/"
+  },
+  "wesbos": {
+    "feed": "https://wesbos.com/rss.xml"
+  },
+  "wfl": {
+    "feed": "https://garden.wfl.space/feed/"
+  },
+  "whatdoineed2do": {
+    "feed": "https://whatdoineed2do.blogspot.com/feeds/posts/default"
+  },
+  "whatsalanwatching": {
+    "feed": "https://www.whatsalanwatching.com/rss/"
+  },
+  "whatsnewell": {
+    "feed": "https://whatsnewell.blogspot.com/feeds/posts/default"
+  },
+  "whatstevedid": {
+    "feed": "https://whatstevedid.com/atom/"
+  },
+  "whatwasithinking_co_uk": {
+    "feed": "https://www.whatwasithinking.co.uk/feed/"
+  },
+  "whizzyideas": {
+    "feed": "https://blog.whizzyideas.com/atom/"
+  },
+  "whoisthisjoker": {
+    "feed": "https://www.whoisthisjoker.com/post/index.xml"
+  },
+  "whygodwhy": {
+    "feed": "https://whygodwhy.com/feed/"
+  },
+  "willdiglife": {
+    "feed": "https://www.willdiglife.net/feed/"
+  },
+  "williammartin": {
+    "feed": "https://blog.williammartin.dev/feed/"
+  },
+  "willmcgugan_com": {
+    "feed": "https://willmcgugan.com/index.xml"
+  },
+  "windfluechter": {
+    "feed": "https://blog.windfluechter.net/feed/"
+  },
+  "windowsir": {
+    "feed": "https://windowsir.blogspot.com/feeds/posts/default"
+  },
+  "winsonshuen": {
+    "feed": "https://winsonshuen.com/atom.xml"
+  },
+  "winstonhearn": {
+    "feed": "https://www.winstonhearn.com/index.xml"
+  },
+  "winstonlee": {
+    "feed": "https://winstonlee.org/feed/"
+  },
+  "wiredformusic": {
+    "feed": "https://wiredformusic.blogspot.com/feeds/posts/default"
+  },
+  "wmprkr": {
+    "feed": "https://www.wmprkr.xyz/atom/"
+  },
+  "wohoef": {
+    "feed": "https://wohoef.github.io/posts/index.xml"
+  },
+  "womanyellsat": {
+    "feed": "https://womanyellsat.cloud/feed/"
+  },
+  "wonderfuleve": {
+    "feed": "https://wonderfuleve.xyz/feed/"
+  },
+  "wonderfullynothing": {
+    "feed": "https://www.wonderfullynothing.com/blog-feed.xml"
+  },
+  "wondermark": {
+    "feed": "https://wondermark.com/feed/"
+  },
+  "workflows-of-ai": {
+    "feed": "https://workflows-of-ai.com/rss.xml"
+  },
+  "wrestlingdoubt": {
+    "feed": "https://wrestlingdoubt.com/feed/"
+  },
+  "wridgeu": {
+    "feed": "https://wridgeu.com/feed/?type=rss"
+  },
+  "wrightperspective": {
+    "feed": "https://wrightperspective.net/feed.xml"
+  },
+  "wtfleming": {
+    "feed": "https://wtfleming.github.io/rss.xml"
+  },
+  "wtl": {
+    "feed": "https://www.wtl.land/feed/"
+  },
+  "wyldcard": {
+    "feed": "https://www.wyldcard.io/rss.xml"
+  },
+  "xandra": {
+    "feed": "https://library.xandra.cc/feed/"
+  },
+  "xavierroy": {
+    "feed": "https://xavierroy.com/feed/"
+  },
+  "xed_bearblog": {
+    "feed": "https://xed.bearblog.dev/feed/"
+  },
+  "xenokraft": {
+    "feed": "https://xenokraft.com/feed/?type=rss"
+  },
+  "xfe": {
+    "feed": "https://blog.xfe.li/atom/"
+  },
+  "xice": {
+    "feed": "https://xice.cx/en/atom.xml"
+  },
+  "xinjie-shen": {
+    "feed": "https://xinjie-shen.com/post/index.xml"
+  },
+  "xkeeper": {
+    "feed": "https://blog.xkeeper.net/feed/"
+  },
+  "yad": {
+    "feed": "https://rl.yad.codes/feed.xml"
+  },
+  "yadavan88": {
+    "feed": "https://yadavan88.github.io/rss.xml"
+  },
+  "yafgc": {
+    "feed": "https://www.yafgc.net/feed/"
+  },
+  "yaros": {
+    "feed": "https://blog.yaros.ae/atom/"
+  },
+  "yasmeenfahmy": {
+    "feed": "https://yasmeenfahmy.com/atom/"
+  },
+  "yay": {
+    "feed": "https://oh.yay.computer/feed/"
+  },
+  "yeldar_org": {
+    "feed": "https://yeldar.org/tags/directflow/feed.xml"
+  },
+  "yilmazkiymaz": {
+    "feed": "https://yilmazkiymaz.com/rss.xml"
+  },
+  "yodaiken": {
+    "feed": "https://www.yodaiken.com/feed/"
+  },
+  "younglogic": {
+    "feed": "https://adam.younglogic.com/feed/"
+  },
+  "ysebie": {
+    "feed": "https://guust.ysebie.be/feed.xml"
+  },
+  "yudhister": {
+    "feed": "https://www.yudhister.me/atom.xml"
+  },
+  "z1x": {
+    "feed": "https://z1x.us/rss.xml"
+  },
+  "zachary": {
+    "feed": "https://zachary.com/feed/"
+  },
+  "zachy": {
+    "feed": "https://blog.zachy.dev/feed.xml"
+  },
+  "zackdan": {
+    "feed": "https://www.zackdan.com/feed/"
+  },
+  "zaitcev": {
+    "feed": "https://zaitcev.livejournal.com/data/rss"
+  },
+  "zanno": {
+    "feed": "https://zanno.se/feed/"
+  },
+  "zapatopi": {
+    "feed": "https://zapatopi.net/blog/rss.xml"
+  },
+  "zhukovskyi": {
+    "feed": "https://zhukovskyi.space/blog/feed.xml"
+  },
+  "zinnia-os": {
+    "feed": "https://zinnia-os.org/blog/atom.xml"
+  },
+  "zmh": {
+    "feed": "https://zmh.org/feed/?staatic_crawl=1"
+  },
+  "zodiacrevisited": {
+    "feed": "https://zodiacrevisited.com/feed/"
+  },
+  "zortax": {
+    "feed": "https://blog.zortax.de/feed.xml"
+  },
+  "zxq9": {
+    "feed": "https://zxq9.com/feed"
+  },
+  "zytkow": {
+    "feed": "https://zytkow.ski/feed/"
+  },
+  "zyzmog": {
+    "feed": "https://zyzmog.blogspot.com/feeds/posts/default"
+  }
+}
