@@ -343,11 +343,11 @@
     "rss-bridge": {
       "flake": false,
       "locked": {
-        "lastModified": 1795490216,
-        "narHash": "sha256-8k5ZEC/TTNcE6OKCkSPCIbKouki44p1gWgKaa7LldSw=",
+        "lastModified": 1795595517,
+        "narHash": "sha256-qYA7l+XeoY1eUZk3hi3oY5UthYf+3j+idxMqJpyJ09c=",
         "owner": "RSS-Bridge",
         "repo": "rss-bridge",
-        "rev": "67b7a3d840daeb80258960d1004d5d6d1c882091",
+        "rev": "beb20b0fd08674cc9750042b7ac2c0ae290b04ee",
         "type": "github"
       },
       "original": {
